@@ -13,7 +13,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 11,12,Costa Rica,Latin America and Caribbean,7.226,0.95578,1.23788,0.86027,0.63376,0.10583,0.25497,2015
 12,13,Austria,Western Europe,7.2,1.33723,1.29704,0.89042,0.62433,0.18676,0.33088,2015
 13,14,Mexico,Latin America and Caribbean,7.187,1.02054,0.91451,0.81444,0.48181,0.21312,0.14074,2015
-14,15,United States,North America,7.119,1.39451,1.24711,0.86179,0.54604,0.1589,0.40105,2015
+14,15,United States of America,North America,7.119,1.39451,1.24711,0.86179,0.54604,0.1589,0.40105,2015
 15,16,Brazil,Latin America and Caribbean,6.983,0.98124,1.23287,0.69702,0.49049,0.17521,0.14574,2015
 16,17,Luxembourg,Western Europe,6.946,1.56391,1.21963,0.91894,0.61583,0.37798,0.28034,2015
 17,18,Ireland,Western Europe,6.94,1.33596,1.36948,0.89533,0.61777,0.28703,0.45901,2015
@@ -169,7 +169,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 9,10,Sweden,Western Europe,7.291,1.45181,1.08764,0.83121,0.58218,0.40867,0.38254,2016
 10,11,Israel,Middle East and Northern Africa,7.267,1.33766,0.99537,0.84917,0.36432,0.08728,0.32288,2016
 11,12,Austria,Western Europe,7.119,1.45038,1.08383,0.80565,0.54355,0.21348,0.32865,2016
-12,13,United States,North America,7.104,1.50796,1.04782,0.779,0.48163,0.14868,0.41077,2016
+12,13,United States of America,North America,7.104,1.50796,1.04782,0.779,0.48163,0.14868,0.41077,2016
 13,14,Costa Rica,Latin America and Caribbean,7.087,1.06879,1.02152,0.76146,0.55225,0.10547,0.22553,2016
 14,15,Puerto Rico,Latin America and Caribbean,7.039,1.35943,1.08113,0.77758,0.46823,0.12275,0.22202,2016
 15,16,Germany,Western Europe,6.994,1.44787,1.09774,0.81487,0.53466,0.28551,0.30452,2016
@@ -327,7 +327,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 10,11,Israel,Middle East and Northern Africa,7.212999821,1.375382423,1.376289964,0.838404,0.405988604,0.0852421,0.330082655,2017
 11,12,Costa Rica,Latin America and Caribbean,7.078999996,1.109706283,1.416403651,0.759509265,0.58013165,0.100106589,0.214613229,2017
 12,13,Austria,Western Europe,7.006000042,1.487097263,1.459944963,0.815328419,0.56776619,0.221060365,0.316472322,2017
-13,14,United States,North America,6.993000031,1.546259284,1.419920564,0.774286628,0.505740523,0.135638788,0.392578781,2017
+13,14,United States of America,North America,6.993000031,1.546259284,1.419920564,0.774286628,0.505740523,0.135638788,0.392578781,2017
 14,15,Ireland,Western Europe,6.977000237,1.535706639,1.558231115,0.809782624,0.573110342,0.298388153,0.427858323,2017
 15,16,Germany,Western Europe,6.951000214,1.487923384,1.472520351,0.798950732,0.562511384,0.276731938,0.33626917,2017
 16,17,Belgium,Western Europe,6.890999794,1.463780761,1.462312698,0.818091869,0.539770722,0.251343131,0.231503338,2017
@@ -486,7 +486,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 14,15,Germany,Western Europe,6.965,1.34,1.474,0.861,0.586,0.28,0.273,2018
 15,16,Belgium,Western Europe,6.927,1.324,1.483,0.894,0.583,0.24,0.188,2018
 16,17,Luxembourg,Western Europe,6.91,1.576,1.52,0.896,0.632,0.321,0.196,2018
-17,18,United States,North America,6.886,1.398,1.471,0.819,0.547,0.133,0.291,2018
+17,18,United States of America,North America,6.886,1.398,1.471,0.819,0.547,0.133,0.291,2018
 18,19,Israel,Middle East and Northern Africa,6.814,1.301,1.559,0.883,0.533,0.272,0.354,2018
 20,21,Czech Republic,Central and Eastern Europe,6.711,1.233,1.489,0.854,0.543,0.034,0.064,2018
 21,22,Malta,Western Europe,6.627,1.27,1.525,0.884,0.645,0.142,0.376,2018
@@ -642,7 +642,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 15,16,Ireland,Western Europe,7.021,1.499,1.553,0.999,0.516,0.31,0.298,2019
 16,17,Germany,Western Europe,6.985,1.373,1.454,0.987,0.495,0.265,0.261,2019
 17,18,Belgium,Western Europe,6.923,1.356,1.504,0.986,0.473,0.21,0.16,2019
-18,19,United States,North America,6.892,1.433,1.457,0.874,0.454,0.128,0.28,2019
+18,19,United States of America,North America,6.892,1.433,1.457,0.874,0.454,0.128,0.28,2019
 19,20,Czech Republic,Central and Eastern Europe,6.852,1.269,1.487,0.92,0.457,0.036,0.046,2019
 20,21,United Arab Emirates,Middle East and Northern Africa,6.825,1.503,1.31,0.825,0.598,0.182,0.262,2019
 21,22,Malta,Western Europe,6.726,1.3,1.52,0.999,0.564,0.151,0.375,2019
@@ -797,7 +797,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 14,15,Costa Rica,Latin America and Caribbean,7.121399879,0.981107712,1.374853611,0.939635336,0.645017743,0.096362092,0.131266311,2020
 15,16,Ireland,Western Europe,7.093699932,1.446886778,1.470596433,0.975670695,0.587779939,0.373433262,0.295426995,2020
 16,17,Germany,Western Europe,7.075799942,1.314184546,1.368543744,0.972114801,0.564274132,0.309362292,0.252037704,2020
-17,18,United States,North America and ANZ,6.939599991,1.37398684,1.404786706,0.831618011,0.534608245,0.152284741,0.298143059,2020
+17,18,United States of America,North America and ANZ,6.939599991,1.37398684,1.404786706,0.831618011,0.534608245,0.152284741,0.298143059,2020
 18,19,Czech Republic,Central and Eastern Europe,6.910900116,1.212322354,1.40528667,0.89456445,0.505744576,0.049803223,0.046325929,2020
 19,20,Belgium,Western Europe,6.863500118,1.295842767,1.398677588,0.964901149,0.499805421,0.208724052,0.146966159,2020
 20,21,United Arab Emirates,Middle East and North Africa,6.790800095,1.431086421,1.251170993,0.787814438,0.652936101,0.220213518,0.28065598,2020
@@ -951,7 +951,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 15,16,Costa Rica,Latin America and Caribbean,7.069,1.134,0.966,0.722,0.673,0.083,0.105,2021
 16,17,United Kingdom,Western Europe,7.064,1.423,1.062,0.757,0.58,0.306,0.34,2021
 17,18,Czech Republic,Central and Eastern Europe,6.965,1.37,1.09,0.703,0.58,0.046,0.052,2021
-18,19,United States,North America and ANZ,6.951,1.533,1.03,0.621,0.554,0.154,0.252,2021
+18,19,United States of America,North America and ANZ,6.951,1.533,1.03,0.621,0.554,0.154,0.252,2021
 19,20,Belgium,Western Europe,6.834,1.463,0.998,0.747,0.489,0.187,0.088,2021
 20,21,France,Western Europe,6.69,1.421,1.081,0.804,0.536,0.235,0.092,2021
 21,22,Bahrain,Middle East and North Africa,6.647,1.409,0.899,0.662,0.661,0.139,0.246,2021
@@ -1097,7 +1097,7 @@ row,Happiness_Rank,Country,Region,Happiness_Score,GDP_per_Capita,Family_(Social_
 12,13,Ireland,Western Europe,"7,041","2,129","1,166","0,779","0,627","0,408","0,190",2022
 13,14,Germany,Western Europe,"7,034","1,924","1,088","0,776","0,585","0,358","0,163",2022
 14,15,Canada,North America,"7,025","1,886","1,188","0,783","0,659","0,368","0,217",2022
-15,16,United States,North America,"6,977","1,982","1,182","0,628","0,574","0,177","0,220",2022
+15,16,United States of America,North America,"6,977","1,982","1,182","0,628","0,574","0,177","0,220",2022
 16,17,United Kingdom,Western Europe,"6,943","1,867","1,143","0,750","0,597","0,329","0,289",2022
 17,18,Czechia,-,"6,920","1,815","1,260","0,715","0,660","0,048","0,158",2022
 18,19,Belgium,Western Europe,"6,805","1,907","1,106","0,764","0,492","0,204","0,049",2022
