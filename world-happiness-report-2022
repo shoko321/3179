@@ -1,442 +1,442 @@
 Country,Key,Value
-Finland,GDP_per_Capita,0.8564961521050248
-Denmark,GDP_per_Capita,0.8841104572204618
-Iceland,GDP_per_Capita,0.876414667270258
-Switzerland,GDP_per_Capita,0.9171570846536893
-Netherlands,GDP_per_Capita,0.8804889090086011
-Luxembourg,GDP_per_Capita,1.0
-Sweden,GDP_per_Capita,0.8691715708465368
-Norway,GDP_per_Capita,0.9040289723856949
-Israel,GDP_per_Capita,0.8266183793571752
-New Zealand,GDP_per_Capita,0.838388411045722
-Austria,GDP_per_Capita,0.8741511996378452
-Australia,GDP_per_Capita,0.8601177003168854
-Ireland,GDP_per_Capita,0.9637845178813943
-Germany,GDP_per_Capita,0.8709823449524671
-Canada,GDP_per_Capita,0.8537799909461293
-United States of America,GDP_per_Capita,0.8972385694884563
-United Kingdom,GDP_per_Capita,0.8451788139429606
-Czechia,GDP_per_Capita,0.8216387505658669
-Belgium,GDP_per_Capita,0.8632865550022635
-France,GDP_per_Capita,0.8433680398370302
-Bahrain,GDP_per_Capita,0.8392937980986872
-Slovenia,GDP_per_Capita,0.8193752829334541
-Costa Rica,GDP_per_Capita,0.7170665459483929
-United Arab Emirates,GDP_per_Capita,0.9044816659121774
-Saudi Arabia,GDP_per_Capita,0.8465368945224083
-Taiwan Province of China,GDP_per_Capita,0.8587596197374378
-Singapore,GDP_per_Capita,0.9728383884110456
-Romania,GDP_per_Capita,0.7781801720235401
-Spain,GDP_per_Capita,0.8184698958804889
-Uruguay,GDP_per_Capita,0.7311000452693526
-Italy,GDP_per_Capita,0.8302399275690358
-Kosovo,GDP_per_Capita,0.6165685830692621
-Malta,GDP_per_Capita,0.8320507016749661
-Lithuania,GDP_per_Capita,0.8166591217745586
-Slovakia,GDP_per_Capita,0.7858759619737438
-Estonia,GDP_per_Capita,0.8116794929832503
-Panama,GDP_per_Capita,0.7763693979176097
-Brazil,GDP_per_Capita,0.6618379357175191
-Guatemala,GDP_per_Capita,0.5767315527387958
-Kazakhstan,GDP_per_Capita,0.7550928021729288
-Cyprus,GDP_per_Capita,0.8216387505658669
-Latvia,GDP_per_Capita,0.7840651878678134
-Serbia,GDP_per_Capita,0.7016749660479855
-Chile,GDP_per_Capita,0.7473970122227251
-Nicaragua,GDP_per_Capita,0.5002263467632413
-Mexico,GDP_per_Capita,0.7025803531009507
-Croatia,GDP_per_Capita,0.771842462652784
-Poland,GDP_per_Capita,0.7958352195563603
-El Salvador,GDP_per_Capita,0.5726573110004526
-Kuwait,GDP_per_Capita,0.8619284744228156
-Hungary,GDP_per_Capita,0.7913082842915345
-Mauritius,GDP_per_Capita,0.7202354006337709
-Uzbekistan,GDP_per_Capita,0.5518334087822544
-Japan,GDP_per_Capita,0.8306926210955182
-Honduras,GDP_per_Capita,0.5029425079221367
-Portugal,GDP_per_Capita,0.7967406066093254
-Argentina,GDP_per_Capita,0.7206880941602535
-Greece,GDP_per_Capita,0.7709370755998189
-South Korea,GDP_per_Capita,0.8379357175192395
-Philippines,GDP_per_Capita,0.5740153915799003
-Thailand,GDP_per_Capita,0.6948845631507469
-Moldova,GDP_per_Capita,0.6414667270258035
-Jamaica,GDP_per_Capita,0.5866908103214123
-Kyrgyzstan,GDP_per_Capita,0.48392937980986866
-Belarus,GDP_per_Capita,0.7071072883657763
-Colombia,GDP_per_Capita,0.6573110004526934
-Bosnia and Herzegovina,GDP_per_Capita,0.6645540968764146
-Mongolia,GDP_per_Capita,0.6306020823902218
-Dominican Republic,GDP_per_Capita,0.6962426437301946
-Malaysia,GDP_per_Capita,0.7645993662290629
-Bolivia,GDP_per_Capita,0.5685830692621096
-China,GDP_per_Capita,0.6826618379357174
-Paraguay,GDP_per_Capita,0.637845178813943
-Peru,GDP_per_Capita,0.6324128564961521
-Montenegro,GDP_per_Capita,0.7120869171570846
-Ecuador,GDP_per_Capita,0.6120416478044364
-Vietnam,GDP_per_Capita,0.5667722951561792
-Turkmenistan,GDP_per_Capita,0.6717971933001358
-North Cyprus,GDP_per_Capita,0.8216387505658669
-Russia,GDP_per_Capita,0.7627885921231327
-Hong Kong S.A.R. of China,GDP_per_Capita,0.885921231326392
-Armenia,GDP_per_Capita,0.6491625169760071
-Tajikistan,GDP_per_Capita,0.4373019465821638
-Nepal,GDP_per_Capita,0.4454504300588501
-Bulgaria,GDP_per_Capita,0.7356269805341783
-Libya,GDP_per_Capita,0.6681756450882752
-Indonesia,GDP_per_Capita,0.6256224535989134
-Ivory Coast,GDP_per_Capita,0.49524671797193304
-North Macedonia,GDP_per_Capita,0.6813037573562697
-Albania,GDP_per_Capita,0.65142598460842
-South Africa,GDP_per_Capita,0.6450882752376641
-Azerbaijan,GDP_per_Capita,0.6600271616115889
-Gambia,GDP_per_Capita,0.3553644182888185
-Bangladesh,GDP_per_Capita,0.4798551380715256
-Laos,GDP_per_Capita,0.5608872793119059
-Algeria,GDP_per_Capita,0.6170212765957447
-Liberia,GDP_per_Capita,0.28791308284291534
-Ukraine,GDP_per_Capita,0.638750565866908
-Congo,GDP_per_Capita,0.4300588501584427
-Morocco,GDP_per_Capita,0.5468537799909461
-Mozambique,GDP_per_Capita,0.2616568583069262
-Cameroon,GDP_per_Capita,0.438207333635129
-Senegal,GDP_per_Capita,0.422363060208239
-Niger,GDP_per_Capita,0.2580353100950656
-Georgia,GDP_per_Capita,0.6641014033499321
-Gabon,GDP_per_Capita,0.6604798551380715
-Iraq,GDP_per_Capita,0.5835219556360344
-Venezuela,GDP_per_Capita,0.0
-Guinea,GDP_per_Capita,0.38388411045722043
-Iran,GDP_per_Capita,0.6382978723404255
-Ghana,GDP_per_Capita,0.5033952014486193
-Turkey,GDP_per_Capita,0.7727478497057492
-Burkina Faso,GDP_per_Capita,0.35264825712992304
-Cambodia,GDP_per_Capita,0.4612947034857401
-Benin,GDP_per_Capita,0.42191036668175647
-Comoros,GDP_per_Capita,0.4069714803078316
-Uganda,GDP_per_Capita,0.35174287007695787
-Nigeria,GDP_per_Capita,0.4884563150746944
-Kenya,GDP_per_Capita,0.46717971933001357
-Tunisia,GDP_per_Capita,0.6111362607514712
-Pakistan,GDP_per_Capita,0.4748755092802172
-Palestinian Territories,GDP_per_Capita,0.5196921684019917
-Mali,GDP_per_Capita,0.35853327297419646
-Namibia,GDP_per_Capita,0.5848800362154821
-Eswatini,GDP_per_Capita,0.5767315527387958
-Myanmar,GDP_per_Capita,0.469895880488909
-Sri Lanka,GDP_per_Capita,0.6405613399728384
-Madagascar,GDP_per_Capita,0.3033046627433228
-Egypt,GDP_per_Capita,0.6283386147578088
-Chad,GDP_per_Capita,0.2996831145314622
-Ethiopia,GDP_per_Capita,0.3567224988682662
-Yemen,GDP_per_Capita,0.3128112267994567
-Mauritania,GDP_per_Capita,0.49796287913082843
-Jordan,GDP_per_Capita,0.5993662290629244
-Togo,GDP_per_Capita,0.3490267089180625
-India,GDP_per_Capita,0.5282933454051607
-Zambia,GDP_per_Capita,0.4210049796287913
-Malawi,GDP_per_Capita,0.2933454051607062
-Tanzania,GDP_per_Capita,0.38388411045722043
-Sierra Leone,GDP_per_Capita,0.3105477591670439
-Lesotho,GDP_per_Capita,0.3798098687188773
-Botswana,GDP_per_Capita,0.6803983703033045
-Rwanda,GDP_per_Capita,0.3553644182888185
-Zimbabwe,GDP_per_Capita,0.428700769578995
-Lebanon,GDP_per_Capita,0.6301493888637392
-Afghanistan,GDP_per_Capita,0.34314169307378906
-Finland,Family_(Social_Support),0.953030303030303
-Denmark,Family_(Social_Support),0.9416666666666668
-Iceland,Family_(Social_Support),1.0
-Switzerland,Family_(Social_Support),0.9287878787878787
-Netherlands,Family_(Social_Support),0.9136363636363636
-Luxembourg,Family_(Social_Support),0.875
-Sweden,Family_(Social_Support),0.9121212121212121
-Norway,Family_(Social_Support),0.9386363636363637
-Israel,Family_(Social_Support),0.925
-New Zealand,Family_(Social_Support),0.9356060606060607
-Austria,Family_(Social_Support),0.8825757575757576
-Australia,Family_(Social_Support),0.9113636363636364
-Ireland,Family_(Social_Support),0.8833333333333333
-Germany,Family_(Social_Support),0.8242424242424243
-Canada,Family_(Social_Support),0.8999999999999999
-United States of America,Family_(Social_Support),0.8954545454545454
-United Kingdom,Family_(Social_Support),0.865909090909091
-Czechia,Family_(Social_Support),0.9545454545454546
-Belgium,Family_(Social_Support),0.8378787878787879
-France,Family_(Social_Support),0.9234848484848486
-Bahrain,Family_(Social_Support),0.7795454545454544
-Slovenia,Family_(Social_Support),0.9462121212121213
-Costa Rica,Family_(Social_Support),0.7984848484848485
-United Arab Emirates,Family_(Social_Support),0.7424242424242424
-Saudi Arabia,Family_(Social_Support),0.8272727272727274
-Taiwan Province of China,Family_(Social_Support),0.8295454545454545
-Singapore,Family_(Social_Support),0.8537878787878788
-Romania,Family_(Social_Support),0.7621212121212121
-Spain,Family_(Social_Support),0.9174242424242425
-Uruguay,Family_(Social_Support),0.8939393939393939
-Italy,Family_(Social_Support),0.796969696969697
-Kosovo,Family_(Social_Support),0.7189393939393939
-Malta,Family_(Social_Support),0.8856060606060606
-Lithuania,Family_(Social_Support),0.9121212121212121
-Slovakia,Family_(Social_Support),0.9333333333333333
-Estonia,Family_(Social_Support),0.9333333333333333
-Panama,Family_(Social_Support),0.8386363636363636
-Brazil,Family_(Social_Support),0.7909090909090909
-Guatemala,Family_(Social_Support),0.6295454545454545
-Kazakhstan,Family_(Social_Support),0.9242424242424242
-Cyprus,Family_(Social_Support),0.6886363636363636
-Latvia,Family_(Social_Support),0.925
-Serbia,Family_(Social_Support),0.8227272727272728
-Chile,Family_(Social_Support),0.8181818181818182
-Nicaragua,Family_(Social_Support),0.7795454545454544
-Mexico,Family_(Social_Support),0.6712121212121213
-Croatia,Family_(Social_Support),0.8962121212121212
-Poland,Family_(Social_Support),0.8893939393939393
-El Salvador,Family_(Social_Support),0.5818181818181818
-Kuwait,Family_(Social_Support),0.7446969696969696
-Hungary,Family_(Social_Support),0.9340909090909092
-Mauritius,Family_(Social_Support),0.8454545454545456
-Uzbekistan,Family_(Social_Support),0.8272727272727274
-Japan,Family_(Social_Support),0.825
-Honduras,Family_(Social_Support),0.6704545454545454
-Portugal,Family_(Social_Support),0.8166666666666668
-Argentina,Family_(Social_Support),0.834848484848485
-Greece,Family_(Social_Support),0.7424242424242424
-South Korea,Family_(Social_Support),0.6712121212121213
-Philippines,Family_(Social_Support),0.6909090909090909
-Thailand,Family_(Social_Support),0.8303030303030303
-Moldova,Family_(Social_Support),0.7636363636363637
-Jamaica,Family_(Social_Support),0.7916666666666666
-Kyrgyzstan,Family_(Social_Support),0.8401515151515151
-Belarus,Family_(Social_Support),0.8765151515151516
-Colombia,Family_(Social_Support),0.7037878787878789
-Bosnia and Herzegovina,Family_(Social_Support),0.8090909090909091
-Mongolia,Family_(Social_Support),0.9068181818181819
-Dominican Republic,Family_(Social_Support),0.7598484848484848
-Malaysia,Family_(Social_Support),0.7106060606060606
-Bolivia,Family_(Social_Support),0.6666666666666666
-China,Family_(Social_Support),0.7257575757575757
-Paraguay,Family_(Social_Support),0.856060606060606
-Peru,Family_(Social_Support),0.6553030303030303
-Montenegro,Family_(Social_Support),0.7749999999999999
-Ecuador,Family_(Social_Support),0.6659090909090909
-Vietnam,Family_(Social_Support),0.706060606060606
-Turkmenistan,Family_(Social_Support),0.9992424242424242
-North Cyprus,Family_(Social_Support),0.6727272727272727
-Russia,Family_(Social_Support),0.8295454545454545
-Hong Kong S.A.R. of China,Family_(Social_Support),0.7227272727272727
-Armenia,Family_(Social_Support),0.6212121212121212
-Tajikistan,Family_(Social_Support),0.7613636363636362
-Nepal,Family_(Social_Support),0.593939393939394
-Bulgaria,Family_(Social_Support),0.8810606060606061
-Libya,Family_(Social_Support),0.7143939393939394
-Indonesia,Family_(Social_Support),0.668939393939394
-Ivory Coast,Family_(Social_Support),0.33484848484848484
-North Macedonia,Family_(Social_Support),0.6537878787878788
-Albania,Family_(Social_Support),0.4893939393939394
-South Africa,Family_(Social_Support),0.8242424242424243
-Azerbaijan,Family_(Social_Support),0.828030303030303
-Gambia,Family_(Social_Support),0.47045454545454546
-Bangladesh,Family_(Social_Support),0.46515151515151515
-Laos,Family_(Social_Support),0.4954545454545455
-Algeria,Family_(Social_Support),0.7348484848484849
-Liberia,Family_(Social_Support),0.5075757575757576
-Ukraine,Family_(Social_Support),0.8189393939393939
-Congo,Family_(Social_Support),0.3068181818181818
-Morocco,Family_(Social_Support),0.20303030303030303
-Mozambique,Family_(Social_Support),0.5
-Cameroon,Family_(Social_Support),0.5090909090909091
-Senegal,Family_(Social_Support),0.40151515151515155
-Niger,Family_(Social_Support),0.42424242424242425
-Georgia,Family_(Social_Support),0.4636363636363636
-Gabon,Family_(Social_Support),0.5590909090909091
-Iraq,Family_(Social_Support),0.5166666666666667
-Venezuela,Family_(Social_Support),0.7333333333333333
-Guinea,Family_(Social_Support),0.4287878787878787
-Iran,Family_(Social_Support),0.5613636363636364
-Ghana,Family_(Social_Support),0.45075757575757575
-Turkey,Family_(Social_Support),0.6553030303030303
-Burkina Faso,Family_(Social_Support),0.428030303030303
-Cambodia,Family_(Social_Support),0.5545454545454546
-Benin,Family_(Social_Support),0.048484848484848485
-Comoros,Family_(Social_Support),0.3606060606060606
-Uganda,Family_(Social_Support),0.6628787878787878
-Nigeria,Family_(Social_Support),0.5545454545454546
-Kenya,Family_(Social_Support),0.4583333333333333
-Tunisia,Family_(Social_Support),0.4515151515151515
-Pakistan,Family_(Social_Support),0.31287878787878787
-Palestinian Territories,Family_(Social_Support),0.725
-Mali,Family_(Social_Support),0.3659090909090909
-Namibia,Family_(Social_Support),0.6643939393939394
-Eswatini,Family_(Social_Support),0.5954545454545455
-Myanmar,Family_(Social_Support),0.6280303030303029
-Sri Lanka,Family_(Social_Support),0.7075757575757576
-Madagascar,Family_(Social_Support),0.48863636363636365
-Egypt,Family_(Social_Support),0.5545454545454546
-Chad,Family_(Social_Support),0.38333333333333336
-Ethiopia,Family_(Social_Support),0.6128787878787879
-Yemen,Family_(Social_Support),0.790151515151515
-Mauritania,Family_(Social_Support),0.6553030303030303
-Jordan,Family_(Social_Support),0.5484848484848485
-Togo,Family_(Social_Support),0.24393939393939396
-India,Family_(Social_Support),0.28484848484848485
-Zambia,Family_(Social_Support),0.4371212121212121
-Malawi,Family_(Social_Support),0.2113636363636364
-Tanzania,Family_(Social_Support),0.45227272727272727
-Sierra Leone,Family_(Social_Support),0.3151515151515151
-Lesotho,Family_(Social_Support),0.6424242424242425
-Botswana,Family_(Social_Support),0.6174242424242424
-Rwanda,Family_(Social_Support),0.10075757575757577
-Zimbabwe,Family_(Social_Support),0.5227272727272727
-Lebanon,Family_(Social_Support),0.37727272727272726
-Afghanistan,Family_(Social_Support),0.0
-Finland,Health_(Life_Expectancy),0.8227176220806794
-Denmark,Health_(Life_Expectancy),0.8248407643312102
-Iceland,Health_(Life_Expectancy),0.8524416135881104
-Switzerland,Health_(Life_Expectancy),0.8726114649681528
-Netherlands,Health_(Life_Expectancy),0.8354564755838642
-Luxembourg,Health_(Life_Expectancy),0.8386411889596603
-Sweden,Health_(Life_Expectancy),0.8524416135881104
-Norway,Health_(Life_Expectancy),0.8343949044585988
-Israel,Health_(Life_Expectancy),0.8683651804670912
-New Zealand,Health_(Life_Expectancy),0.7983014861995754
-Austria,Health_(Life_Expectancy),0.821656050955414
-Australia,Health_(Life_Expectancy),0.8195329087048833
-Ireland,Health_(Life_Expectancy),0.826963906581741
-Germany,Health_(Life_Expectancy),0.8237791932059448
-Canada,Health_(Life_Expectancy),0.8312101910828026
-United States of America,Health_(Life_Expectancy),0.6666666666666666
-United Kingdom,Health_(Life_Expectancy),0.7961783439490446
-Czechia,Health_(Life_Expectancy),0.7590233545647558
-Belgium,Health_(Life_Expectancy),0.8110403397027601
-France,Health_(Life_Expectancy),0.8577494692144374
-Bahrain,Health_(Life_Expectancy),0.6634819532908705
-Slovenia,Health_(Life_Expectancy),0.8163481953290871
-Costa Rica,Health_(Life_Expectancy),0.7898089171974522
-United Arab Emirates,Health_(Life_Expectancy),0.6719745222929936
-Saudi Arabia,Health_(Life_Expectancy),0.6125265392781316
-Taiwan Province of China,Health_(Life_Expectancy),0.7781316348195328
-Singapore,Health_(Life_Expectancy),0.9033970276008492
-Romania,Health_(Life_Expectancy),0.6953290870488323
-Spain,Health_(Life_Expectancy),0.8577494692144374
-Uruguay,Health_(Life_Expectancy),0.713375796178344
-Italy,Health_(Life_Expectancy),0.8503184713375797
-Kosovo,Health_(Life_Expectancy),0.6040339702760085
-Malta,Health_(Life_Expectancy),0.8375796178343949
-Lithuania,Health_(Life_Expectancy),0.6995753715498939
-Slovakia,Health_(Life_Expectancy),0.7505307855626326
-Estonia,Health_(Life_Expectancy),0.7728237791932059
-Panama,Health_(Life_Expectancy),0.7526539278131634
-Brazil,Health_(Life_Expectancy),0.6528662420382165
-Guatemala,Health_(Life_Expectancy),0.554140127388535
-Kazakhstan,Health_(Life_Expectancy),0.648619957537155
-Cyprus,Health_(Life_Expectancy),0.8694267515923566
-Latvia,Health_(Life_Expectancy),0.6762208067940552
-Serbia,Health_(Life_Expectancy),0.6985138004246285
-Chile,Health_(Life_Expectancy),0.7940552016985137
-Nicaragua,Health_(Life_Expectancy),0.6549893842887473
-Mexico,Health_(Life_Expectancy),0.6613588110403397
-Croatia,Health_(Life_Expectancy),0.7526539278131634
-Poland,Health_(Life_Expectancy),0.7558386411889596
-El Salvador,Health_(Life_Expectancy),0.6443736730360934
-Kuwait,Health_(Life_Expectancy),0.7929936305732483
-Hungary,Health_(Life_Expectancy),0.7091295116772824
-Mauritius,Health_(Life_Expectancy),0.6029723991507431
-Uzbekistan,Health_(Life_Expectancy),0.6369426751592356
-Japan,Health_(Life_Expectancy),0.9193205944798302
-Honduras,Health_(Life_Expectancy),0.5891719745222931
-Portugal,Health_(Life_Expectancy),0.8248407643312102
-Argentina,Health_(Life_Expectancy),0.7027600849256901
-Greece,Health_(Life_Expectancy),0.821656050955414
-South Korea,Health_(Life_Expectancy),0.8927813163481952
-Philippines,Health_(Life_Expectancy),0.5456475583864119
-Thailand,Health_(Life_Expectancy),0.7399150743099787
-Moldova,Health_(Life_Expectancy),0.6337579617834395
-Jamaica,Health_(Life_Expectancy),0.6857749469214437
-Kyrgyzstan,Health_(Life_Expectancy),0.6772823779193206
-Belarus,Health_(Life_Expectancy),0.667728237791932
-Colombia,Health_(Life_Expectancy),0.7643312101910827
-Bosnia and Herzegovina,Health_(Life_Expectancy),0.7059447983014863
-Mongolia,Health_(Life_Expectancy),0.49575371549893843
-Dominican Republic,Health_(Life_Expectancy),0.6125265392781316
-Malaysia,Health_(Life_Expectancy),0.6581740976645435
-Bolivia,Health_(Life_Expectancy),0.5891719745222931
-China,Health_(Life_Expectancy),0.7484076433121019
-Paraguay,Health_(Life_Expectancy),0.6624203821656051
-Peru,Health_(Life_Expectancy),0.7802547770700636
-Montenegro,Health_(Life_Expectancy),0.6995753715498939
-Ecuador,Health_(Life_Expectancy),0.751592356687898
-Vietnam,Health_(Life_Expectancy),0.648619957537155
-Turkmenistan,Health_(Life_Expectancy),0.5477707006369427
-North Cyprus,Health_(Life_Expectancy),0.8694267515923566
-Russia,Health_(Life_Expectancy),0.6220806794055201
-Hong Kong S.A.R. of China,Health_(Life_Expectancy),0.9999999999999999
-Armenia,Health_(Life_Expectancy),0.7091295116772824
-Tajikistan,Health_(Life_Expectancy),0.5498938428874734
-Nepal,Health_(Life_Expectancy),0.529723991507431
-Bulgaria,Health_(Life_Expectancy),0.6794055201698513
-Libya,Health_(Life_Expectancy),0.643312101910828
-Indonesia,Health_(Life_Expectancy),0.5721868365180467
-Ivory Coast,Health_(Life_Expectancy),0.34182590233545646
-North Macedonia,Health_(Life_Expectancy),0.6762208067940552
-Albania,Health_(Life_Expectancy),0.7632696390658174
-South Africa,Health_(Life_Expectancy),0.38322717622080676
-Azerbaijan,Health_(Life_Expectancy),0.59447983014862
-Gambia,Health_(Life_Expectancy),0.3917197452229299
-Bangladesh,Health_(Life_Expectancy),0.6167728237791932
-Laos,Health_(Life_Expectancy),0.5084925690021231
-Algeria,Health_(Life_Expectancy),0.6825902335456475
-Liberia,Health_(Life_Expectancy),0.32802547770700635
-Ukraine,Health_(Life_Expectancy),0.618895966029724
-Congo,Health_(Life_Expectancy),0.3768577494692144
-Morocco,Health_(Life_Expectancy),0.5997876857749469
-Mozambique,Health_(Life_Expectancy),0.20276008492569003
-Cameroon,Health_(Life_Expectancy),0.3365180467091295
-Senegal,Health_(Life_Expectancy),0.4745222929936306
-Niger,Health_(Life_Expectancy),0.3460721868365181
-Georgia,Health_(Life_Expectancy),0.6316348195329087
-Gabon,Health_(Life_Expectancy),0.42038216560509556
-Iraq,Health_(Life_Expectancy),0.5881104033970277
-Venezuela,Health_(Life_Expectancy),0.613588110403397
-Guinea,Health_(Life_Expectancy),0.29193205944798306
-Iran,Health_(Life_Expectancy),0.6815286624203821
-Ghana,Health_(Life_Expectancy),0.4341825902335456
-Turkey,Health_(Life_Expectancy),0.7452229299363057
-Burkina Faso,Health_(Life_Expectancy),0.33970276008492567
-Cambodia,Health_(Life_Expectancy),0.5360934182590233
-Benin,Health_(Life_Expectancy),0.3556263269639066
-Comoros,Health_(Life_Expectancy),0.4501061571125265
-Uganda,Health_(Life_Expectancy),0.44373673036093414
-Nigeria,Health_(Life_Expectancy),0.3184713375796178
-Kenya,Health_(Life_Expectancy),0.4256900212314225
-Tunisia,Health_(Life_Expectancy),0.6963906581740977
-Pakistan,Health_(Life_Expectancy),0.39702760084925687
-Palestinian Territories,Health_(Life_Expectancy),0.5530785562632696
-Mali,Health_(Life_Expectancy),0.33014861995753714
-Namibia,Health_(Life_Expectancy),0.375796178343949
-Eswatini,Health_(Life_Expectancy),0.2091295116772824
-Myanmar,Health_(Life_Expectancy),0.5212314225053079
-Sri Lanka,Health_(Life_Expectancy),0.7006369426751593
-Madagascar,Health_(Life_Expectancy),0.4012738853503185
-Egypt,Health_(Life_Expectancy),0.5817409766454353
-Chad,Health_(Life_Expectancy),0.23885350318471338
-Ethiopia,Health_(Life_Expectancy),0.4851380042462845
-Yemen,Health_(Life_Expectancy),0.40764331210191085
-Mauritania,Health_(Life_Expectancy),0.47770700636942676
-Jordan,Health_(Life_Expectancy),0.7165605095541402
-Togo,Health_(Life_Expectancy),0.38216560509554137
-India,Health_(Life_Expectancy),0.49999999999999994
-Zambia,Health_(Life_Expectancy),0.3248407643312102
-Malawi,Health_(Life_Expectancy),0.4118895966029724
-Tanzania,Health_(Life_Expectancy),0.4511677282377919
-Sierra Leone,Health_(Life_Expectancy),0.2898089171974522
-Lesotho,Health_(Life_Expectancy),0.0
-Botswana,Health_(Life_Expectancy),0.29723991507431
-Rwanda,Health_(Life_Expectancy),0.49044585987261147
-Zimbabwe,Health_(Life_Expectancy),0.28662420382165604
-Lebanon,Health_(Life_Expectancy),0.6698513800424628
-Afghanistan,Health_(Life_Expectancy),0.3067940552016985
+Finland,GDP per Capita,0.8564961521050248
+Denmark,GDP per Capita,0.8841104572204618
+Iceland,GDP per Capita,0.876414667270258
+Switzerland,GDP per Capita,0.9171570846536893
+Netherlands,GDP per Capita,0.8804889090086011
+Luxembourg,GDP per Capita,1.0
+Sweden,GDP per Capita,0.8691715708465368
+Norway,GDP per Capita,0.9040289723856949
+Israel,GDP per Capita,0.8266183793571752
+New Zealand,GDP per Capita,0.838388411045722
+Austria,GDP per Capita,0.8741511996378452
+Australia,GDP per Capita,0.8601177003168854
+Ireland,GDP per Capita,0.9637845178813943
+Germany,GDP per Capita,0.8709823449524671
+Canada,GDP per Capita,0.8537799909461293
+United States of America,GDP per Capita,0.8972385694884563
+United Kingdom,GDP per Capita,0.8451788139429606
+Czechia,GDP per Capita,0.8216387505658669
+Belgium,GDP per Capita,0.8632865550022635
+France,GDP per Capita,0.8433680398370302
+Bahrain,GDP per Capita,0.8392937980986872
+Slovenia,GDP per Capita,0.8193752829334541
+Costa Rica,GDP per Capita,0.7170665459483929
+United Arab Emirates,GDP per Capita,0.9044816659121774
+Saudi Arabia,GDP per Capita,0.8465368945224083
+Taiwan Province of China,GDP per Capita,0.8587596197374378
+Singapore,GDP per Capita,0.9728383884110456
+Romania,GDP per Capita,0.7781801720235401
+Spain,GDP per Capita,0.8184698958804889
+Uruguay,GDP per Capita,0.7311000452693526
+Italy,GDP per Capita,0.8302399275690358
+Kosovo,GDP per Capita,0.6165685830692621
+Malta,GDP per Capita,0.8320507016749661
+Lithuania,GDP per Capita,0.8166591217745586
+Slovakia,GDP per Capita,0.7858759619737438
+Estonia,GDP per Capita,0.8116794929832503
+Panama,GDP per Capita,0.7763693979176097
+Brazil,GDP per Capita,0.6618379357175191
+Guatemala,GDP per Capita,0.5767315527387958
+Kazakhstan,GDP per Capita,0.7550928021729288
+Cyprus,GDP per Capita,0.8216387505658669
+Latvia,GDP per Capita,0.7840651878678134
+Serbia,GDP per Capita,0.7016749660479855
+Chile,GDP per Capita,0.7473970122227251
+Nicaragua,GDP per Capita,0.5002263467632413
+Mexico,GDP per Capita,0.7025803531009507
+Croatia,GDP per Capita,0.771842462652784
+Poland,GDP per Capita,0.7958352195563603
+El Salvador,GDP per Capita,0.5726573110004526
+Kuwait,GDP per Capita,0.8619284744228156
+Hungary,GDP per Capita,0.7913082842915345
+Mauritius,GDP per Capita,0.7202354006337709
+Uzbekistan,GDP per Capita,0.5518334087822544
+Japan,GDP per Capita,0.8306926210955182
+Honduras,GDP per Capita,0.5029425079221367
+Portugal,GDP per Capita,0.7967406066093254
+Argentina,GDP per Capita,0.7206880941602535
+Greece,GDP per Capita,0.7709370755998189
+South Korea,GDP per Capita,0.8379357175192395
+Philippines,GDP per Capita,0.5740153915799003
+Thailand,GDP per Capita,0.6948845631507469
+Moldova,GDP per Capita,0.6414667270258035
+Jamaica,GDP per Capita,0.5866908103214123
+Kyrgyzstan,GDP per Capita,0.48392937980986866
+Belarus,GDP per Capita,0.7071072883657763
+Colombia,GDP per Capita,0.6573110004526934
+Bosnia and Herzegovina,GDP per Capita,0.6645540968764146
+Mongolia,GDP per Capita,0.6306020823902218
+Dominican Republic,GDP per Capita,0.6962426437301946
+Malaysia,GDP per Capita,0.7645993662290629
+Bolivia,GDP per Capita,0.5685830692621096
+China,GDP per Capita,0.6826618379357174
+Paraguay,GDP per Capita,0.637845178813943
+Peru,GDP per Capita,0.6324128564961521
+Montenegro,GDP per Capita,0.7120869171570846
+Ecuador,GDP per Capita,0.6120416478044364
+Vietnam,GDP per Capita,0.5667722951561792
+Turkmenistan,GDP per Capita,0.6717971933001358
+North Cyprus,GDP per Capita,0.8216387505658669
+Russia,GDP per Capita,0.7627885921231327
+Hong Kong S.A.R. of China,GDP per Capita,0.885921231326392
+Armenia,GDP per Capita,0.6491625169760071
+Tajikistan,GDP per Capita,0.4373019465821638
+Nepal,GDP per Capita,0.4454504300588501
+Bulgaria,GDP per Capita,0.7356269805341783
+Libya,GDP per Capita,0.6681756450882752
+Indonesia,GDP per Capita,0.6256224535989134
+Ivory Coast,GDP per Capita,0.49524671797193304
+North Macedonia,GDP per Capita,0.6813037573562697
+Albania,GDP per Capita,0.65142598460842
+South Africa,GDP per Capita,0.6450882752376641
+Azerbaijan,GDP per Capita,0.6600271616115889
+Gambia,GDP per Capita,0.3553644182888185
+Bangladesh,GDP per Capita,0.4798551380715256
+Laos,GDP per Capita,0.5608872793119059
+Algeria,GDP per Capita,0.6170212765957447
+Liberia,GDP per Capita,0.28791308284291534
+Ukraine,GDP per Capita,0.638750565866908
+Congo,GDP per Capita,0.4300588501584427
+Morocco,GDP per Capita,0.5468537799909461
+Mozambique,GDP per Capita,0.2616568583069262
+Cameroon,GDP per Capita,0.438207333635129
+Senegal,GDP per Capita,0.422363060208239
+Niger,GDP per Capita,0.2580353100950656
+Georgia,GDP per Capita,0.6641014033499321
+Gabon,GDP per Capita,0.6604798551380715
+Iraq,GDP per Capita,0.5835219556360344
+Venezuela,GDP per Capita,0.0
+Guinea,GDP per Capita,0.38388411045722043
+Iran,GDP per Capita,0.6382978723404255
+Ghana,GDP per Capita,0.5033952014486193
+Turkey,GDP per Capita,0.7727478497057492
+Burkina Faso,GDP per Capita,0.35264825712992304
+Cambodia,GDP per Capita,0.4612947034857401
+Benin,GDP per Capita,0.42191036668175647
+Comoros,GDP per Capita,0.4069714803078316
+Uganda,GDP per Capita,0.35174287007695787
+Nigeria,GDP per Capita,0.4884563150746944
+Kenya,GDP per Capita,0.46717971933001357
+Tunisia,GDP per Capita,0.6111362607514712
+Pakistan,GDP per Capita,0.4748755092802172
+Palestinian Territories,GDP per Capita,0.5196921684019917
+Mali,GDP per Capita,0.35853327297419646
+Namibia,GDP per Capita,0.5848800362154821
+Eswatini,GDP per Capita,0.5767315527387958
+Myanmar,GDP per Capita,0.469895880488909
+Sri Lanka,GDP per Capita,0.6405613399728384
+Madagascar,GDP per Capita,0.3033046627433228
+Egypt,GDP per Capita,0.6283386147578088
+Chad,GDP per Capita,0.2996831145314622
+Ethiopia,GDP per Capita,0.3567224988682662
+Yemen,GDP per Capita,0.3128112267994567
+Mauritania,GDP per Capita,0.49796287913082843
+Jordan,GDP per Capita,0.5993662290629244
+Togo,GDP per Capita,0.3490267089180625
+India,GDP per Capita,0.5282933454051607
+Zambia,GDP per Capita,0.4210049796287913
+Malawi,GDP per Capita,0.2933454051607062
+Tanzania,GDP per Capita,0.38388411045722043
+Sierra Leone,GDP per Capita,0.3105477591670439
+Lesotho,GDP per Capita,0.3798098687188773
+Botswana,GDP per Capita,0.6803983703033045
+Rwanda,GDP per Capita,0.3553644182888185
+Zimbabwe,GDP per Capita,0.428700769578995
+Lebanon,GDP per Capita,0.6301493888637392
+Afghanistan,GDP per Capita,0.34314169307378906
+Finland,Social Support,0.953030303030303
+Denmark,Social Support,0.9416666666666668
+Iceland,Social Support,1.0
+Switzerland,Social Support,0.9287878787878787
+Netherlands,Social Support,0.9136363636363636
+Luxembourg,Social Support,0.875
+Sweden,Social Support,0.9121212121212121
+Norway,Social Support,0.9386363636363637
+Israel,Social Support,0.925
+New Zealand,Social Support,0.9356060606060607
+Austria,Social Support,0.8825757575757576
+Australia,Social Support,0.9113636363636364
+Ireland,Social Support,0.8833333333333333
+Germany,Social Support,0.8242424242424243
+Canada,Social Support,0.8999999999999999
+United States of America,Social Support,0.8954545454545454
+United Kingdom,Social Support,0.865909090909091
+Czechia,Social Support,0.9545454545454546
+Belgium,Social Support,0.8378787878787879
+France,Social Support,0.9234848484848486
+Bahrain,Social Support,0.7795454545454544
+Slovenia,Social Support,0.9462121212121213
+Costa Rica,Social Support,0.7984848484848485
+United Arab Emirates,Social Support,0.7424242424242424
+Saudi Arabia,Social Support,0.8272727272727274
+Taiwan Province of China,Social Support,0.8295454545454545
+Singapore,Social Support,0.8537878787878788
+Romania,Social Support,0.7621212121212121
+Spain,Social Support,0.9174242424242425
+Uruguay,Social Support,0.8939393939393939
+Italy,Social Support,0.796969696969697
+Kosovo,Social Support,0.7189393939393939
+Malta,Social Support,0.8856060606060606
+Lithuania,Social Support,0.9121212121212121
+Slovakia,Social Support,0.9333333333333333
+Estonia,Social Support,0.9333333333333333
+Panama,Social Support,0.8386363636363636
+Brazil,Social Support,0.7909090909090909
+Guatemala,Social Support,0.6295454545454545
+Kazakhstan,Social Support,0.9242424242424242
+Cyprus,Social Support,0.6886363636363636
+Latvia,Social Support,0.925
+Serbia,Social Support,0.8227272727272728
+Chile,Social Support,0.8181818181818182
+Nicaragua,Social Support,0.7795454545454544
+Mexico,Social Support,0.6712121212121213
+Croatia,Social Support,0.8962121212121212
+Poland,Social Support,0.8893939393939393
+El Salvador,Social Support,0.5818181818181818
+Kuwait,Social Support,0.7446969696969696
+Hungary,Social Support,0.9340909090909092
+Mauritius,Social Support,0.8454545454545456
+Uzbekistan,Social Support,0.8272727272727274
+Japan,Social Support,0.825
+Honduras,Social Support,0.6704545454545454
+Portugal,Social Support,0.8166666666666668
+Argentina,Social Support,0.834848484848485
+Greece,Social Support,0.7424242424242424
+South Korea,Social Support,0.6712121212121213
+Philippines,Social Support,0.6909090909090909
+Thailand,Social Support,0.8303030303030303
+Moldova,Social Support,0.7636363636363637
+Jamaica,Social Support,0.7916666666666666
+Kyrgyzstan,Social Support,0.8401515151515151
+Belarus,Social Support,0.8765151515151516
+Colombia,Social Support,0.7037878787878789
+Bosnia and Herzegovina,Social Support,0.8090909090909091
+Mongolia,Social Support,0.9068181818181819
+Dominican Republic,Social Support,0.7598484848484848
+Malaysia,Social Support,0.7106060606060606
+Bolivia,Social Support,0.6666666666666666
+China,Social Support,0.7257575757575757
+Paraguay,Social Support,0.856060606060606
+Peru,Social Support,0.6553030303030303
+Montenegro,Social Support,0.7749999999999999
+Ecuador,Social Support,0.6659090909090909
+Vietnam,Social Support,0.706060606060606
+Turkmenistan,Social Support,0.9992424242424242
+North Cyprus,Social Support,0.6727272727272727
+Russia,Social Support,0.8295454545454545
+Hong Kong S.A.R. of China,Social Support,0.7227272727272727
+Armenia,Social Support,0.6212121212121212
+Tajikistan,Social Support,0.7613636363636362
+Nepal,Social Support,0.593939393939394
+Bulgaria,Social Support,0.8810606060606061
+Libya,Social Support,0.7143939393939394
+Indonesia,Social Support,0.668939393939394
+Ivory Coast,Social Support,0.33484848484848484
+North Macedonia,Social Support,0.6537878787878788
+Albania,Social Support,0.4893939393939394
+South Africa,Social Support,0.8242424242424243
+Azerbaijan,Social Support,0.828030303030303
+Gambia,Social Support,0.47045454545454546
+Bangladesh,Social Support,0.46515151515151515
+Laos,Social Support,0.4954545454545455
+Algeria,Social Support,0.7348484848484849
+Liberia,Social Support,0.5075757575757576
+Ukraine,Social Support,0.8189393939393939
+Congo,Social Support,0.3068181818181818
+Morocco,Social Support,0.20303030303030303
+Mozambique,Social Support,0.5
+Cameroon,Social Support,0.5090909090909091
+Senegal,Social Support,0.40151515151515155
+Niger,Social Support,0.42424242424242425
+Georgia,Social Support,0.4636363636363636
+Gabon,Social Support,0.5590909090909091
+Iraq,Social Support,0.5166666666666667
+Venezuela,Social Support,0.7333333333333333
+Guinea,Social Support,0.4287878787878787
+Iran,Social Support,0.5613636363636364
+Ghana,Social Support,0.45075757575757575
+Turkey,Social Support,0.6553030303030303
+Burkina Faso,Social Support,0.428030303030303
+Cambodia,Social Support,0.5545454545454546
+Benin,Social Support,0.048484848484848485
+Comoros,Social Support,0.3606060606060606
+Uganda,Social Support,0.6628787878787878
+Nigeria,Social Support,0.5545454545454546
+Kenya,Social Support,0.4583333333333333
+Tunisia,Social Support,0.4515151515151515
+Pakistan,Social Support,0.31287878787878787
+Palestinian Territories,Social Support,0.725
+Mali,Social Support,0.3659090909090909
+Namibia,Social Support,0.6643939393939394
+Eswatini,Social Support,0.5954545454545455
+Myanmar,Social Support,0.6280303030303029
+Sri Lanka,Social Support,0.7075757575757576
+Madagascar,Social Support,0.48863636363636365
+Egypt,Social Support,0.5545454545454546
+Chad,Social Support,0.38333333333333336
+Ethiopia,Social Support,0.6128787878787879
+Yemen,Social Support,0.790151515151515
+Mauritania,Social Support,0.6553030303030303
+Jordan,Social Support,0.5484848484848485
+Togo,Social Support,0.24393939393939396
+India,Social Support,0.28484848484848485
+Zambia,Social Support,0.4371212121212121
+Malawi,Social Support,0.2113636363636364
+Tanzania,Social Support,0.45227272727272727
+Sierra Leone,Social Support,0.3151515151515151
+Lesotho,Social Support,0.6424242424242425
+Botswana,Social Support,0.6174242424242424
+Rwanda,Social Support,0.10075757575757577
+Zimbabwe,Social Support,0.5227272727272727
+Lebanon,Social Support,0.37727272727272726
+Afghanistan,Social Support,0.0
+Finland,Health,0.8227176220806794
+Denmark,Health,0.8248407643312102
+Iceland,Health,0.8524416135881104
+Switzerland,Health,0.8726114649681528
+Netherlands,Health,0.8354564755838642
+Luxembourg,Health,0.8386411889596603
+Sweden,Health,0.8524416135881104
+Norway,Health,0.8343949044585988
+Israel,Health,0.8683651804670912
+New Zealand,Health,0.7983014861995754
+Austria,Health,0.821656050955414
+Australia,Health,0.8195329087048833
+Ireland,Health,0.826963906581741
+Germany,Health,0.8237791932059448
+Canada,Health,0.8312101910828026
+United States of America,Health,0.6666666666666666
+United Kingdom,Health,0.7961783439490446
+Czechia,Health,0.7590233545647558
+Belgium,Health,0.8110403397027601
+France,Health,0.8577494692144374
+Bahrain,Health,0.6634819532908705
+Slovenia,Health,0.8163481953290871
+Costa Rica,Health,0.7898089171974522
+United Arab Emirates,Health,0.6719745222929936
+Saudi Arabia,Health,0.6125265392781316
+Taiwan Province of China,Health,0.7781316348195328
+Singapore,Health,0.9033970276008492
+Romania,Health,0.6953290870488323
+Spain,Health,0.8577494692144374
+Uruguay,Health,0.713375796178344
+Italy,Health,0.8503184713375797
+Kosovo,Health,0.6040339702760085
+Malta,Health,0.8375796178343949
+Lithuania,Health,0.6995753715498939
+Slovakia,Health,0.7505307855626326
+Estonia,Health,0.7728237791932059
+Panama,Health,0.7526539278131634
+Brazil,Health,0.6528662420382165
+Guatemala,Health,0.554140127388535
+Kazakhstan,Health,0.648619957537155
+Cyprus,Health,0.8694267515923566
+Latvia,Health,0.6762208067940552
+Serbia,Health,0.6985138004246285
+Chile,Health,0.7940552016985137
+Nicaragua,Health,0.6549893842887473
+Mexico,Health,0.6613588110403397
+Croatia,Health,0.7526539278131634
+Poland,Health,0.7558386411889596
+El Salvador,Health,0.6443736730360934
+Kuwait,Health,0.7929936305732483
+Hungary,Health,0.7091295116772824
+Mauritius,Health,0.6029723991507431
+Uzbekistan,Health,0.6369426751592356
+Japan,Health,0.9193205944798302
+Honduras,Health,0.5891719745222931
+Portugal,Health,0.8248407643312102
+Argentina,Health,0.7027600849256901
+Greece,Health,0.821656050955414
+South Korea,Health,0.8927813163481952
+Philippines,Health,0.5456475583864119
+Thailand,Health,0.7399150743099787
+Moldova,Health,0.6337579617834395
+Jamaica,Health,0.6857749469214437
+Kyrgyzstan,Health,0.6772823779193206
+Belarus,Health,0.667728237791932
+Colombia,Health,0.7643312101910827
+Bosnia and Herzegovina,Health,0.7059447983014863
+Mongolia,Health,0.49575371549893843
+Dominican Republic,Health,0.6125265392781316
+Malaysia,Health,0.6581740976645435
+Bolivia,Health,0.5891719745222931
+China,Health,0.7484076433121019
+Paraguay,Health,0.6624203821656051
+Peru,Health,0.7802547770700636
+Montenegro,Health,0.6995753715498939
+Ecuador,Health,0.751592356687898
+Vietnam,Health,0.648619957537155
+Turkmenistan,Health,0.5477707006369427
+North Cyprus,Health,0.8694267515923566
+Russia,Health,0.6220806794055201
+Hong Kong S.A.R. of China,Health,0.9999999999999999
+Armenia,Health,0.7091295116772824
+Tajikistan,Health,0.5498938428874734
+Nepal,Health,0.529723991507431
+Bulgaria,Health,0.6794055201698513
+Libya,Health,0.643312101910828
+Indonesia,Health,0.5721868365180467
+Ivory Coast,Health,0.34182590233545646
+North Macedonia,Health,0.6762208067940552
+Albania,Health,0.7632696390658174
+South Africa,Health,0.38322717622080676
+Azerbaijan,Health,0.59447983014862
+Gambia,Health,0.3917197452229299
+Bangladesh,Health,0.6167728237791932
+Laos,Health,0.5084925690021231
+Algeria,Health,0.6825902335456475
+Liberia,Health,0.32802547770700635
+Ukraine,Health,0.618895966029724
+Congo,Health,0.3768577494692144
+Morocco,Health,0.5997876857749469
+Mozambique,Health,0.20276008492569003
+Cameroon,Health,0.3365180467091295
+Senegal,Health,0.4745222929936306
+Niger,Health,0.3460721868365181
+Georgia,Health,0.6316348195329087
+Gabon,Health,0.42038216560509556
+Iraq,Health,0.5881104033970277
+Venezuela,Health,0.613588110403397
+Guinea,Health,0.29193205944798306
+Iran,Health,0.6815286624203821
+Ghana,Health,0.4341825902335456
+Turkey,Health,0.7452229299363057
+Burkina Faso,Health,0.33970276008492567
+Cambodia,Health,0.5360934182590233
+Benin,Health,0.3556263269639066
+Comoros,Health,0.4501061571125265
+Uganda,Health,0.44373673036093414
+Nigeria,Health,0.3184713375796178
+Kenya,Health,0.4256900212314225
+Tunisia,Health,0.6963906581740977
+Pakistan,Health,0.39702760084925687
+Palestinian Territories,Health,0.5530785562632696
+Mali,Health,0.33014861995753714
+Namibia,Health,0.375796178343949
+Eswatini,Health,0.2091295116772824
+Myanmar,Health,0.5212314225053079
+Sri Lanka,Health,0.7006369426751593
+Madagascar,Health,0.4012738853503185
+Egypt,Health,0.5817409766454353
+Chad,Health,0.23885350318471338
+Ethiopia,Health,0.4851380042462845
+Yemen,Health,0.40764331210191085
+Mauritania,Health,0.47770700636942676
+Jordan,Health,0.7165605095541402
+Togo,Health,0.38216560509554137
+India,Health,0.49999999999999994
+Zambia,Health,0.3248407643312102
+Malawi,Health,0.4118895966029724
+Tanzania,Health,0.4511677282377919
+Sierra Leone,Health,0.2898089171974522
+Lesotho,Health,0.0
+Botswana,Health,0.29723991507431
+Rwanda,Health,0.49044585987261147
+Zimbabwe,Health,0.28662420382165604
+Lebanon,Health,0.6698513800424628
+Afghanistan,Health,0.3067940552016985
 Finland,Freedom,0.9945945945945945
 Denmark,Freedom,0.9716216216216216
 Iceland,Freedom,0.9702702702702702
@@ -583,152 +583,152 @@ Rwanda,Freedom,0.8391891891891892
 Zimbabwe,Freedom,0.4445945945945946
 Lebanon,Freedom,0.13918918918918918
 Afghanistan,Freedom,0.0
-Finland,Trust_(Government_Corruption),0.909710391822828
-Denmark,Trust_(Government_Corruption),0.9063032367972743
-Iceland,Trust_(Government_Corruption),0.3253833049403748
-Switzerland,Trust_(Government_Corruption),0.7853492333901193
-Netherlands,Trust_(Government_Corruption),0.7137989778534923
-Luxembourg,Trust_(Government_Corruption),0.6609880749574106
-Sweden,Trust_(Government_Corruption),0.8722316865417377
-Norway,Trust_(Government_Corruption),0.807495741056218
-Israel,Trust_(Government_Corruption),0.24361158432708685
-New Zealand,Trust_(Government_Corruption),0.8228279386712095
-Austria,Trust_(Government_Corruption),0.5604770017035775
-Australia,Trust_(Government_Corruption),0.5809199318568995
-Ireland,Trust_(Government_Corruption),0.6950596252129472
-Germany,Trust_(Government_Corruption),0.6098807495741055
-Canada,Trust_(Government_Corruption),0.6269165247018739
-United States of America,Trust_(Government_Corruption),0.3015332197614991
-United Kingdom,Trust_(Government_Corruption),0.5604770017035775
-Czechia,Trust_(Government_Corruption),0.08177172061328791
-Belgium,Trust_(Government_Corruption),0.3475298126064736
-France,Trust_(Government_Corruption),0.45315161839863716
-Bahrain,Trust_(Government_Corruption),0.26405451448040884
-Slovenia,Trust_(Government_Corruption),0.19591141396933562
-Costa Rica,Trust_(Government_Corruption),0.1737649063032368
-United Arab Emirates,Trust_(Government_Corruption),0.42589437819420783
-Saudi Arabia,Trust_(Government_Corruption),0.3066439522998296
-Taiwan Province of China,Trust_(Government_Corruption),0.28620102214650767
-Singapore,Trust_(Government_Corruption),0.9999999999999999
-Romania,Trust_(Government_Corruption),0.010221465076660989
-Spain,Trust_(Government_Corruption),0.25383304940374785
-Uruguay,Trust_(Government_Corruption),0.4514480408858603
-Italy,Trust_(Government_Corruption),0.10051107325383304
-Kosovo,Trust_(Government_Corruption),0.0596252129471891
-Malta,Trust_(Government_Corruption),0.282793867120954
-Lithuania,Trust_(Government_Corruption),0.131175468483816
-Slovakia,Trust_(Government_Corruption),0.04258943781942079
-Estonia,Trust_(Government_Corruption),0.5672913117546848
-Panama,Trust_(Government_Corruption),0.0868824531516184
-Brazil,Trust_(Government_Corruption),0.2282793867120954
-Guatemala,Trust_(Government_Corruption),0.19591141396933562
-Kazakhstan,Trust_(Government_Corruption),0.2674616695059625
-Cyprus,Trust_(Government_Corruption),0.10562180579216354
-Latvia,Trust_(Government_Corruption),0.1533219761499148
-Serbia,Trust_(Government_Corruption),0.14991482112436114
-Chile,Trust_(Government_Corruption),0.11754684838160137
-Nicaragua,Trust_(Government_Corruption),0.36115843270868825
-Mexico,Trust_(Government_Corruption),0.19591141396933562
-Croatia,Trust_(Government_Corruption),0.0
-Poland,Trust_(Government_Corruption),0.2385008517887564
-El Salvador,Trust_(Government_Corruption),0.36115843270868825
-Kuwait,Trust_(Government_Corruption),0.2504258943781942
-Hungary,Trust_(Government_Corruption),0.10902896081771721
-Mauritius,Trust_(Government_Corruption),0.18228279386712096
-Uzbekistan,Trust_(Government_Corruption),0.4088586030664395
-Japan,Trust_(Government_Corruption),0.37137989778534924
-Honduras,Trust_(Government_Corruption),0.12947189097103917
-Portugal,Trust_(Government_Corruption),0.06643952299829642
-Argentina,Trust_(Government_Corruption),0.14480408858603067
-Greece,Trust_(Government_Corruption),0.1839863713798978
-South Korea,Trust_(Government_Corruption),0.2998296422487223
-Philippines,Trust_(Government_Corruption),0.24190800681431002
-Thailand,Trust_(Government_Corruption),0.044293015332197615
-Moldova,Trust_(Government_Corruption),0.04770017035775128
-Jamaica,Trust_(Government_Corruption),0.09028960817717206
-Kyrgyzstan,Trust_(Government_Corruption),0.04258943781942079
-Belarus,Trust_(Government_Corruption),0.48040885860306637
-Colombia,Trust_(Government_Corruption),0.131175468483816
-Bosnia and Herzegovina,Trust_(Government_Corruption),0.010221465076660989
-Mongolia,Trust_(Government_Corruption),0.10051107325383304
-Dominican Republic,Trust_(Government_Corruption),0.30494037478705277
-Malaysia,Trust_(Government_Corruption),0.21465076660988075
-Bolivia,Trust_(Government_Corruption),0.10902896081771721
-China,Trust_(Government_Corruption),0.24190800681431002
-Paraguay,Trust_(Government_Corruption),0.10051107325383304
-Peru,Trust_(Government_Corruption),0.06303236797274275
-Montenegro,Trust_(Government_Corruption),0.131175468483816
-Ecuador,Trust_(Government_Corruption),0.141396933560477
-Vietnam,Trust_(Government_Corruption),0.1788756388415673
-Turkmenistan,Trust_(Government_Corruption),0.054514480408858604
-North Cyprus,Trust_(Government_Corruption),0.3628620102214651
-Russia,Trust_(Government_Corruption),0.1362862010221465
-Hong Kong S.A.R. of China,Trust_(Government_Corruption),0.6524701873935265
-Armenia,Trust_(Government_Corruption),0.3577512776831346
-Tajikistan,Trust_(Government_Corruption),0.5178875638841567
-Nepal,Trust_(Government_Corruption),0.22146507666098808
-Bulgaria,Trust_(Government_Corruption),0.03577512776831346
-Libya,Trust_(Government_Corruption),0.30494037478705277
-Indonesia,Trust_(Government_Corruption),0.08006814310051108
-Ivory Coast,Trust_(Government_Corruption),0.21124361158432708
-North Macedonia,Trust_(Government_Corruption),0.05281090289608177
-Albania,Trust_(Government_Corruption),0.04770017035775128
-South Africa,Trust_(Government_Corruption),0.07836456558773423
-Azerbaijan,Trust_(Government_Corruption),0.5809199318568995
-Gambia,Trust_(Government_Corruption),0.17546848381601363
-Bangladesh,Trust_(Government_Corruption),0.31856899488926743
-Laos,Trust_(Government_Corruption),0.31345826235093693
-Algeria,Trust_(Government_Corruption),0.2555366269165247
-Liberia,Trust_(Government_Corruption),0.1362862010221465
-Ukraine,Trust_(Government_Corruption),0.028960817717206135
-Congo,Trust_(Government_Corruption),0.24872231686541735
-Morocco,Trust_(Government_Corruption),0.1737649063032368
-Mozambique,Trust_(Government_Corruption),0.3407155025553663
-Cameroon,Trust_(Government_Corruption),0.1260647359454855
-Senegal,Trust_(Government_Corruption),0.13798977853492334
-Niger,Trust_(Government_Corruption),0.24701873935264052
-Georgia,Trust_(Government_Corruption),0.3543441226575809
-Gabon,Trust_(Government_Corruption),0.16865417376490632
-Iraq,Trust_(Government_Corruption),0.07836456558773423
-Venezuela,Trust_(Government_Corruption),0.13969335604770017
-Guinea,Trust_(Government_Corruption),0.19761499148211245
-Iran,Trust_(Government_Corruption),0.24872231686541735
-Ghana,Trust_(Government_Corruption),0.09540034071550256
-Turkey,Trust_(Government_Corruption),0.19591141396933562
-Burkina Faso,Trust_(Government_Corruption),0.21465076660988075
-Cambodia,Trust_(Government_Corruption),0.11584327086882454
-Benin,Trust_(Government_Corruption),0.39182282793867124
-Comoros,Trust_(Government_Corruption),0.21294718909710392
-Uganda,Trust_(Government_Corruption),0.11243611584327087
-Nigeria,Trust_(Government_Corruption),0.06473594548551959
-Kenya,Trust_(Government_Corruption),0.13969335604770017
-Tunisia,Trust_(Government_Corruption),0.04940374787052811
-Pakistan,Trust_(Government_Corruption),0.19080068143100512
-Palestinian Territories,Trust_(Government_Corruption),0.13458262350936967
-Mali,Trust_(Government_Corruption),0.07155025553662692
-Namibia,Trust_(Government_Corruption),0.12095400340715501
-Eswatini,Trust_(Government_Corruption),0.262350936967632
-Myanmar,Trust_(Government_Corruption),0.3304940374787053
-Sri Lanka,Trust_(Government_Corruption),0.13458262350936967
-Madagascar,Trust_(Government_Corruption),0.262350936967632
-Egypt,Trust_(Government_Corruption),0.43270868824531517
-Chad,Trust_(Government_Corruption),0.131175468483816
-Ethiopia,Trust_(Government_Corruption),0.23168654173764908
-Yemen,Trust_(Government_Corruption),0.1669505962521295
-Mauritania,Trust_(Government_Corruption),0.23509369676320274
-Jordan,Trust_(Government_Corruption),0.3407155025553663
-Togo,Trust_(Government_Corruption),0.22487223168654175
-India,Trust_(Government_Corruption),0.20954003407155025
-Zambia,Trust_(Government_Corruption),0.141396933560477
-Malawi,Trust_(Government_Corruption),0.2674616695059625
-Tanzania,Trust_(Government_Corruption),0.4599659284497445
-Sierra Leone,Trust_(Government_Corruption),0.09369676320272573
-Lesotho,Trust_(Government_Corruption),0.03066439522998296
-Botswana,Trust_(Government_Corruption),0.1737649063032368
-Rwanda,Trust_(Government_Corruption),0.9267461669505963
-Zimbabwe,Trust_(Government_Corruption),0.1788756388415673
-Lebanon,Trust_(Government_Corruption),0.05792163543441227
-Afghanistan,Trust_(Government_Corruption),0.008517887563884156
+Finland,Government Trust,0.909710391822828
+Denmark,Government Trust,0.9063032367972743
+Iceland,Government Trust,0.3253833049403748
+Switzerland,Government Trust,0.7853492333901193
+Netherlands,Government Trust,0.7137989778534923
+Luxembourg,Government Trust,0.6609880749574106
+Sweden,Government Trust,0.8722316865417377
+Norway,Government Trust,0.807495741056218
+Israel,Government Trust,0.24361158432708685
+New Zealand,Government Trust,0.8228279386712095
+Austria,Government Trust,0.5604770017035775
+Australia,Government Trust,0.5809199318568995
+Ireland,Government Trust,0.6950596252129472
+Germany,Government Trust,0.6098807495741055
+Canada,Government Trust,0.6269165247018739
+United States of America,Government Trust,0.3015332197614991
+United Kingdom,Government Trust,0.5604770017035775
+Czechia,Government Trust,0.08177172061328791
+Belgium,Government Trust,0.3475298126064736
+France,Government Trust,0.45315161839863716
+Bahrain,Government Trust,0.26405451448040884
+Slovenia,Government Trust,0.19591141396933562
+Costa Rica,Government Trust,0.1737649063032368
+United Arab Emirates,Government Trust,0.42589437819420783
+Saudi Arabia,Government Trust,0.3066439522998296
+Taiwan Province of China,Government Trust,0.28620102214650767
+Singapore,Government Trust,0.9999999999999999
+Romania,Government Trust,0.010221465076660989
+Spain,Government Trust,0.25383304940374785
+Uruguay,Government Trust,0.4514480408858603
+Italy,Government Trust,0.10051107325383304
+Kosovo,Government Trust,0.0596252129471891
+Malta,Government Trust,0.282793867120954
+Lithuania,Government Trust,0.131175468483816
+Slovakia,Government Trust,0.04258943781942079
+Estonia,Government Trust,0.5672913117546848
+Panama,Government Trust,0.0868824531516184
+Brazil,Government Trust,0.2282793867120954
+Guatemala,Government Trust,0.19591141396933562
+Kazakhstan,Government Trust,0.2674616695059625
+Cyprus,Government Trust,0.10562180579216354
+Latvia,Government Trust,0.1533219761499148
+Serbia,Government Trust,0.14991482112436114
+Chile,Government Trust,0.11754684838160137
+Nicaragua,Government Trust,0.36115843270868825
+Mexico,Government Trust,0.19591141396933562
+Croatia,Government Trust,0.0
+Poland,Government Trust,0.2385008517887564
+El Salvador,Government Trust,0.36115843270868825
+Kuwait,Government Trust,0.2504258943781942
+Hungary,Government Trust,0.10902896081771721
+Mauritius,Government Trust,0.18228279386712096
+Uzbekistan,Government Trust,0.4088586030664395
+Japan,Government Trust,0.37137989778534924
+Honduras,Government Trust,0.12947189097103917
+Portugal,Government Trust,0.06643952299829642
+Argentina,Government Trust,0.14480408858603067
+Greece,Government Trust,0.1839863713798978
+South Korea,Government Trust,0.2998296422487223
+Philippines,Government Trust,0.24190800681431002
+Thailand,Government Trust,0.044293015332197615
+Moldova,Government Trust,0.04770017035775128
+Jamaica,Government Trust,0.09028960817717206
+Kyrgyzstan,Government Trust,0.04258943781942079
+Belarus,Government Trust,0.48040885860306637
+Colombia,Government Trust,0.131175468483816
+Bosnia and Herzegovina,Government Trust,0.010221465076660989
+Mongolia,Government Trust,0.10051107325383304
+Dominican Republic,Government Trust,0.30494037478705277
+Malaysia,Government Trust,0.21465076660988075
+Bolivia,Government Trust,0.10902896081771721
+China,Government Trust,0.24190800681431002
+Paraguay,Government Trust,0.10051107325383304
+Peru,Government Trust,0.06303236797274275
+Montenegro,Government Trust,0.131175468483816
+Ecuador,Government Trust,0.141396933560477
+Vietnam,Government Trust,0.1788756388415673
+Turkmenistan,Government Trust,0.054514480408858604
+North Cyprus,Government Trust,0.3628620102214651
+Russia,Government Trust,0.1362862010221465
+Hong Kong S.A.R. of China,Government Trust,0.6524701873935265
+Armenia,Government Trust,0.3577512776831346
+Tajikistan,Government Trust,0.5178875638841567
+Nepal,Government Trust,0.22146507666098808
+Bulgaria,Government Trust,0.03577512776831346
+Libya,Government Trust,0.30494037478705277
+Indonesia,Government Trust,0.08006814310051108
+Ivory Coast,Government Trust,0.21124361158432708
+North Macedonia,Government Trust,0.05281090289608177
+Albania,Government Trust,0.04770017035775128
+South Africa,Government Trust,0.07836456558773423
+Azerbaijan,Government Trust,0.5809199318568995
+Gambia,Government Trust,0.17546848381601363
+Bangladesh,Government Trust,0.31856899488926743
+Laos,Government Trust,0.31345826235093693
+Algeria,Government Trust,0.2555366269165247
+Liberia,Government Trust,0.1362862010221465
+Ukraine,Government Trust,0.028960817717206135
+Congo,Government Trust,0.24872231686541735
+Morocco,Government Trust,0.1737649063032368
+Mozambique,Government Trust,0.3407155025553663
+Cameroon,Government Trust,0.1260647359454855
+Senegal,Government Trust,0.13798977853492334
+Niger,Government Trust,0.24701873935264052
+Georgia,Government Trust,0.3543441226575809
+Gabon,Government Trust,0.16865417376490632
+Iraq,Government Trust,0.07836456558773423
+Venezuela,Government Trust,0.13969335604770017
+Guinea,Government Trust,0.19761499148211245
+Iran,Government Trust,0.24872231686541735
+Ghana,Government Trust,0.09540034071550256
+Turkey,Government Trust,0.19591141396933562
+Burkina Faso,Government Trust,0.21465076660988075
+Cambodia,Government Trust,0.11584327086882454
+Benin,Government Trust,0.39182282793867124
+Comoros,Government Trust,0.21294718909710392
+Uganda,Government Trust,0.11243611584327087
+Nigeria,Government Trust,0.06473594548551959
+Kenya,Government Trust,0.13969335604770017
+Tunisia,Government Trust,0.04940374787052811
+Pakistan,Government Trust,0.19080068143100512
+Palestinian Territories,Government Trust,0.13458262350936967
+Mali,Government Trust,0.07155025553662692
+Namibia,Government Trust,0.12095400340715501
+Eswatini,Government Trust,0.262350936967632
+Myanmar,Government Trust,0.3304940374787053
+Sri Lanka,Government Trust,0.13458262350936967
+Madagascar,Government Trust,0.262350936967632
+Egypt,Government Trust,0.43270868824531517
+Chad,Government Trust,0.131175468483816
+Ethiopia,Government Trust,0.23168654173764908
+Yemen,Government Trust,0.1669505962521295
+Mauritania,Government Trust,0.23509369676320274
+Jordan,Government Trust,0.3407155025553663
+Togo,Government Trust,0.22487223168654175
+India,Government Trust,0.20954003407155025
+Zambia,Government Trust,0.141396933560477
+Malawi,Government Trust,0.2674616695059625
+Tanzania,Government Trust,0.4599659284497445
+Sierra Leone,Government Trust,0.09369676320272573
+Lesotho,Government Trust,0.03066439522998296
+Botswana,Government Trust,0.1737649063032368
+Rwanda,Government Trust,0.9267461669505963
+Zimbabwe,Government Trust,0.1788756388415673
+Lebanon,Government Trust,0.05792163543441227
+Afghanistan,Government Trust,0.008517887563884156
 Finland,Generosity,0.2329059829059829
 Denmark,Generosity,0.4017094017094017
 Iceland,Generosity,0.576923076923077
