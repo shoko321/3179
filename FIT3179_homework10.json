@@ -1,0 +1,260 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 400,
+    "title": "Top 10 Countries by Sum of Factors (Year 2015)",
+    "data": {
+      "url": "https://raw.githubusercontent.com/shoko321/3179/main/world-happiness-report-2015-2022-cleaned.csv"
+    },
+    "transform": [
+      {"filter": {"field": "Year", "equal": 2015}},
+      {"filter": {"field": "Happiness_Rank", "oneOf": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]}},
+      {
+        "aggregate": [
+          {
+            "op": "sum",
+            "field": "GDP_per_Capita",
+            "as": "GDP per Capita"
+          },
+          {
+            "op": "sum",
+            "field": "Family_(Social_Support)",
+            "as": "Social Support"
+          },
+          {
+            "op": "sum",
+            "field": "Health_(Life_Expectancy)",
+            "as": "Life Expectancy"
+          },
+          {
+            "op": "sum",
+            "field": "Freedom",
+            "as": "Freedom"
+          },
+          {
+            "op": "sum",
+            "field": "Trust_(Government_Corruption)",
+            "as": "Goverment Corruption"
+          },
+          {
+            "op": "sum",
+            "field": "Generosity",
+            "as": "Generosity"
+          }
+        ],
+        "groupby": ["Country"]
+      },
+      {
+        "fold": ["GDP per Capita", "Social Support", "Life Expectancy", "Freedom", "Goverment Corruption", "Generosity"],
+        "as": ["Factor", "Sum"]
+      },
+      {
+        "window": [{"op": "row_number", "as": "rank"}], 
+        "sort": [{"field": "Happiness_Rank", "order": "ascending"}]
+      }
+    ],
+    "layer": [
+    {
+    "params":[
+        {
+        "name": "legendSelection",
+        "select": {"type": "point", "fields": ["Factor"]},
+        "bind": "legend"
+        }
+    ],
+    "mark": "bar",
+    "encoding": {
+      "y": {
+        "field": "Country",
+        "type": "nominal",
+        "sort": {"field": "rank", "order": "ascending"}, 
+        "title": "Country"
+      },
+      "x": {
+        "field": "Sum",
+        "type": "quantitative",
+        "title": "Value"
+      },
+      "color": {
+        "field": "Factor",
+        "type": "nominal",
+        "title": "Factor"
+      },
+      "opacity": {
+        "condition": {"param": "legendSelection", "value": 0.8},
+        "value": 0.2
+      },
+      "tooltip": [
+        {"field": "Country", "title": "Country"},
+        {"field": "Sum", "title": "Value"},
+        {"field": "Factor", "title": "Factor"}
+      ]
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": -180,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 1"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": -140,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 2"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": -100,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 3"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": -60,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 4"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": -20,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 5"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": 20,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 6"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": 60,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 7"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": 100,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 8"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": 140,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 9"},
+      "color": {"value": "black"}
+    }
+  },
+  {
+    "mark": {
+      "type": "text",
+      "align": "left",
+      "baseline": "middle",
+      "dx": -15,
+      "dy": 180,
+      "fontSize": 14,
+      "fontStyle": "italic",
+      "font": "Roboto"
+    },
+    "encoding": {
+      "text": {"value": "Top 10"},
+      "color": {"value": "black"}
+    }
+  }
+]
+} 
