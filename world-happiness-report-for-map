@@ -299,8 +299,8 @@ Ivory Coast,3.916,0.555,0.576,0.045,0.407,0.155,0.203,2016,very low,low,very low
 Cambodia,3.907,0.556,0.538,0.425,0.589,0.081,0.403,2016,very low,low,very low,low,high,low,very high
 Angola,3.866,0.847,0.664,0.05,0.006,0.084,0.121,2016,very low,low,very low,very low,very low,low,low
 Niger,3.856,0.133,0.605,0.262,0.38,0.172,0.21,2016,very low,very low,very low,very low,low,high,high
-South Sudan,3.832,0.394,0.185,0.158,0.197,0.13,0.259,2016,very low,very low,very low,very low,very low,medium,high
-Chad,3.763,0.422,0.632,0.038,0.128,0.05,0.187,2016,very low,very low,very low,very low,very low,low,medium
+S. Sudan,3.832,0.394,0.185,0.158,0.197,0.13,0.259,2016,very low,very low,very low,very low,very low,medium,high
+Chad,3.763,0.4221,0.6318,0.0382,0.1281,0.0495,0.1867,2016,very low,very low,very low,very low,very low,low,medium
 Burkina Faso,3.739,0.32,0.631,0.213,0.334,0.125,0.244,2016,very low,very low,very low,very low,low,medium,high
 Uganda,3.739,0.347,0.91,0.196,0.437,0.064,0.271,2016,very low,very low,low,very low,low,low,high
 Yemen,3.724,0.579,0.475,0.31,0.229,0.059,0.098,2016,very low,low,very low,very low,very low,low,very low
@@ -460,7 +460,7 @@ Benin,3.657,0.431,0.435,0.21,0.426,0.061,0.208,2017,very low,very low,very low,v
 Madagascar,3.644,0.306,0.913,0.375,0.189,0.067,0.209,2017,very low,very low,low,very low,very low,low,high
 Haiti,3.603,0.369,0.64,0.277,0.03,0.1,0.489,2017,very low,very low,very low,very low,very low,medium,very high
 Yemen,3.593,0.592,0.935,0.31,0.249,0.057,0.104,2017,very low,low,low,very low,very low,low,low
-South Sudan,3.591,0.397,0.601,0.163,0.147,0.117,0.286,2017,very low,very low,very low,very low,very low,medium,high
+S. Sudan,3.591,0.397,0.601,0.163,0.147,0.117,0.286,2017,very low,very low,very low,very low,very low,medium,high
 Liberia,3.533,0.119,0.872,0.23,0.333,0.039,0.267,2017,very low,very low,low,very low,low,very low,high
 Guinea,3.507,0.245,0.791,0.194,0.349,0.111,0.265,2017,very low,very low,low,very low,low,medium,high
 Togo,3.495,0.305,0.432,0.247,0.38,0.096,0.197,2017,very low,very low,very low,very low,low,low,medium
@@ -621,7 +621,7 @@ Syria,3.462,0.689,0.382,0.539,0.088,0.144,0.376,2018,very low,low,very low,low,v
 Rwanda,3.408,0.332,0.896,0.4,0.636,0.444,0.2,2018,very low,very low,low,low,high,very high,high
 Yemen,3.355,0.442,1.073,0.343,0.244,0.064,0.083,2018,very low,very low,medium,very low,very low,low,very low
 Tanzania,3.303,0.455,0.991,0.381,0.481,0.097,0.27,2018,very low,very low,low,very low,medium,low,high
-South Sudan,3.254,0.337,0.608,0.177,0.112,0.106,0.224,2018,very low,very low,very low,very low,very low,medium,high
+S. Sudan,3.254,0.337,0.608,0.177,0.112,0.106,0.224,2018,very low,very low,very low,very low,very low,medium,high
 Central African Republic,3.083,0.024,0.0,0.01,0.305,0.038,0.218,2018,very low,very low,very low,very low,low,very low,high
 Burundi,2.905,0.091,0.627,0.145,0.065,0.076,0.149,2018,very low,very low,very low,very low,very low,low,low
 Finland,7.769,1.34,1.587,0.986,0.596,0.393,0.153,2019,very high,high,very high,high,high,very high,low
@@ -779,7 +779,7 @@ Rwanda,3.334,0.359,0.711,0.614,0.555,0.411,0.217,2019,very low,very low,low,medi
 Tanzania,3.231,0.476,0.885,0.499,0.417,0.147,0.276,2019,very low,very low,low,low,low,medium,high
 Afghanistan,3.203,0.35,0.517,0.361,0.0,0.025,0.158,2019,very low,very low,very low,very low,very low,very low,low
 Central African Republic,3.083,0.026,0.0,0.105,0.225,0.035,0.235,2019,very low,very low,very low,very low,very low,very low,high
-South Sudan,2.853,0.306,0.575,0.295,0.01,0.091,0.202,2019,very low,very low,very low,very low,very low,low,high
+S. Sudan,2.853,0.306,0.575,0.295,0.01,0.091,0.202,2019,very low,very low,very low,very low,very low,low,high
 Finland,7.809,1.285,1.5,0.961,0.662,0.478,0.16,2020,very high,high,very high,high,high,very high,low
 Denmark,7.646,1.327,1.503,0.979,0.665,0.495,0.243,2020,very high,high,very high,high,high,very high,high
 Switzerland,7.56,1.391,1.472,1.041,0.629,0.408,0.269,2020,very high,high,very high,very high,high,very high,high
@@ -931,7 +931,7 @@ Tanzania,3.476,0.457,0.873,0.443,0.509,0.204,0.272,2020,very low,very low,low,lo
 Central African Republic,3.476,0.041,0.0,0.0,0.293,0.028,0.254,2020,very low,very low,very low,very low,very low,very low,high
 Rwanda,3.312,0.343,0.523,0.572,0.604,0.486,0.236,2020,very low,very low,very low,low,high,very high,high
 Zimbabwe,3.299,0.426,1.048,0.375,0.377,0.081,0.151,2020,very low,very low,medium,very low,low,low,low
-South Sudan,2.817,0.289,0.553,0.209,0.066,0.111,0.21,2020,very low,very low,very low,very low,very low,medium,high
+S. Sudan,2.817,0.289,0.553,0.209,0.066,0.111,0.21,2020,very low,very low,very low,very low,very low,medium,high
 Afghanistan,2.567,0.301,0.356,0.266,0.0,0.001,0.135,2020,very low,very low,very low,very low,very low,very low,low
 Finland,7.842,1.446,1.106,0.741,0.691,0.481,0.124,2021,very high,high,medium,medium,high,very high,low
 Denmark,7.62,1.502,1.108,0.763,0.686,0.485,0.208,2021,very high,high,medium,medium,high,very high,high
