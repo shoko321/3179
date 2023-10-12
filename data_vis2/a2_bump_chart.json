@@ -1,0 +1,147 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.1.0.json",
+    "title": {
+      "text": "Top N Happniess Rank from 2015 to 2022",
+      "font": "Roboto",
+      "fontSize": 20
+    },
+    "width": 900,
+    "height": 500,
+    "data": {
+      "url": "https://raw.githubusercontent.com/shoko321/3179/main/world-happiness-report-2015-2022-cleaned.csv",
+      "format": {"type": "csv"}
+    },
+    "params": [
+      {
+        "name": "Top_N",
+        "value": 10,
+        "bind": {"input": "range", "min": 1, "max": 20, "step": 1}
+      }
+    ],
+    "transform": [
+      {
+        "sort": [{"field": "Happiness_Score", "order": "descending"}],
+        "window": [{"op": "rank", "as": "happiness_rank"}],
+        "groupby": ["Year"]
+      },
+      {"filter": "datum.happiness_rank <= Top_N"}
+    ],
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "ordinal",
+        "sort": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+        "axis": {
+          "labelAngle": 0,
+          "labelFontSize": 14,
+          "titleFontSize": 16,
+          "title": "Year",
+          "titleFont": "Roboto",
+          "labelFont": "Roboto"
+        }
+      },
+      "y": {
+        "field": "happiness_rank",
+        "type": "quantitative",
+        "sort": "descending",
+        "scale": {"domain": [0.5, {"expr": "Top_N+0.5"}]},
+        "axis": {
+          "labelAngle": 0,
+          "labelFontSize": 14,
+          "titleFontSize": 16,
+          "title": "Happiness Rank",
+          "titleFont": "Roboto",
+          "labelFont": "Roboto",
+          "tickMinStep": 1,
+          "tickCount": {"expr": "Top_N"}
+        }
+      },
+      "tooltip": [
+        {"field": "Year", "type": "ordinal"},
+        {"field": "Country", "type": "nominal"},
+        {"field": "happiness_rank", "type": "quantitative", "title": "Rank"}
+      ]
+    },
+    "layer": [
+      {
+        "mark": {"type": "line", "interpolate": "monotone", "strokeWidth": 20},
+        "encoding": {
+          "color": {
+            "field": "Country",
+            "legend": null,
+            "scale": {"scheme": "tableau10"}
+          },
+          "size": {
+            "condition": {"param": "param", "empty": false, "value": 4},
+            "value": 2
+          },
+          "opacity": {
+            "condition": {"param": "clicked", "empty": false, "value": 1},
+            "value": 0.5
+          }
+        }
+      },
+      {
+        "params": [
+          {
+            "name": "param",
+            "select": {"type": "point", "on": "click", "fields": ["Country"]},
+            "bind": "legend"
+          }
+        ],
+        "mark": {"type": "tick", "thickness": 6},
+        "encoding": {
+          "color": {
+            "condition": {
+              "param": "param",
+              "empty": false,
+              "value": "black"
+            },
+            "field": "Country"
+          },
+          "opacity": {
+            "condition": {"param": "clicked", "empty": false, "value": 1},
+            "value": 0.5
+          }
+        }
+      },
+      {
+        "params": [
+          {"name": "clicked", "select": {"type": "point", "fields": ["Country"]}}
+        ],
+        "transform": [{"filter": {"param": "clicked", "empty": false}}],
+        "mark": {
+          "type": "text",
+          "yOffset": -12,
+          "fontSize": 14,
+          "fontStyle": "bold",
+          "font": "Roboto"
+        },
+        "encoding": {
+          "text": {"field": "Country"},
+          "tooltip": [
+            {"field": "Country", "type": "nominal"},
+            {"field": "Year", "type": "ordinal"},
+            {"field": "happiness_rank", "type": "quantitative"}
+          ]
+        }
+      },
+      {
+        "transform": [{"filter": {"field": "Year", "equal": "2022"}}],
+        "mark": {
+          "type": "text",
+          "yOffset": -12,
+          "fontSize": 14,
+          "fontStyle": "bold",
+          "font": "Roboto"
+        },
+        "encoding": {
+          "text": {"field": "Country"},
+          "opacity": {
+            "condition": {"param": "clicked", "empty": false, "value": 1},
+            "value": 0.9
+          }
+        }
+      }
+    ]
+  }

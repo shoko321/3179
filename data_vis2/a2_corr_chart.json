@@ -1,0 +1,171 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": "Correlation between each factor",
+      "font": "Roboto",
+      "fontSize": 20
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/shoko321/3179/main/world-happiness-report-renamed",
+      "format": {"type": "csv"}
+    },
+    "repeat": {
+      "row": [
+        "Happiness Score",
+        "GDP per Capita",
+        "Social Support",
+        "Health",
+        "Freedom",
+        "Government Trust",
+        "Generosity"
+      ],
+      "column": [
+        "Generosity",
+        "Government Trust",
+        "Freedom",
+        "Health",
+        "Social Support",
+        "GDP per Capita",
+        "Happiness Score"
+      ]
+    },
+    "spec": {
+      "width": 125,
+      "height": 100,
+      "layer": [
+        {
+          "params": [
+            {
+              "name": "brush",
+              "select": {"type": "interval", "resolve": "global"}
+            }
+          ],
+          "mark": "point",
+          "encoding": {
+            "x": {
+              "field": {"repeat": "column"},
+              "type": "quantitative",
+              "axis": {
+                "minExtent": 10,
+                "labelFont": "Roboto", 
+                "titleFont": "Roboto",
+                "titleFontSize": 14
+              }
+            },
+            "y": {
+              "field": {"repeat": "row"},
+              "type": "quantitative",
+              "axis": {
+                "minExtent": 20,
+                "labelFont": "Roboto",
+                "titleFont": "Roboto",
+                "titleFontSize": 14
+              }
+            },
+            "color": {"value": "orange"}, 
+            "opacity": {
+              "condition": {"param": "brush", "value": 0.2},
+              "value": 0.005
+            }
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "blue"},
+          "transform": [{"regression": "GDP per Capita", "on": "Social Support"}],
+          "encoding": {
+            "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+            "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "blue"},
+          "transform": [{"regression": "GDP per Capita", "on": "Health"}],
+          "encoding": {
+            "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+            "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "blue"},
+          "transform": [{"regression": "GDP per Capita", "on": "Freedom"}],
+          "encoding": {
+            "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+            "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "blue"},
+          "transform": [{"regression": "Social Support", "on": "Health"}],
+          "encoding": {
+            "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+            "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "blue"},
+          "transform": [{"regression": "Health", "on": "Freedom"}],
+          "encoding": {
+            "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+            "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "blue"},
+          "transform": [{"regression": "Freedom", "on": "Government Trust"}],
+          "encoding": {
+            "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+            "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+          }
+        },
+        {
+            "mark": {"type": "line", "color": "blue"},
+            "transform": [{"regression": "Happiness Score", "on": "Generosity"}],
+            "encoding": {
+              "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+              "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+            }
+        },
+        {
+            "mark": {"type": "line", "color": "blue"},
+            "transform": [{"regression": "Happiness Score", "on": "Government Trust"}],
+            "encoding": {
+              "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+              "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+            }
+        },
+        {
+            "mark": {"type": "line", "color": "blue"},
+            "transform": [{"regression": "Happiness Score", "on": "Freedom"}],
+            "encoding": {
+              "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+              "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+            }
+        },
+        {
+            "mark": {"type": "line", "color": "blue"},
+            "transform": [{"regression": "Happiness Score", "on": "Health"}],
+            "encoding": {
+              "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+              "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+            }
+        },
+        {
+            "mark": {"type": "line", "color": "blue"},
+            "transform": [{"regression": "Happiness Score", "on": "Social Support"}],
+            "encoding": {
+              "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+              "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+            }
+        },
+        {
+            "mark": {"type": "line", "color": "blue"},
+            "transform": [{"regression": "Happiness Score", "on": "GDP per Capita"}],
+            "encoding": {
+              "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+              "y": {"field": {"repeat": "row"}, "type": "quantitative"}
+            }
+        }
+      ]
+    }
+  }
+  

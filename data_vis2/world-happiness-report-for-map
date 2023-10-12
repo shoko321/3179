@@ -1,0 +1,1230 @@
+Country,Happiness Score,GDP per Capita,Social Support,Health,Freedom,Government Trust,Generosity,Year,Happiness Score category,GDP per Capita category,Social Support category,Health category,Freedom category,Government Trust category,Generosity category
+Switzerland,7.587,1.397,1.35,0.941,0.666,0.42,0.297,2015,very high,high,high,high,high,very high,high
+Iceland,7.561,1.302,1.402,0.948,0.629,0.141,0.436,2015,very high,high,very high,high,high,medium,very high
+Denmark,7.527,1.325,1.361,0.875,0.649,0.484,0.341,2015,very high,high,high,high,high,very high,very high
+Norway,7.522,1.459,1.331,0.885,0.67,0.365,0.347,2015,very high,high,high,high,high,very high,very high
+Canada,7.427,1.326,1.323,0.906,0.633,0.33,0.458,2015,very high,high,high,high,high,very high,very high
+Finland,7.406,1.29,1.318,0.889,0.642,0.414,0.234,2015,very high,high,high,high,high,very high,high
+Netherlands,7.378,1.329,1.28,0.893,0.616,0.318,0.476,2015,very high,high,high,high,high,very high,very high
+Sweden,7.364,1.332,1.289,0.911,0.66,0.438,0.363,2015,very high,high,high,high,high,very high,very high
+New Zealand,7.286,1.25,1.32,0.908,0.639,0.429,0.475,2015,very high,high,high,high,high,very high,very high
+Australia,7.284,1.334,1.309,0.932,0.651,0.356,0.436,2015,very high,high,high,high,high,very high,very high
+Israel,7.278,1.229,1.224,0.914,0.413,0.078,0.332,2015,very high,high,high,high,low,low,very high
+Costa Rica,7.226,0.956,1.238,0.86,0.634,0.106,0.255,2015,very high,medium,high,high,high,medium,high
+Austria,7.2,1.337,1.297,0.89,0.624,0.187,0.331,2015,very high,high,high,high,high,high,very high
+Mexico,7.187,1.021,0.915,0.814,0.482,0.213,0.141,2015,very high,medium,low,high,medium,very high,low
+United States of America,7.119,1.395,1.247,0.862,0.546,0.159,0.401,2015,very high,high,high,high,medium,medium,very high
+Brazil,6.983,0.981,1.233,0.697,0.49,0.175,0.146,2015,high,medium,high,medium,medium,high,low
+Luxembourg,6.946,1.564,1.22,0.919,0.616,0.378,0.28,2015,high,high,high,high,high,very high,high
+Ireland,6.94,1.336,1.369,0.895,0.618,0.287,0.459,2015,high,high,high,high,high,very high,very high
+Belgium,6.937,1.308,1.286,0.897,0.585,0.225,0.223,2015,high,high,high,high,high,very high,high
+United Arab Emirates,6.901,1.427,1.126,0.809,0.642,0.386,0.264,2015,high,high,medium,high,high,very high,high
+United Kingdom,6.867,1.266,1.285,0.909,0.596,0.321,0.519,2015,high,high,high,high,high,very high,very high
+Oman,6.853,1.36,1.082,0.763,0.633,0.325,0.215,2015,high,high,medium,medium,high,very high,high
+Venezuela,6.81,1.044,1.256,0.721,0.429,0.111,0.058,2015,high,medium,high,medium,low,medium,very low
+Singapore,6.798,1.522,1.02,1.025,0.543,0.492,0.311,2015,high,high,medium,very high,medium,very high,very high
+Panama,6.786,1.064,1.199,0.797,0.542,0.093,0.244,2015,high,medium,medium,medium,medium,low,high
+Germany,6.75,1.328,1.299,0.892,0.615,0.218,0.282,2015,high,high,high,high,high,very high,high
+Chile,6.67,1.107,1.124,0.859,0.441,0.129,0.334,2015,high,medium,medium,high,low,medium,very high
+Qatar,6.611,1.69,1.079,0.797,0.64,0.522,0.326,2015,high,high,medium,medium,high,very high,very high
+France,6.575,1.278,1.26,0.946,0.55,0.206,0.123,2015,high,high,high,high,high,very high,low
+Argentina,6.574,1.054,1.248,0.787,0.45,0.085,0.115,2015,high,medium,high,medium,medium,low,low
+Czech Republic,6.505,1.179,1.206,0.845,0.464,0.027,0.107,2015,high,medium,high,high,medium,very low,low
+Uruguay,6.485,1.062,1.209,0.812,0.604,0.246,0.232,2015,high,medium,high,high,high,very high,high
+Colombia,6.477,0.919,1.24,0.691,0.535,0.051,0.184,2015,high,medium,high,medium,medium,low,medium
+Thailand,6.455,0.967,1.265,0.739,0.557,0.032,0.576,2015,high,medium,high,medium,high,very low,very high
+Saudi Arabia,6.411,1.395,1.084,0.72,0.31,0.325,0.137,2015,high,high,medium,medium,low,very high,low
+Spain,6.329,1.23,1.314,0.956,0.46,0.064,0.182,2015,high,high,high,high,medium,low,medium
+Malta,6.302,1.207,1.302,0.887,0.604,0.136,0.518,2015,high,high,high,high,high,medium,very high
+Taiwan,6.298,1.291,1.076,0.875,0.397,0.081,0.254,2015,high,high,medium,high,low,low,high
+Kuwait,6.295,1.554,1.166,0.725,0.555,0.256,0.162,2015,high,high,medium,medium,high,very high,low
+Suriname,6.269,0.995,0.972,0.608,0.597,0.136,0.17,2015,high,medium,low,medium,high,medium,medium
+Trinidad and Tobago,6.168,1.212,1.184,0.615,0.559,0.011,0.318,2015,high,high,medium,medium,high,very low,very high
+El Salvador,6.13,0.765,1.025,0.677,0.404,0.118,0.107,2015,high,low,medium,medium,low,medium,low
+Guatemala,6.123,0.746,1.044,0.644,0.577,0.095,0.275,2015,high,low,medium,medium,high,low,high
+Uzbekistan,6.003,0.632,1.34,0.598,0.658,0.308,0.228,2015,high,low,high,low,high,very high,high
+Slovakia,5.995,1.169,1.27,0.789,0.318,0.034,0.169,2015,medium,medium,high,medium,low,very low,low
+Japan,5.987,1.271,1.257,0.991,0.496,0.181,0.107,2015,medium,high,high,high,medium,high,low
+South Korea,5.984,1.245,0.958,0.965,0.332,0.079,0.186,2015,medium,high,low,high,low,low,medium
+Ecuador,5.975,0.864,0.999,0.791,0.486,0.181,0.115,2015,medium,low,low,medium,medium,high,low
+Bahrain,5.96,1.324,1.216,0.747,0.455,0.306,0.174,2015,medium,high,high,medium,medium,very high,medium
+Italy,5.948,1.251,1.198,0.954,0.262,0.029,0.228,2015,medium,high,medium,high,very low,very low,high
+Bolivia,5.89,0.681,0.978,0.539,0.574,0.088,0.205,2015,medium,low,low,low,high,low,high
+Moldova,5.889,0.594,1.015,0.618,0.328,0.016,0.21,2015,medium,low,medium,medium,low,very low,high
+Paraguay,5.878,0.76,1.305,0.661,0.539,0.082,0.342,2015,medium,low,high,medium,medium,low,very high
+Kazakhstan,5.855,1.123,1.122,0.644,0.516,0.085,0.118,2015,medium,medium,medium,medium,medium,low,low
+Slovenia,5.848,1.185,1.274,0.873,0.609,0.038,0.253,2015,medium,medium,high,high,high,very low,high
+Lithuania,5.833,1.147,1.257,0.731,0.213,0.01,0.026,2015,medium,medium,high,medium,very low,very low,very low
+Nicaragua,5.828,0.593,1.142,0.743,0.555,0.193,0.278,2015,medium,low,medium,medium,high,high,high
+Peru,5.824,0.9,0.975,0.73,0.415,0.06,0.15,2015,medium,medium,low,medium,low,low,low
+Belarus,5.813,1.032,1.233,0.736,0.379,0.191,0.11,2015,medium,medium,high,medium,low,high,low
+Poland,5.791,1.126,1.279,0.779,0.531,0.042,0.168,2015,medium,medium,high,medium,medium,very low,low
+Malaysia,5.77,1.125,1.07,0.724,0.53,0.105,0.331,2015,medium,medium,medium,medium,medium,medium,very high
+Croatia,5.759,1.083,0.796,0.788,0.259,0.024,0.054,2015,medium,medium,low,medium,very low,very low,very low
+Libya,5.754,1.131,1.119,0.704,0.417,0.11,0.183,2015,medium,medium,medium,medium,low,medium,medium
+Russia,5.716,1.138,1.236,0.669,0.367,0.03,0.002,2015,medium,medium,high,medium,low,very low,very low
+Jamaica,5.709,0.81,1.151,0.687,0.504,0.023,0.212,2015,medium,low,medium,medium,medium,very low,high
+North Cyprus,5.695,1.208,1.07,0.924,0.49,0.143,0.262,2015,medium,high,medium,high,medium,medium,high
+Cyprus,5.689,1.208,0.893,0.924,0.407,0.061,0.306,2015,medium,high,low,high,low,low,very high
+Algeria,5.605,0.939,1.078,0.618,0.286,0.174,0.078,2015,medium,medium,medium,medium,very low,high,very low
+Kosovo,5.589,0.801,0.812,0.631,0.247,0.047,0.283,2015,medium,low,low,medium,very low,low,high
+Turkmenistan,5.548,0.958,1.227,0.539,0.476,0.308,0.17,2015,medium,medium,high,low,medium,very high,medium
+Mauritius,5.477,1.008,0.985,0.71,0.561,0.075,0.377,2015,medium,medium,low,medium,high,low,very high
+Hong Kong,5.474,1.386,1.058,1.013,0.596,0.371,0.395,2015,medium,high,medium,very high,high,very high,very high
+Estonia,5.429,1.152,1.228,0.774,0.449,0.152,0.087,2015,medium,medium,high,medium,low,medium,very low
+Indonesia,5.399,0.828,1.087,0.638,0.466,0.0,0.515,2015,medium,low,medium,medium,medium,very low,very high
+Vietnam,5.36,0.632,0.912,0.747,0.594,0.104,0.169,2015,medium,low,low,medium,high,medium,low
+Turkey,5.332,1.061,0.946,0.732,0.228,0.157,0.123,2015,medium,medium,low,medium,very low,medium,low
+Kyrgyzstan,5.286,0.474,1.151,0.651,0.435,0.042,0.3,2015,medium,very low,medium,medium,low,very low,very high
+Nigeria,5.268,0.654,0.904,0.16,0.343,0.04,0.272,2015,medium,low,low,very low,low,very low,high
+Bhutan,5.253,0.77,1.104,0.574,0.532,0.154,0.48,2015,medium,low,medium,low,medium,medium,very high
+Azerbaijan,5.212,1.024,0.938,0.64,0.37,0.161,0.078,2015,medium,medium,low,medium,low,medium,very low
+Pakistan,5.194,0.595,0.414,0.515,0.121,0.105,0.337,2015,medium,low,very low,low,very low,medium,very high
+Jordan,5.192,0.902,1.054,0.696,0.407,0.143,0.111,2015,medium,medium,medium,medium,low,medium,low
+Montenegro,5.192,0.974,0.906,0.725,0.183,0.143,0.161,2015,medium,medium,low,medium,very low,medium,low
+China,5.14,0.89,0.947,0.817,0.517,0.028,0.082,2015,medium,low,low,high,medium,very low,very low
+Zambia,5.129,0.47,0.916,0.299,0.488,0.125,0.196,2015,medium,very low,low,very low,medium,medium,medium
+Romania,5.124,1.043,0.886,0.769,0.351,0.006,0.137,2015,medium,medium,low,medium,low,very low,low
+Serbia,5.123,0.921,1.01,0.748,0.201,0.026,0.192,2015,medium,medium,medium,medium,very low,very low,medium
+Portugal,5.102,1.16,1.139,0.875,0.515,0.011,0.137,2015,medium,medium,medium,high,medium,very low,low
+Latvia,5.098,1.113,1.096,0.724,0.297,0.063,0.182,2015,medium,medium,medium,medium,very low,low,medium
+Philippines,5.073,0.705,1.035,0.581,0.625,0.123,0.25,2015,medium,low,medium,low,high,medium,high
+Somaliland region,5.057,0.188,0.952,0.439,0.466,0.399,0.503,2015,medium,very low,low,low,medium,very high,very high
+Morocco,5.013,0.735,0.641,0.61,0.417,0.085,0.072,2015,medium,low,very low,medium,low,low,very low
+Macedonia,5.007,0.919,1.002,0.735,0.335,0.053,0.224,2015,medium,medium,medium,medium,low,low,high
+Mozambique,4.971,0.083,1.026,0.091,0.34,0.156,0.223,2015,low,very low,medium,very low,low,medium,high
+Albania,4.959,0.879,0.804,0.813,0.357,0.064,0.143,2015,low,low,low,high,low,low,low
+Bosnia and Herzegovina,4.949,0.832,0.919,0.791,0.092,0.002,0.248,2015,low,low,low,medium,very low,very low,high
+Lesotho,4.898,0.375,1.041,0.076,0.318,0.125,0.164,2015,low,very low,medium,very low,low,medium,low
+Dominican Republic,4.885,0.895,1.172,0.668,0.577,0.142,0.217,2015,low,low,medium,medium,high,medium,high
+Laos,4.876,0.591,0.738,0.549,0.596,0.242,0.422,2015,low,low,low,low,high,very high,very high
+Mongolia,4.874,0.828,1.301,0.603,0.436,0.027,0.332,2015,low,low,high,medium,low,very low,very high
+Swaziland,4.867,0.712,1.073,0.076,0.307,0.031,0.183,2015,low,low,medium,very low,low,very low,medium
+Greece,4.857,1.154,0.929,0.882,0.077,0.014,0.0,2015,low,medium,low,high,very low,very low,very low
+Lebanon,4.839,1.026,0.8,0.839,0.339,0.046,0.219,2015,low,medium,low,high,low,low,high
+Hungary,4.8,1.121,1.202,0.759,0.321,0.028,0.128,2015,low,medium,high,medium,low,very low,low
+Honduras,4.788,0.595,0.953,0.695,0.401,0.068,0.23,2015,low,low,low,medium,low,low,high
+Tajikistan,4.786,0.39,0.856,0.574,0.472,0.151,0.23,2015,low,very low,low,low,medium,medium,high
+Tunisia,4.739,0.881,0.604,0.738,0.263,0.064,0.064,2015,low,low,very low,medium,very low,low,very low
+Palestinian Territories,4.715,0.599,0.926,0.66,0.245,0.129,0.113,2015,low,low,low,medium,very low,medium,low
+Bangladesh,4.694,0.398,0.431,0.602,0.408,0.126,0.212,2015,low,very low,very low,medium,low,medium,high
+Iran,4.686,1.009,0.544,0.698,0.3,0.059,0.381,2015,low,medium,very low,medium,low,low,very high
+Ukraine,4.681,0.799,1.203,0.674,0.251,0.03,0.153,2015,low,low,high,medium,very low,very low,low
+Iraq,4.677,0.985,0.819,0.602,0.0,0.138,0.179,2015,low,medium,low,medium,very low,medium,medium
+South Africa,4.642,0.92,1.185,0.277,0.332,0.089,0.12,2015,low,medium,medium,very low,low,low,low
+Ghana,4.633,0.546,0.68,0.401,0.423,0.044,0.231,2015,low,low,very low,low,low,very low,high
+Zimbabwe,4.61,0.271,1.033,0.335,0.259,0.081,0.19,2015,low,very low,medium,very low,very low,low,medium
+Liberia,4.571,0.071,0.79,0.342,0.285,0.062,0.244,2015,low,very low,low,very low,very low,low,high
+India,4.565,0.645,0.382,0.515,0.398,0.085,0.265,2015,low,low,very low,low,low,low,high
+Sudan,4.55,0.521,1.014,0.369,0.101,0.147,0.191,2015,low,low,medium,very low,very low,medium,medium
+Haiti,4.518,0.267,0.743,0.388,0.244,0.172,0.462,2015,low,very low,low,very low,very low,high,very high
+Congo (Kinshasa),4.517,0.0,1.001,0.098,0.226,0.076,0.248,2015,low,very low,medium,very low,very low,low,high
+Nepal,4.514,0.36,0.864,0.569,0.383,0.059,0.323,2015,low,very low,low,low,low,low,very high
+Ethiopia,4.512,0.191,0.604,0.441,0.435,0.15,0.243,2015,low,very low,very low,low,low,medium,high
+Sierra Leone,4.507,0.33,0.956,0.0,0.408,0.088,0.215,2015,low,very low,low,very low,low,low,high
+Mauritania,4.436,0.454,0.869,0.359,0.242,0.175,0.219,2015,low,very low,low,very low,very low,high,high
+Kenya,4.419,0.365,0.999,0.414,0.422,0.058,0.375,2015,low,very low,low,low,low,low,very high
+Djibouti,4.369,0.44,0.592,0.363,0.461,0.281,0.181,2015,low,very low,very low,very low,medium,very high,medium
+Armenia,4.35,0.768,0.777,0.73,0.198,0.039,0.079,2015,low,low,low,medium,very low,very low,very low
+Botswana,4.332,0.994,1.105,0.048,0.495,0.125,0.105,2015,low,medium,medium,very low,medium,medium,low
+Myanmar,4.307,0.271,0.709,0.482,0.44,0.19,0.796,2015,low,very low,low,low,low,high,very high
+Georgia,4.297,0.742,0.386,0.729,0.406,0.383,0.055,2015,low,low,very low,medium,low,very high,very low
+Malawi,4.292,0.016,0.411,0.226,0.431,0.07,0.331,2015,low,very low,very low,very low,low,low,very high
+Sri Lanka,4.271,0.835,1.019,0.708,0.537,0.092,0.408,2015,low,low,medium,medium,medium,low,very high
+Cameroon,4.252,0.423,0.888,0.234,0.493,0.058,0.206,2015,low,very low,low,very low,medium,low,high
+Bulgaria,4.218,1.012,1.106,0.766,0.306,0.009,0.119,2015,low,medium,medium,medium,low,very low,low
+Egypt,4.194,0.882,0.747,0.617,0.173,0.063,0.113,2015,low,low,low,medium,very low,low,low
+Yemen,4.077,0.546,0.681,0.401,0.356,0.079,0.091,2015,low,low,very low,low,low,low,very low
+Angola,4.033,0.758,0.86,0.167,0.104,0.071,0.123,2015,low,low,low,very low,very low,low,low
+Mali,3.995,0.261,1.035,0.206,0.389,0.124,0.188,2015,very low,very low,medium,very low,low,medium,medium
+Congo (Brazzaville),3.989,0.679,0.663,0.311,0.415,0.117,0.124,2015,very low,low,very low,very low,low,medium,low
+Comoros,3.956,0.239,0.793,0.363,0.229,0.199,0.174,2015,very low,very low,low,very low,very low,high,medium
+Uganda,3.931,0.211,1.133,0.339,0.457,0.073,0.291,2015,very low,very low,medium,very low,medium,low,high
+Senegal,3.904,0.365,0.976,0.435,0.368,0.107,0.208,2015,very low,very low,low,low,low,medium,high
+Gabon,3.896,1.06,0.905,0.434,0.319,0.111,0.068,2015,very low,medium,low,low,low,medium,very low
+Niger,3.845,0.069,0.773,0.297,0.477,0.156,0.194,2015,very low,very low,low,very low,medium,medium,medium
+Cambodia,3.819,0.46,0.627,0.611,0.662,0.072,0.404,2015,very low,very low,very low,medium,high,low,very high
+Tanzania,3.781,0.285,1.003,0.382,0.329,0.057,0.344,2015,very low,very low,medium,very low,low,low,very high
+Madagascar,3.681,0.208,0.668,0.467,0.192,0.081,0.213,2015,very low,very low,very low,low,very low,low,high
+Central African Republic,3.678,0.079,0.0,0.067,0.489,0.083,0.238,2015,very low,very low,very low,very low,medium,low,high
+Chad,3.667,0.342,0.761,0.15,0.235,0.053,0.184,2015,very low,very low,low,very low,very low,low,medium
+Guinea,3.656,0.174,0.465,0.24,0.377,0.121,0.287,2015,very low,very low,very low,very low,low,medium,high
+Ivory Coast,3.655,0.465,0.771,0.152,0.469,0.179,0.202,2015,very low,very low,low,very low,medium,high,high
+Burkina Faso,3.587,0.258,0.852,0.271,0.395,0.128,0.217,2015,very low,very low,low,very low,low,medium,high
+Afghanistan,3.575,0.32,0.303,0.303,0.234,0.097,0.365,2015,very low,very low,very low,very low,very low,low,very high
+Rwanda,3.465,0.222,0.774,0.429,0.592,0.552,0.226,2015,very low,very low,low,low,high,very high,high
+Benin,3.34,0.287,0.354,0.319,0.485,0.08,0.183,2015,very low,very low,very low,very low,medium,low,medium
+Syria,3.006,0.663,0.475,0.722,0.157,0.189,0.472,2015,very low,low,very low,medium,very low,high,very high
+Burundi,2.905,0.015,0.416,0.224,0.119,0.101,0.197,2015,very low,very low,very low,very low,very low,medium,medium
+Togo,2.839,0.209,0.14,0.284,0.365,0.107,0.167,2015,very low,very low,very low,very low,low,medium,low
+Denmark,7.526,1.442,1.164,0.795,0.579,0.445,0.362,2016,very high,high,medium,medium,high,very high,very high
+Switzerland,7.509,1.527,1.145,0.863,0.586,0.412,0.281,2016,very high,high,medium,high,high,very high,high
+Iceland,7.501,1.427,1.183,0.867,0.566,0.15,0.477,2016,very high,high,medium,high,high,medium,very high
+Norway,7.498,1.577,1.127,0.796,0.596,0.358,0.379,2016,very high,high,medium,medium,high,very high,very high
+Finland,7.413,1.406,1.135,0.811,0.571,0.41,0.255,2016,very high,high,medium,high,high,very high,high
+Canada,7.404,1.44,1.096,0.828,0.574,0.313,0.448,2016,very high,high,medium,high,high,very high,very high
+Netherlands,7.339,1.465,1.029,0.812,0.552,0.299,0.474,2016,very high,high,medium,high,high,very high,very high
+New Zealand,7.334,1.361,1.173,0.831,0.581,0.419,0.494,2016,very high,high,medium,high,high,very high,very high
+Australia,7.313,1.444,1.105,0.851,0.568,0.323,0.474,2016,very high,high,medium,high,high,very high,very high
+Sweden,7.291,1.452,1.088,0.831,0.582,0.409,0.383,2016,very high,high,medium,high,high,very high,very high
+Israel,7.267,1.338,0.995,0.849,0.364,0.087,0.323,2016,very high,high,low,high,low,low,very high
+Austria,7.119,1.45,1.084,0.806,0.544,0.213,0.329,2016,very high,high,medium,high,medium,very high,very high
+United States of America,7.104,1.508,1.048,0.779,0.482,0.149,0.411,2016,very high,high,medium,medium,medium,medium,very high
+Costa Rica,7.087,1.069,1.022,0.761,0.552,0.105,0.226,2016,very high,medium,medium,medium,high,medium,high
+Puerto Rico,7.039,1.359,1.081,0.778,0.468,0.123,0.222,2016,very high,high,medium,medium,medium,medium,high
+Germany,6.994,1.448,1.098,0.815,0.535,0.286,0.305,2016,high,high,medium,high,medium,very high,very high
+Brazil,6.952,1.088,1.039,0.614,0.404,0.142,0.158,2016,high,medium,medium,medium,low,medium,low
+Belgium,6.929,1.425,1.052,0.82,0.514,0.262,0.242,2016,high,high,medium,high,medium,very high,high
+Ireland,6.907,1.483,1.162,0.815,0.54,0.298,0.45,2016,high,high,medium,high,medium,very high,very high
+Luxembourg,6.871,1.698,1.04,0.845,0.549,0.353,0.276,2016,high,high,medium,high,medium,very high,high
+Mexico,6.778,1.115,0.715,0.711,0.377,0.184,0.117,2016,high,medium,low,medium,low,high,low
+Singapore,6.739,1.646,0.868,0.947,0.488,0.47,0.327,2016,high,high,low,high,medium,very high,very high
+United Kingdom,6.725,1.403,1.087,0.81,0.5,0.274,0.502,2016,high,high,medium,high,medium,very high,very high
+Chile,6.705,1.217,0.906,0.819,0.378,0.115,0.316,2016,high,high,low,high,low,medium,very high
+Panama,6.701,1.183,0.989,0.708,0.489,0.084,0.242,2016,high,medium,low,medium,medium,low,high
+Argentina,6.65,1.151,1.066,0.697,0.423,0.073,0.11,2016,high,medium,medium,medium,low,low,low
+Czech Republic,6.596,1.309,1.008,0.764,0.414,0.04,0.099,2016,high,high,medium,medium,low,very low,very low
+United Arab Emirates,6.573,1.574,0.871,0.73,0.562,0.356,0.266,2016,high,high,low,medium,high,very high,high
+Uruguay,6.545,1.182,1.031,0.722,0.544,0.214,0.181,2016,high,medium,medium,medium,medium,very high,medium
+Malta,6.488,1.308,1.099,0.803,0.55,0.176,0.562,2016,high,high,medium,high,high,high,very high
+Colombia,6.481,1.03,1.022,0.597,0.447,0.054,0.156,2016,high,medium,medium,low,low,low,low
+France,6.478,1.395,1.005,0.838,0.466,0.178,0.122,2016,high,high,medium,high,medium,high,low
+Thailand,6.474,1.089,1.045,0.649,0.496,0.028,0.587,2016,high,medium,medium,medium,medium,very low,very high
+Saudi Arabia,6.379,1.49,0.848,0.593,0.379,0.3,0.155,2016,high,high,low,low,low,very high,low
+Taiwan,6.379,1.397,0.926,0.796,0.324,0.066,0.255,2016,high,high,low,medium,low,low,high
+Qatar,6.375,1.824,0.88,0.717,0.567,0.48,0.324,2016,high,very high,low,medium,high,very high,very high
+Spain,6.361,1.343,1.129,0.879,0.375,0.061,0.177,2016,high,high,medium,high,low,low,medium
+Algeria,6.355,1.053,0.833,0.618,0.21,0.162,0.07,2016,high,medium,low,medium,very low,medium,very low
+Guatemala,6.324,0.835,0.871,0.54,0.504,0.087,0.288,2016,high,low,low,low,medium,low,high
+Suriname,6.269,1.097,0.779,0.509,0.522,0.127,0.167,2016,high,medium,low,low,medium,medium,low
+Kuwait,6.239,1.617,0.878,0.636,0.432,0.237,0.16,2016,high,high,low,medium,low,very high,low
+Bahrain,6.218,1.44,0.944,0.657,0.474,0.258,0.171,2016,high,high,low,medium,medium,very high,medium
+Trinidad and Tobago,6.168,1.326,0.986,0.526,0.485,0.012,0.319,2016,high,high,low,low,medium,very low,very high
+Venezuela,6.084,1.134,1.033,0.619,0.198,0.083,0.043,2016,high,medium,medium,medium,very low,low,very low
+Slovakia,6.078,1.28,1.083,0.704,0.234,0.029,0.138,2016,high,high,medium,medium,very low,very low,low
+El Salvador,6.068,0.874,0.81,0.596,0.373,0.106,0.089,2016,high,low,low,low,low,medium,very low
+Malaysia,6.005,1.251,0.88,0.624,0.39,0.091,0.415,2016,high,high,low,medium,low,low,very high
+Nicaragua,5.992,0.694,0.895,0.652,0.466,0.163,0.298,2016,medium,low,low,medium,medium,medium,high
+Uzbekistan,5.987,0.736,1.168,0.502,0.608,0.283,0.343,2016,medium,low,medium,low,high,very high,very high
+Italy,5.977,1.355,1.042,0.851,0.188,0.026,0.167,2016,medium,high,medium,high,very low,very low,low
+Ecuador,5.976,0.973,0.86,0.686,0.403,0.18,0.101,2016,medium,medium,low,medium,low,high,low
+Belize,5.956,0.876,0.687,0.456,0.512,0.108,0.237,2016,medium,low,very low,low,medium,medium,high
+Japan,5.921,1.38,1.061,0.915,0.468,0.19,0.102,2016,medium,high,medium,high,medium,high,low
+Kazakhstan,5.919,1.229,0.955,0.574,0.405,0.111,0.15,2016,medium,high,low,low,low,medium,low
+Moldova,5.897,0.692,0.831,0.523,0.252,0.019,0.2,2016,medium,low,low,low,very low,very low,high
+Russia,5.856,1.232,1.053,0.59,0.327,0.036,0.027,2016,medium,high,medium,low,low,very low,very low
+Poland,5.835,1.246,1.047,0.691,0.452,0.055,0.144,2016,medium,high,medium,medium,medium,low,low
+South Korea,5.835,1.359,0.722,0.886,0.252,0.077,0.188,2016,medium,high,low,high,very low,low,medium
+Bolivia,5.822,0.794,0.838,0.47,0.51,0.077,0.217,2016,medium,low,low,low,medium,low,high
+Lithuania,5.813,1.269,1.064,0.647,0.189,0.018,0.02,2016,medium,high,medium,medium,very low,very low,very low
+Belarus,5.802,1.131,1.05,0.631,0.291,0.175,0.139,2016,medium,medium,medium,medium,very low,high,low
+North Cyprus,5.771,1.311,0.818,0.841,0.436,0.166,0.263,2016,medium,high,low,high,low,high,high
+Slovenia,5.768,1.299,1.056,0.792,0.532,0.036,0.257,2016,medium,high,medium,medium,medium,very low,high
+Peru,5.743,0.996,0.813,0.63,0.375,0.053,0.145,2016,medium,medium,low,medium,low,low,low
+Turkmenistan,5.658,1.08,1.038,0.44,0.374,0.285,0.226,2016,medium,medium,medium,low,low,very high,high
+Mauritius,5.648,1.144,0.757,0.662,0.461,0.052,0.37,2016,medium,medium,low,medium,medium,low,very high
+Libya,5.615,1.067,0.951,0.523,0.407,0.103,0.171,2016,medium,medium,low,low,low,medium,medium
+Latvia,5.56,1.218,0.95,0.64,0.28,0.089,0.174,2016,medium,high,low,medium,very low,low,medium
+Cyprus,5.546,1.319,0.707,0.849,0.295,0.052,0.279,2016,medium,high,low,high,very low,low,high
+Paraguay,5.538,0.894,1.111,0.583,0.462,0.074,0.253,2016,medium,low,medium,low,medium,low,high
+Romania,5.528,1.17,0.728,0.676,0.367,0.007,0.129,2016,medium,medium,low,medium,low,very low,low
+Estonia,5.517,1.28,1.052,0.681,0.415,0.185,0.084,2016,medium,high,medium,medium,low,high,very low
+Jamaica,5.51,0.893,0.964,0.595,0.436,0.043,0.222,2016,medium,low,low,low,low,very low,high
+Croatia,5.488,1.186,0.608,0.705,0.239,0.04,0.184,2016,medium,medium,very low,medium,very low,very low,medium
+Hong Kong,5.458,1.511,0.87,0.953,0.481,0.316,0.401,2016,medium,high,low,high,medium,very high,very high
+Somalia,5.44,0.0,0.336,0.115,0.568,0.312,0.272,2016,medium,very low,very low,very low,high,very high,high
+Kosovo,5.401,0.901,0.661,0.54,0.144,0.065,0.28,2016,medium,medium,very low,low,very low,low,high
+Turkey,5.389,1.165,0.877,0.647,0.239,0.123,0.047,2016,medium,medium,low,medium,very low,medium,very low
+Indonesia,5.314,0.951,0.876,0.494,0.392,0.003,0.565,2016,medium,medium,low,low,low,very low,very high
+Jordan,5.303,0.997,0.862,0.607,0.36,0.133,0.143,2016,medium,medium,low,medium,low,medium,low
+Azerbaijan,5.291,1.124,0.76,0.545,0.353,0.179,0.056,2016,medium,medium,low,low,low,high,very low
+Philippines,5.279,0.812,0.879,0.47,0.549,0.118,0.217,2016,medium,low,low,low,medium,medium,high
+China,5.245,1.028,0.794,0.736,0.44,0.027,0.05,2016,medium,medium,low,medium,low,very low,very low
+Bhutan,5.196,0.853,0.908,0.498,0.461,0.162,0.485,2016,medium,low,low,low,medium,medium,very high
+Kyrgyzstan,5.185,0.56,0.954,0.554,0.402,0.048,0.384,2016,medium,low,low,low,low,low,very high
+Serbia,5.177,1.034,0.813,0.646,0.157,0.043,0.207,2016,medium,medium,low,medium,very low,very low,high
+Bosnia and Herzegovina,5.163,0.934,0.644,0.708,0.095,0.0,0.299,2016,medium,medium,very low,medium,very low,very low,high
+Montenegro,5.161,1.078,0.742,0.635,0.151,0.127,0.172,2016,medium,medium,low,medium,very low,medium,medium
+Dominican Republic,5.155,1.028,0.995,0.577,0.523,0.124,0.213,2016,medium,medium,low,low,medium,medium,high
+Morocco,5.151,0.841,0.386,0.595,0.256,0.084,0.041,2016,medium,low,very low,low,very low,low,very low
+Hungary,5.145,1.241,0.932,0.676,0.198,0.045,0.099,2016,medium,high,low,medium,very low,very low,very low
+Pakistan,5.132,0.688,0.261,0.403,0.146,0.139,0.312,2016,medium,low,very low,low,very low,medium,very high
+Lebanon,5.129,1.123,0.642,0.762,0.262,0.031,0.237,2016,medium,medium,very low,medium,very low,very low,high
+Portugal,5.123,1.276,0.944,0.794,0.447,0.015,0.117,2016,medium,high,low,medium,low,very low,low
+Macedonia,5.121,1.019,0.782,0.647,0.277,0.07,0.235,2016,medium,medium,low,medium,very low,low,high
+Vietnam,5.061,0.74,0.791,0.662,0.56,0.116,0.251,2016,medium,low,low,medium,high,medium,high
+Somaliland Region,5.057,0.256,0.759,0.331,0.391,0.368,0.515,2016,medium,very low,low,very low,low,very high,very high
+Tunisia,5.045,0.977,0.432,0.596,0.236,0.082,0.039,2016,medium,medium,very low,low,very low,low,very low
+Greece,5.033,1.249,0.755,0.8,0.058,0.041,0.0,2016,medium,high,low,high,very low,very low,very low
+Tajikistan,4.996,0.488,0.756,0.531,0.434,0.135,0.26,2016,low,very low,low,low,low,medium,high
+Mongolia,4.907,0.989,1.09,0.555,0.36,0.033,0.345,2016,low,medium,medium,low,low,very low,very high
+Laos,4.876,0.68,0.55,0.383,0.522,0.224,0.431,2016,low,low,very low,very low,medium,very high,very high
+Nigeria,4.875,0.752,0.645,0.051,0.279,0.031,0.232,2016,low,low,very low,very low,very low,very low,high
+Honduras,4.871,0.694,0.756,0.584,0.268,0.069,0.204,2016,low,low,low,low,very low,low,high
+Iran,4.813,1.118,0.389,0.642,0.225,0.056,0.385,2016,low,medium,very low,medium,very low,low,very high
+Zambia,4.795,0.612,0.638,0.236,0.427,0.115,0.179,2016,low,low,very low,very low,low,medium,medium
+Nepal,4.793,0.446,0.697,0.501,0.37,0.07,0.382,2016,low,very low,very low,low,low,low,very high
+Palestinian Territories,4.754,0.67,0.716,0.568,0.177,0.106,0.112,2016,low,low,low,low,very low,medium,low
+Albania,4.655,0.955,0.502,0.73,0.319,0.053,0.168,2016,low,medium,very low,medium,low,low,low
+Bangladesh,4.643,0.542,0.247,0.53,0.398,0.126,0.191,2016,low,low,very low,low,low,medium,medium
+Sierra Leone,4.635,0.365,0.628,0.0,0.307,0.082,0.239,2016,low,very low,very low,very low,low,low,high
+Iraq,4.575,1.075,0.592,0.511,0.249,0.136,0.196,2016,low,medium,very low,low,very low,medium,medium
+Namibia,4.574,0.933,0.704,0.347,0.486,0.104,0.078,2016,low,medium,low,very low,medium,medium,very low
+Cameroon,4.513,0.525,0.625,0.127,0.427,0.061,0.227,2016,low,low,very low,very low,low,low,high
+Ethiopia,4.508,0.293,0.379,0.346,0.367,0.172,0.295,2016,low,very low,very low,very low,low,high,high
+South Africa,4.459,1.024,0.961,0.186,0.425,0.084,0.137,2016,low,medium,low,very low,low,low,low
+Sri Lanka,4.415,0.973,0.848,0.62,0.508,0.08,0.47,2016,low,medium,low,medium,medium,low,very high
+India,4.404,0.74,0.292,0.451,0.403,0.087,0.25,2016,low,low,very low,low,low,low,high
+Myanmar,4.395,0.341,0.7,0.399,0.427,0.202,0.82,2016,low,very low,low,very low,low,very high,very high
+Egypt,4.362,0.954,0.498,0.521,0.188,0.104,0.127,2016,low,medium,very low,low,very low,medium,low
+Armenia,4.36,0.861,0.625,0.641,0.14,0.036,0.078,2016,low,low,very low,medium,very low,very low,very low
+Kenya,4.356,0.523,0.762,0.301,0.406,0.067,0.413,2016,low,low,low,very low,low,low,very high
+Ukraine,4.324,0.873,1.014,0.586,0.129,0.018,0.204,2016,low,low,medium,low,very low,very low,high
+Ghana,4.276,0.631,0.494,0.297,0.41,0.033,0.212,2016,low,low,very low,very low,low,very low,high
+Congo (Kinshasa),4.272,0.057,0.807,0.188,0.156,0.061,0.255,2016,low,very low,low,very low,very low,low,high
+Georgia,4.252,0.838,0.192,0.64,0.325,0.319,0.068,2016,low,low,very low,medium,low,very high,very low
+Congo (Brazzaville),4.236,0.771,0.478,0.282,0.379,0.098,0.121,2016,low,low,very low,very low,low,low,low
+Senegal,4.219,0.443,0.774,0.405,0.311,0.117,0.191,2016,low,very low,low,low,low,medium,medium
+Bulgaria,4.217,1.113,0.925,0.678,0.212,0.006,0.128,2016,low,medium,low,medium,very low,very low,low
+Mauritania,4.201,0.614,0.841,0.286,0.127,0.18,0.227,2016,low,low,low,very low,very low,high,high
+Zimbabwe,4.193,0.35,0.715,0.16,0.254,0.086,0.185,2016,low,very low,low,very low,very low,low,medium
+Malawi,4.156,0.087,0.147,0.294,0.414,0.076,0.31,2016,low,very low,very low,very low,low,low,very high
+Sudan,4.139,0.631,0.819,0.298,0.0,0.1,0.181,2016,low,low,low,very low,very low,medium,medium
+Gabon,4.121,1.159,0.724,0.349,0.281,0.093,0.062,2016,low,medium,low,very low,very low,low,very low
+Mali,4.073,0.313,0.863,0.163,0.275,0.136,0.211,2016,low,very low,low,very low,very low,medium,high
+Haiti,4.028,0.341,0.296,0.275,0.121,0.145,0.48,2016,low,very low,very low,very low,very low,medium,very high
+Botswana,3.974,1.094,0.892,0.348,0.441,0.108,0.124,2016,very low,medium,low,very low,low,medium,low
+Comoros,3.956,0.275,0.603,0.3,0.154,0.184,0.183,2016,very low,very low,very low,very low,very low,high,medium
+Ivory Coast,3.916,0.555,0.576,0.045,0.407,0.155,0.203,2016,very low,low,very low,very low,low,medium,high
+Cambodia,3.907,0.556,0.538,0.425,0.589,0.081,0.403,2016,very low,low,very low,low,high,low,very high
+Angola,3.866,0.847,0.664,0.05,0.006,0.084,0.121,2016,very low,low,very low,very low,very low,low,low
+Niger,3.856,0.133,0.605,0.262,0.38,0.172,0.21,2016,very low,very low,very low,very low,low,high,high
+S. Sudan,3.832,0.394,0.185,0.158,0.197,0.13,0.259,2016,very low,very low,very low,very low,very low,medium,high
+Chad,3.763,0.422,0.632,0.038,0.128,0.05,0.187,2016,very low,very low,very low,very low,very low,low,medium
+Burkina Faso,3.739,0.32,0.631,0.213,0.334,0.125,0.244,2016,very low,very low,very low,very low,low,medium,high
+Uganda,3.739,0.347,0.91,0.196,0.437,0.064,0.271,2016,very low,very low,low,very low,low,low,high
+Yemen,3.724,0.579,0.475,0.31,0.229,0.059,0.098,2016,very low,low,very low,very low,very low,low,very low
+Madagascar,3.695,0.28,0.461,0.371,0.137,0.075,0.22,2016,very low,very low,very low,very low,very low,low,high
+Tanzania,3.666,0.472,0.776,0.357,0.318,0.051,0.315,2016,very low,very low,low,very low,low,low,very high
+Liberia,3.622,0.107,0.504,0.232,0.257,0.049,0.241,2016,very low,very low,very low,very low,very low,low,high
+Guinea,3.607,0.224,0.311,0.188,0.31,0.119,0.299,2016,very low,very low,very low,very low,low,medium,high
+Rwanda,3.515,0.328,0.616,0.319,0.543,0.505,0.236,2016,very low,very low,very low,very low,medium,very high,high
+Benin,3.484,0.395,0.104,0.21,0.397,0.067,0.202,2016,very low,very low,very low,very low,low,low,high
+Afghanistan,3.36,0.382,0.11,0.173,0.164,0.071,0.313,2016,very low,very low,very low,very low,very low,low,very high
+Togo,3.303,0.281,0.0,0.248,0.347,0.116,0.175,2016,very low,very low,very low,very low,low,medium,medium
+Syria,3.069,0.747,0.149,0.63,0.069,0.172,0.484,2016,very low,low,very low,medium,very low,high,very high
+Burundi,2.905,0.068,0.234,0.157,0.043,0.094,0.203,2016,very low,very low,very low,very low,very low,low,high
+Norway,7.537,1.616,1.534,0.797,0.635,0.316,0.362,2017,very high,high,very high,medium,high,very high,very high
+Denmark,7.522,1.482,1.551,0.793,0.626,0.401,0.355,2017,very high,high,very high,medium,high,very high,very high
+Iceland,7.504,1.481,1.611,0.834,0.627,0.154,0.476,2017,very high,high,very high,high,high,medium,very high
+Switzerland,7.494,1.565,1.517,0.858,0.62,0.367,0.291,2017,very high,high,very high,high,high,very high,high
+Finland,7.469,1.444,1.54,0.809,0.618,0.383,0.245,2017,very high,high,very high,high,high,very high,high
+Netherlands,7.377,1.504,1.429,0.811,0.585,0.283,0.47,2017,very high,high,very high,high,high,very high,very high
+Canada,7.316,1.479,1.481,0.835,0.611,0.287,0.436,2017,very high,high,very high,high,high,very high,very high
+New Zealand,7.314,1.406,1.548,0.817,0.614,0.383,0.5,2017,very high,high,very high,high,high,very high,very high
+Sweden,7.284,1.494,1.478,0.831,0.613,0.384,0.385,2017,very high,high,very high,high,high,very high,very high
+Australia,7.284,1.484,1.51,0.844,0.602,0.301,0.478,2017,very high,high,very high,high,high,very high,very high
+Israel,7.213,1.375,1.376,0.838,0.406,0.085,0.33,2017,very high,high,high,high,low,low,very high
+Costa Rica,7.079,1.11,1.416,0.76,0.58,0.1,0.215,2017,very high,medium,very high,medium,high,medium,high
+Austria,7.006,1.487,1.46,0.815,0.568,0.221,0.316,2017,very high,high,very high,high,high,very high,very high
+United States of America,6.993,1.546,1.42,0.774,0.506,0.136,0.393,2017,high,high,very high,medium,medium,medium,very high
+Ireland,6.977,1.536,1.558,0.81,0.573,0.298,0.428,2017,high,high,very high,high,high,very high,very high
+Germany,6.951,1.488,1.473,0.799,0.563,0.277,0.336,2017,high,high,very high,medium,high,very high,very high
+Belgium,6.891,1.464,1.462,0.818,0.54,0.251,0.232,2017,high,high,very high,high,medium,very high,high
+Luxembourg,6.863,1.742,1.458,0.845,0.597,0.319,0.283,2017,high,high,very high,high,high,very high,high
+United Kingdom,6.714,1.442,1.496,0.805,0.508,0.265,0.493,2017,high,high,very high,high,medium,very high,very high
+Chile,6.652,1.253,1.284,0.819,0.377,0.082,0.327,2017,high,high,high,high,low,low,very high
+United Arab Emirates,6.648,1.626,1.266,0.727,0.608,0.324,0.361,2017,high,high,high,medium,high,very high,very high
+Brazil,6.635,1.107,1.431,0.617,0.437,0.111,0.162,2017,high,medium,very high,medium,low,medium,low
+Czech Republic,6.609,1.353,1.434,0.754,0.491,0.037,0.088,2017,high,high,very high,medium,medium,very low,very low
+Argentina,6.599,1.185,1.44,0.695,0.495,0.06,0.109,2017,high,medium,very high,medium,medium,low,low
+Mexico,6.578,1.153,1.211,0.71,0.413,0.133,0.121,2017,high,medium,high,medium,low,medium,low
+Singapore,6.572,1.692,1.354,0.949,0.55,0.464,0.346,2017,high,high,high,high,high,very high,very high
+Malta,6.527,1.343,1.488,0.822,0.589,0.153,0.575,2017,high,high,very high,high,high,medium,very high
+Uruguay,6.454,1.218,1.412,0.719,0.579,0.178,0.175,2017,high,high,very high,medium,high,high,medium
+Guatemala,6.454,0.872,1.256,0.54,0.531,0.077,0.283,2017,high,low,high,low,medium,low,high
+Panama,6.452,1.234,1.373,0.706,0.55,0.071,0.211,2017,high,high,high,medium,high,low,high
+France,6.442,1.431,1.388,0.844,0.47,0.173,0.13,2017,high,high,high,high,medium,high,low
+Thailand,6.424,1.128,1.426,0.647,0.58,0.032,0.572,2017,high,medium,very high,medium,high,very low,very high
+Taiwan Province of China,6.422,1.434,1.385,0.794,0.361,0.064,0.258,2017,high,high,high,medium,low,low,high
+Spain,6.403,1.384,1.532,0.889,0.409,0.071,0.19,2017,high,high,very high,high,low,low,medium
+Qatar,6.375,1.871,1.274,0.71,0.604,0.439,0.33,2017,high,very high,high,medium,high,very high,very high
+Colombia,6.357,1.071,1.402,0.595,0.477,0.047,0.149,2017,high,medium,very high,low,medium,low,low
+Saudi Arabia,6.344,1.531,1.287,0.59,0.45,0.273,0.148,2017,high,high,high,low,medium,very high,low
+Trinidad and Tobago,6.168,1.361,1.38,0.52,0.519,0.009,0.325,2017,high,high,high,low,medium,very low,very high
+Kuwait,6.105,1.633,1.26,0.632,0.496,0.215,0.228,2017,high,high,high,medium,medium,very high,high
+Slovakia,6.098,1.325,1.505,0.713,0.296,0.024,0.137,2017,high,high,very high,medium,very low,very low,low
+Bahrain,6.087,1.488,1.323,0.653,0.537,0.257,0.173,2017,high,high,high,medium,medium,very high,medium
+Malaysia,6.084,1.291,1.285,0.619,0.402,0.066,0.417,2017,high,high,high,medium,low,low,very high
+Nicaragua,6.071,0.737,1.287,0.653,0.448,0.131,0.302,2017,high,low,high,medium,low,medium,very high
+Ecuador,6.008,1.001,1.286,0.686,0.455,0.14,0.15,2017,high,medium,high,medium,medium,medium,low
+El Salvador,6.003,0.91,1.182,0.596,0.432,0.09,0.078,2017,high,medium,medium,low,low,low,very low
+Poland,5.973,1.292,1.446,0.699,0.52,0.059,0.158,2017,medium,high,very high,medium,medium,low,low
+Uzbekistan,5.971,0.786,1.549,0.498,0.658,0.247,0.416,2017,medium,low,very high,low,high,very high,very high
+Italy,5.964,1.395,1.445,0.853,0.256,0.028,0.173,2017,medium,high,very high,high,very low,very low,medium
+Russia,5.963,1.282,1.469,0.547,0.374,0.033,0.052,2017,medium,high,very high,low,low,very low,very low
+Belize,5.956,0.908,1.081,0.45,0.548,0.097,0.24,2017,medium,medium,medium,low,medium,low,high
+Japan,5.92,1.417,1.436,0.913,0.506,0.164,0.121,2017,medium,high,very high,high,medium,medium,low
+Lithuania,5.902,1.315,1.474,0.629,0.234,0.012,0.01,2017,medium,high,very high,medium,very low,very low,very low
+Algeria,5.872,1.092,1.146,0.618,0.233,0.146,0.069,2017,medium,medium,medium,medium,very low,medium,very low
+Latvia,5.85,1.261,1.405,0.639,0.326,0.074,0.153,2017,medium,high,very high,medium,low,low,low
+South Korea,5.838,1.402,1.128,0.9,0.258,0.063,0.207,2017,medium,high,medium,high,very low,low,high
+Moldova,5.838,0.729,1.252,0.589,0.241,0.01,0.209,2017,medium,low,high,low,very low,very low,high
+Romania,5.825,1.218,1.15,0.685,0.457,0.004,0.134,2017,medium,high,medium,medium,medium,very low,low
+Bolivia,5.823,0.834,1.228,0.474,0.559,0.06,0.226,2017,medium,low,high,low,high,low,high
+Turkmenistan,5.822,1.131,1.493,0.438,0.418,0.259,0.25,2017,medium,medium,very high,low,low,very high,high
+Kazakhstan,5.819,1.285,1.384,0.606,0.437,0.119,0.202,2017,medium,high,high,medium,low,medium,high
+North Cyprus,5.81,1.347,1.186,0.835,0.471,0.155,0.267,2017,medium,high,medium,high,medium,medium,high
+Slovenia,5.758,1.341,1.453,0.791,0.573,0.045,0.243,2017,medium,high,very high,medium,high,very low,high
+Peru,5.715,1.035,1.219,0.63,0.45,0.047,0.127,2017,medium,medium,high,medium,medium,low,low
+Mauritius,5.629,1.189,1.21,0.638,0.491,0.042,0.361,2017,medium,medium,high,medium,medium,very low,very high
+Cyprus,5.621,1.356,1.131,0.845,0.355,0.041,0.271,2017,medium,high,medium,high,low,very low,high
+Estonia,5.611,1.321,1.477,0.695,0.479,0.183,0.099,2017,medium,high,very high,medium,medium,high,very low
+Belarus,5.569,1.157,1.445,0.638,0.295,0.156,0.155,2017,medium,medium,very high,medium,very low,medium,low
+Libya,5.525,1.102,1.358,0.52,0.466,0.093,0.152,2017,medium,medium,high,low,medium,low,low
+Turkey,5.5,1.198,1.338,0.638,0.301,0.1,0.047,2017,medium,medium,high,medium,low,medium,very low
+Paraguay,5.493,0.933,1.507,0.579,0.474,0.091,0.224,2017,medium,medium,very high,low,medium,low,high
+Hong Kong S.A.R. of China,5.472,1.552,1.263,0.943,0.491,0.294,0.374,2017,medium,high,high,high,medium,very high,very high
+Philippines,5.43,0.858,1.254,0.468,0.585,0.099,0.194,2017,medium,low,high,low,high,low,medium
+Serbia,5.395,1.069,1.258,0.651,0.209,0.041,0.22,2017,medium,medium,high,medium,very low,very low,high
+Jordan,5.336,0.991,1.239,0.605,0.418,0.12,0.172,2017,medium,medium,high,medium,low,medium,medium
+Hungary,5.324,1.286,1.343,0.688,0.176,0.037,0.078,2017,medium,high,high,medium,very low,very low,very low
+Jamaica,5.311,0.926,1.368,0.641,0.474,0.055,0.234,2017,medium,medium,high,medium,medium,low,high
+Croatia,5.293,1.223,0.968,0.701,0.256,0.043,0.248,2017,medium,high,low,medium,very low,very low,high
+Kosovo,5.279,0.951,1.138,0.541,0.26,0.057,0.32,2017,medium,medium,medium,low,very low,low,very high
+China,5.273,1.081,1.161,0.741,0.473,0.023,0.029,2017,medium,medium,medium,medium,medium,very low,very low
+Pakistan,5.269,0.727,0.673,0.402,0.235,0.124,0.315,2017,medium,low,very low,low,very low,medium,very high
+Indonesia,5.262,0.996,1.274,0.492,0.443,0.015,0.612,2017,medium,medium,high,low,low,very low,very high
+Venezuela,5.25,1.128,1.431,0.617,0.154,0.064,0.065,2017,medium,medium,very high,medium,very low,low,very low
+Montenegro,5.237,1.121,1.238,0.667,0.195,0.088,0.198,2017,medium,medium,high,medium,very low,low,medium
+Morocco,5.235,0.878,0.775,0.598,0.408,0.088,0.032,2017,medium,low,low,low,low,low,very low
+Azerbaijan,5.234,1.154,1.152,0.541,0.398,0.181,0.045,2017,medium,medium,medium,low,low,high,very low
+Dominican Republic,5.23,1.079,1.402,0.575,0.553,0.114,0.187,2017,medium,medium,very high,low,high,medium,medium
+Greece,5.227,1.289,1.239,0.81,0.096,0.043,0.0,2017,medium,high,high,high,very low,very low,very low
+Lebanon,5.225,1.075,1.13,0.735,0.289,0.038,0.264,2017,medium,medium,medium,medium,very low,very low,high
+Portugal,5.195,1.315,1.367,0.796,0.498,0.016,0.095,2017,medium,high,high,medium,medium,very low,very low
+Bosnia and Herzegovina,5.182,0.982,1.069,0.705,0.204,0.0,0.329,2017,medium,medium,medium,medium,very low,very low,very high
+Honduras,5.181,0.731,1.144,0.583,0.348,0.073,0.236,2017,medium,low,medium,low,low,low,high
+Macedonia,5.175,1.065,1.208,0.645,0.326,0.06,0.254,2017,medium,medium,high,medium,low,low,high
+Somalia,5.151,0.023,0.721,0.114,0.602,0.282,0.292,2017,medium,very low,low,very low,high,very high,high
+Vietnam,5.074,0.789,1.277,0.652,0.571,0.088,0.235,2017,medium,low,high,medium,high,low,high
+Nigeria,5.074,0.784,1.216,0.057,0.395,0.026,0.231,2017,medium,low,high,very low,low,very low,high
+Tajikistan,5.041,0.525,1.271,0.529,0.472,0.146,0.249,2017,medium,low,high,low,medium,medium,high
+Bhutan,5.011,0.885,1.34,0.496,0.502,0.173,0.474,2017,medium,low,high,low,medium,high,very high
+Kyrgyzstan,5.004,0.596,1.394,0.553,0.455,0.039,0.429,2017,medium,low,high,low,medium,very low,very high
+Nepal,4.962,0.48,1.179,0.504,0.44,0.073,0.394,2017,low,very low,medium,low,low,low,very high
+Mongolia,4.955,1.027,1.493,0.558,0.394,0.033,0.338,2017,low,medium,very high,low,low,very low,very high
+South Africa,4.829,1.055,1.385,0.187,0.479,0.073,0.139,2017,low,medium,high,very low,medium,low,low
+Tunisia,4.805,1.007,0.868,0.613,0.29,0.087,0.05,2017,low,medium,low,medium,very low,low,very low
+Palestinian Territories,4.775,0.716,1.156,0.566,0.255,0.089,0.114,2017,low,low,medium,low,very low,low,low
+Egypt,4.735,0.99,0.997,0.52,0.282,0.114,0.129,2017,low,medium,low,low,very low,medium,low
+Bulgaria,4.714,1.161,1.434,0.708,0.289,0.011,0.113,2017,low,medium,very high,medium,very low,very low,low
+Sierra Leone,4.709,0.368,0.984,0.006,0.319,0.071,0.293,2017,low,very low,low,very low,low,low,high
+Cameroon,4.695,0.564,0.946,0.133,0.43,0.051,0.236,2017,low,low,low,very low,low,low,high
+Iran,4.692,1.157,0.712,0.639,0.249,0.049,0.387,2017,low,medium,low,medium,very low,low,very high
+Albania,4.644,0.996,0.804,0.731,0.381,0.04,0.201,2017,low,medium,low,medium,low,very low,high
+Bangladesh,4.608,0.587,0.735,0.533,0.478,0.124,0.172,2017,low,low,low,low,medium,medium,medium
+Namibia,4.574,0.964,1.098,0.339,0.52,0.093,0.077,2017,low,medium,medium,very low,medium,low,very low
+Kenya,4.553,0.56,1.068,0.31,0.453,0.065,0.445,2017,low,low,medium,very low,medium,low,very high
+Mozambique,4.55,0.234,0.871,0.107,0.481,0.179,0.322,2017,low,very low,low,very low,medium,high,very high
+Myanmar,4.545,0.367,1.123,0.398,0.514,0.189,0.838,2017,low,very low,medium,very low,medium,high,very high
+Senegal,4.535,0.479,1.18,0.409,0.378,0.115,0.183,2017,low,very low,medium,low,low,medium,medium
+Zambia,4.514,0.636,1.003,0.258,0.462,0.078,0.25,2017,low,low,medium,very low,medium,low,high
+Iraq,4.497,1.103,0.979,0.501,0.289,0.107,0.2,2017,low,medium,low,low,very low,medium,high
+Gabon,4.465,1.198,1.156,0.357,0.312,0.076,0.044,2017,low,medium,medium,very low,low,low,very low
+Ethiopia,4.46,0.339,0.865,0.353,0.409,0.165,0.313,2017,low,very low,low,very low,low,high,very high
+Sri Lanka,4.44,1.01,1.26,0.625,0.561,0.074,0.491,2017,low,medium,high,medium,high,low,very high
+Armenia,4.376,0.901,1.007,0.638,0.198,0.027,0.083,2017,low,medium,medium,medium,very low,very low,very low
+India,4.315,0.792,0.754,0.455,0.47,0.092,0.232,2017,low,low,low,low,medium,low,high
+Mauritania,4.292,0.648,1.272,0.285,0.096,0.137,0.202,2017,low,low,high,very low,very low,medium,high
+Congo (Brazzaville),4.291,0.809,0.832,0.29,0.435,0.08,0.121,2017,low,low,low,very low,low,low,low
+Georgia,4.286,0.951,0.571,0.65,0.309,0.252,0.054,2017,low,medium,very low,medium,low,very high,very low
+Congo (Kinshasa),4.28,0.092,1.229,0.191,0.236,0.06,0.246,2017,low,very low,high,very low,very low,low,high
+Mali,4.19,0.476,1.281,0.169,0.307,0.105,0.183,2017,low,very low,high,very low,low,medium,medium
+Ivory Coast,4.18,0.603,0.905,0.049,0.448,0.13,0.201,2017,low,low,low,very low,low,medium,high
+Cambodia,4.168,0.602,1.006,0.43,0.633,0.068,0.386,2017,low,low,medium,low,high,low,very high
+Sudan,4.139,0.66,1.214,0.291,0.015,0.09,0.182,2017,low,low,high,very low,very low,low,medium
+Ghana,4.12,0.667,0.874,0.296,0.423,0.025,0.257,2017,low,low,low,very low,low,very low,high
+Ukraine,4.096,0.895,1.395,0.576,0.123,0.023,0.27,2017,low,low,high,low,very low,very low,high
+Uganda,4.081,0.381,1.13,0.218,0.443,0.057,0.326,2017,low,very low,medium,very low,low,low,very high
+Burkina Faso,4.032,0.35,1.043,0.216,0.324,0.12,0.251,2017,low,very low,medium,very low,low,medium,high
+Niger,4.028,0.162,0.993,0.269,0.364,0.139,0.229,2017,low,very low,low,very low,low,medium,high
+Malawi,3.97,0.233,0.513,0.315,0.467,0.073,0.287,2017,very low,very low,very low,very low,medium,low,high
+Chad,3.936,0.438,0.954,0.041,0.162,0.054,0.216,2017,very low,very low,low,very low,very low,low,high
+Zimbabwe,3.875,0.376,1.083,0.197,0.336,0.095,0.189,2017,very low,very low,medium,very low,low,low,medium
+Lesotho,3.808,0.521,1.19,0.0,0.391,0.119,0.157,2017,very low,low,medium,very low,low,medium,low
+Angola,3.795,0.858,1.104,0.05,0.0,0.07,0.098,2017,very low,low,medium,very low,very low,low,very low
+Afghanistan,3.794,0.401,0.582,0.181,0.106,0.061,0.312,2017,very low,very low,very low,very low,very low,low,very high
+Botswana,3.766,1.122,1.222,0.342,0.505,0.099,0.099,2017,very low,medium,high,very low,medium,low,very low
+Benin,3.657,0.431,0.435,0.21,0.426,0.061,0.208,2017,very low,very low,very low,very low,low,low,high
+Madagascar,3.644,0.306,0.913,0.375,0.189,0.067,0.209,2017,very low,very low,low,very low,very low,low,high
+Haiti,3.603,0.369,0.64,0.277,0.03,0.1,0.489,2017,very low,very low,very low,very low,very low,medium,very high
+Yemen,3.593,0.592,0.935,0.31,0.249,0.057,0.104,2017,very low,low,low,very low,very low,low,low
+S. Sudan,3.591,0.397,0.601,0.163,0.147,0.117,0.286,2017,very low,very low,very low,very low,very low,medium,high
+Liberia,3.533,0.119,0.872,0.23,0.333,0.039,0.267,2017,very low,very low,low,very low,low,very low,high
+Guinea,3.507,0.245,0.791,0.194,0.349,0.111,0.265,2017,very low,very low,low,very low,low,medium,high
+Togo,3.495,0.305,0.432,0.247,0.38,0.096,0.197,2017,very low,very low,very low,very low,low,low,medium
+Rwanda,3.471,0.369,0.946,0.326,0.582,0.455,0.253,2017,very low,very low,low,very low,high,very high,high
+Syria,3.462,0.777,0.396,0.501,0.082,0.151,0.494,2017,very low,low,very low,low,very low,medium,very high
+Tanzania,3.349,0.511,1.042,0.365,0.39,0.066,0.354,2017,very low,low,medium,very low,low,low,very high
+Burundi,2.905,0.092,0.63,0.152,0.06,0.084,0.204,2017,very low,very low,very low,very low,very low,low,high
+Central African Republic,2.693,0.0,0.0,0.019,0.271,0.057,0.281,2017,very low,very low,very low,very low,very low,low,high
+Finland,7.632,1.305,1.592,0.874,0.681,0.393,0.202,2018,very high,high,very high,high,high,very high,high
+Norway,7.594,1.456,1.582,0.861,0.686,0.34,0.286,2018,very high,high,very high,high,high,very high,high
+Denmark,7.555,1.351,1.59,0.868,0.683,0.408,0.284,2018,very high,high,very high,high,high,very high,high
+Iceland,7.495,1.343,1.644,0.914,0.677,0.138,0.353,2018,very high,high,very high,high,high,medium,very high
+Switzerland,7.487,1.42,1.549,0.927,0.66,0.357,0.256,2018,very high,high,very high,high,high,very high,high
+Netherlands,7.441,1.361,1.488,0.878,0.638,0.295,0.333,2018,very high,high,very high,high,high,very high,very high
+Canada,7.328,1.33,1.532,0.896,0.653,0.291,0.321,2018,very high,high,very high,high,high,very high,very high
+New Zealand,7.324,1.268,1.601,0.876,0.669,0.389,0.365,2018,very high,high,very high,high,high,very high,very high
+Sweden,7.314,1.355,1.501,0.913,0.659,0.383,0.285,2018,very high,high,very high,high,high,very high,high
+Australia,7.272,1.34,1.573,0.91,0.647,0.302,0.361,2018,very high,high,very high,high,high,very high,very high
+United Kingdom,7.19,1.244,1.433,0.888,0.464,0.082,0.262,2018,very high,high,very high,high,medium,low,high
+Austria,7.139,1.341,1.504,0.891,0.617,0.224,0.242,2018,very high,high,very high,high,high,very high,high
+Costa Rica,7.072,1.01,1.459,0.817,0.632,0.101,0.143,2018,very high,medium,very high,high,high,medium,low
+Ireland,6.977,1.448,1.583,0.876,0.614,0.306,0.307,2018,high,high,very high,high,high,very high,very high
+Germany,6.965,1.34,1.474,0.861,0.586,0.28,0.273,2018,high,high,very high,high,high,very high,high
+Belgium,6.927,1.324,1.483,0.894,0.583,0.24,0.188,2018,high,high,very high,high,high,very high,medium
+Luxembourg,6.91,1.576,1.52,0.896,0.632,0.321,0.196,2018,high,high,very high,high,high,very high,medium
+United States of America,6.886,1.398,1.471,0.819,0.547,0.133,0.291,2018,high,high,very high,high,medium,medium,high
+Israel,6.814,1.301,1.559,0.883,0.533,0.272,0.354,2018,high,high,very high,high,medium,very high,very high
+Czech Republic,6.711,1.233,1.489,0.854,0.543,0.034,0.064,2018,high,high,very high,high,medium,very low,very low
+Malta,6.627,1.27,1.525,0.884,0.645,0.142,0.376,2018,high,high,very high,high,high,medium,very high
+France,6.489,1.293,1.466,0.908,0.52,0.176,0.098,2018,high,high,very high,high,medium,high,very low
+Mexico,6.488,1.038,1.252,0.761,0.479,0.095,0.069,2018,high,medium,high,medium,medium,low,very low
+Chile,6.476,1.131,1.331,0.808,0.431,0.061,0.197,2018,high,medium,high,high,low,low,medium
+Taiwan,6.441,1.365,1.436,0.857,0.418,0.078,0.151,2018,high,high,very high,high,low,low,low
+Panama,6.43,1.112,1.438,0.759,0.597,0.063,0.125,2018,high,medium,very high,medium,high,low,low
+Brazil,6.419,0.986,1.474,0.675,0.493,0.088,0.11,2018,high,medium,very high,medium,medium,low,low
+Argentina,6.388,1.073,1.468,0.744,0.57,0.054,0.062,2018,high,medium,very high,medium,high,low,very low
+Guatemala,6.382,0.781,1.268,0.608,0.604,0.071,0.179,2018,high,low,high,medium,high,low,medium
+Uruguay,6.379,1.093,1.459,0.771,0.625,0.155,0.13,2018,high,medium,very high,medium,high,medium,low
+Qatar,6.374,1.649,1.303,0.748,0.654,0.171,0.256,2018,high,high,high,medium,high,high,high
+Saudi Arabia,6.371,1.379,1.331,0.633,0.509,0.127,0.098,2018,high,high,high,medium,medium,medium,very low
+Singapore,6.343,1.529,1.451,1.008,0.631,0.457,0.261,2018,high,high,very high,very high,high,very high,high
+Malaysia,6.322,1.161,1.258,0.669,0.356,0.059,0.311,2018,high,medium,high,medium,low,low,very high
+Spain,6.31,1.251,1.538,0.965,0.449,0.074,0.142,2018,high,high,very high,high,low,low,low
+Colombia,6.26,0.96,1.439,0.635,0.531,0.039,0.099,2018,high,medium,very high,medium,medium,very low,very low
+Trinidad & Tobago,6.192,1.223,1.492,0.564,0.575,0.019,0.171,2018,high,high,very high,low,high,very low,medium
+Slovakia,6.173,1.21,1.537,0.776,0.354,0.014,0.118,2018,high,high,very high,medium,low,very low,low
+El Salvador,6.167,0.806,1.231,0.639,0.461,0.082,0.065,2018,high,low,high,medium,medium,low,very low
+Nicaragua,6.141,0.668,1.319,0.7,0.527,0.128,0.208,2018,high,low,high,medium,medium,medium,high
+Poland,6.123,1.176,1.448,0.781,0.546,0.064,0.108,2018,high,medium,very high,medium,medium,low,low
+Bahrain,6.105,1.338,1.366,0.698,0.594,0.123,0.243,2018,high,high,high,medium,high,medium,high
+Uzbekistan,6.096,0.719,1.584,0.605,0.724,0.259,0.328,2018,high,low,very high,medium,very high,very high,very high
+Kuwait,6.083,1.474,1.301,0.675,0.554,0.106,0.167,2018,high,high,high,medium,high,medium,low
+Thailand,6.072,1.016,1.417,0.707,0.637,0.029,0.364,2018,high,medium,very high,medium,high,very low,very high
+Italy,6.0,1.264,1.501,0.946,0.281,0.028,0.137,2018,high,high,very high,high,very low,very low,low
+Ecuador,5.973,0.889,1.33,0.736,0.556,0.12,0.114,2018,medium,low,high,medium,high,medium,low
+Belize,5.956,0.807,1.101,0.474,0.593,0.089,0.183,2018,medium,low,medium,low,high,low,medium
+Lithuania,5.952,1.197,1.527,0.716,0.35,0.006,0.026,2018,medium,medium,very high,medium,low,very low,very low
+Slovenia,5.948,1.219,1.506,0.856,0.633,0.051,0.16,2018,medium,high,very high,high,high,low,low
+Romania,5.945,1.116,1.219,0.726,0.528,0.001,0.088,2018,medium,medium,high,medium,medium,very low,very low
+Latvia,5.933,1.148,1.454,0.671,0.363,0.066,0.092,2018,medium,medium,very high,medium,low,low,very low
+Japan,5.915,1.294,1.462,0.988,0.553,0.15,0.079,2018,medium,high,very high,high,high,medium,very low
+Mauritius,5.891,1.09,1.387,0.684,0.584,0.05,0.245,2018,medium,medium,high,medium,high,low,high
+Jamaica,5.89,0.819,1.493,0.693,0.575,0.031,0.096,2018,medium,low,very high,medium,high,very low,very low
+South Korea,5.875,1.266,1.204,0.955,0.244,0.051,0.175,2018,medium,high,high,high,very low,low,medium
+Northern Cyprus,5.835,1.229,1.211,0.909,0.495,0.154,0.179,2018,medium,high,high,high,medium,medium,medium
+Russia,5.81,1.151,1.479,0.599,0.399,0.025,0.065,2018,medium,medium,very high,low,low,very low,very low
+Kazakhstan,5.79,1.143,1.516,0.631,0.454,0.121,0.148,2018,medium,medium,very high,medium,medium,medium,low
+Cyprus,5.762,1.229,1.191,0.909,0.423,0.035,0.202,2018,medium,high,medium,high,low,very low,high
+Bolivia,5.752,0.751,1.223,0.508,0.606,0.054,0.141,2018,medium,low,high,low,high,low,low
+Estonia,5.739,1.2,1.532,0.737,0.553,0.174,0.086,2018,medium,high,very high,medium,high,high,very low
+Paraguay,5.681,0.835,1.522,0.615,0.541,0.074,0.162,2018,medium,low,very high,medium,medium,low,low
+Peru,5.663,0.934,1.249,0.674,0.53,0.034,0.092,2018,medium,medium,high,medium,medium,very low,very low
+Kosovo,5.662,0.855,1.23,0.578,0.448,0.023,0.274,2018,medium,low,high,low,low,very low,high
+Moldova,5.64,0.657,1.301,0.62,0.232,0.0,0.171,2018,medium,low,high,medium,very low,very low,medium
+Turkmenistan,5.636,1.016,1.533,0.517,0.417,0.037,0.199,2018,medium,medium,very high,low,low,very low,medium
+Hungary,5.62,1.171,1.401,0.732,0.259,0.022,0.061,2018,medium,medium,very high,medium,very low,very low,very low
+Libya,5.566,0.985,1.35,0.553,0.496,0.148,0.116,2018,medium,medium,high,low,medium,medium,low
+Philippines,5.524,0.775,1.312,0.513,0.643,0.105,0.12,2018,medium,low,high,low,high,medium,low
+Honduras,5.504,0.62,1.205,0.622,0.459,0.074,0.197,2018,medium,low,high,medium,medium,low,medium
+Belarus,5.483,1.039,1.498,0.7,0.307,0.154,0.101,2018,medium,medium,very high,medium,low,medium,low
+Turkey,5.483,1.148,1.38,0.686,0.324,0.109,0.106,2018,medium,medium,high,medium,low,medium,low
+Pakistan,5.472,0.652,0.81,0.424,0.334,0.113,0.216,2018,medium,low,low,low,low,medium,high
+Hong Kong,5.43,1.405,1.29,1.03,0.524,0.291,0.246,2018,medium,high,high,very high,medium,very high,high
+Portugal,5.41,1.188,1.429,0.884,0.562,0.017,0.055,2018,medium,medium,very high,high,high,very low,very low
+Serbia,5.398,0.975,1.369,0.685,0.288,0.043,0.134,2018,medium,medium,high,medium,very low,very low,low
+Greece,5.358,1.154,1.202,0.879,0.131,0.044,0.0,2018,medium,medium,high,high,very low,very low,very low
+Lebanon,5.358,0.965,1.179,0.785,0.503,0.136,0.214,2018,medium,medium,medium,medium,medium,medium,high
+Montenegro,5.347,1.017,1.279,0.729,0.259,0.081,0.111,2018,medium,medium,high,medium,very low,low,low
+Croatia,5.321,1.115,1.161,0.737,0.38,0.039,0.12,2018,medium,medium,medium,medium,low,very low,low
+Dominican Republic,5.302,0.982,1.441,0.614,0.578,0.106,0.12,2018,medium,medium,very high,medium,high,medium,low
+Algeria,5.295,0.979,1.154,0.687,0.077,0.135,0.055,2018,medium,medium,medium,medium,very low,medium,very low
+Morocco,5.254,0.779,0.797,0.669,0.46,0.074,0.026,2018,medium,low,low,medium,medium,low,very low
+China,5.246,0.989,1.142,0.799,0.597,0.103,0.029,2018,medium,medium,medium,medium,high,medium,very low
+Azerbaijan,5.201,1.024,1.161,0.603,0.43,0.176,0.031,2018,medium,medium,medium,medium,low,high,very low
+Tajikistan,5.199,0.474,1.166,0.598,0.292,0.034,0.187,2018,medium,very low,medium,low,very low,very low,medium
+Macedonia,5.185,0.959,1.239,0.691,0.394,0.052,0.173,2018,medium,medium,high,medium,low,low,medium
+Jordan,5.161,0.822,1.265,0.645,0.468,0.134,0.13,2018,medium,low,high,medium,medium,medium,low
+Nigeria,5.155,0.689,1.172,0.048,0.462,0.032,0.201,2018,medium,low,medium,very low,medium,very low,high
+Kyrgyzstan,5.131,0.53,1.416,0.594,0.54,0.035,0.281,2018,medium,low,very high,low,medium,very low,high
+Bosnia and Herzegovina,5.129,0.915,1.078,0.758,0.28,0.0,0.216,2018,medium,medium,medium,medium,very low,very low,high
+Mongolia,5.125,0.914,1.517,0.575,0.395,0.032,0.253,2018,medium,medium,very high,low,low,very low,high
+Vietnam,5.103,0.715,1.365,0.702,0.618,0.079,0.177,2018,medium,low,high,medium,high,low,medium
+Indonesia,5.093,0.899,1.215,0.522,0.538,0.018,0.484,2018,medium,low,high,low,medium,very low,very high
+Bhutan,5.082,0.796,1.335,0.527,0.541,0.171,0.364,2018,medium,low,high,low,medium,high,very high
+Somalia,4.982,0.0,0.712,0.115,0.674,0.282,0.238,2018,low,very low,low,very low,high,very high,high
+Cameroon,4.975,0.535,0.891,0.182,0.454,0.043,0.183,2018,low,low,low,very low,medium,very low,medium
+Bulgaria,4.933,1.054,1.515,0.712,0.359,0.009,0.064,2018,low,medium,very high,medium,low,very low,very low
+Nepal,4.88,0.425,1.228,0.539,0.526,0.078,0.302,2018,low,very low,high,low,medium,low,very high
+Venezuela,4.806,0.996,1.469,0.657,0.133,0.052,0.056,2018,low,medium,very high,medium,very low,low,very low
+Gabon,4.758,1.036,1.164,0.404,0.356,0.052,0.032,2018,low,medium,medium,low,low,low,very low
+Palestinian Territories,4.743,0.642,1.217,0.602,0.266,0.076,0.086,2018,low,low,high,medium,very low,low,very low
+South Africa,4.724,0.94,1.41,0.33,0.516,0.056,0.103,2018,low,medium,very high,very low,medium,low,low
+Iran,4.707,1.059,0.771,0.691,0.459,0.129,0.282,2018,low,medium,low,medium,medium,medium,high
+Ivory Coast,4.671,0.541,0.872,0.08,0.467,0.103,0.146,2018,low,low,low,very low,medium,medium,low
+Ghana,4.657,0.592,0.896,0.337,0.499,0.029,0.212,2018,low,low,low,very low,medium,very low,high
+Senegal,4.631,0.429,1.117,0.433,0.406,0.082,0.138,2018,low,very low,medium,low,low,low,low
+Laos,4.623,0.72,1.034,0.441,0.626,0.174,0.23,2018,low,low,medium,low,high,high,high
+Tunisia,4.592,0.9,0.906,0.69,0.271,0.063,0.04,2018,low,medium,low,medium,very low,low,very low
+Albania,4.586,0.916,0.817,0.79,0.419,0.032,0.149,2018,low,medium,low,medium,low,very low,low
+Sierra Leone,4.571,0.256,0.813,0.0,0.355,0.053,0.238,2018,low,very low,low,very low,low,low,high
+Congo (Brazzaville),4.559,0.682,0.811,0.343,0.514,0.077,0.091,2018,low,low,low,very low,medium,low,very low
+Bangladesh,4.5,0.532,0.85,0.579,0.58,0.144,0.153,2018,low,low,low,low,high,medium,low
+Sri Lanka,4.471,0.918,1.314,0.672,0.585,0.05,0.307,2018,low,medium,high,medium,high,low,very high
+Iraq,4.456,1.01,0.971,0.536,0.304,0.095,0.148,2018,low,medium,low,low,low,low,low
+Mali,4.447,0.37,1.233,0.152,0.367,0.056,0.139,2018,low,very low,high,very low,low,low,low
+Namibia,4.441,0.874,1.281,0.365,0.519,0.064,0.051,2018,low,low,high,very low,medium,low,very low
+Cambodia,4.433,0.549,1.088,0.457,0.696,0.065,0.256,2018,low,low,medium,low,high,low,high
+Burkina Faso,4.424,0.314,1.097,0.254,0.312,0.128,0.175,2018,low,very low,medium,very low,low,medium,medium
+Egypt,4.419,0.885,1.025,0.553,0.312,0.107,0.092,2018,low,low,medium,low,low,medium,very low
+Mozambique,4.417,0.198,0.902,0.173,0.531,0.158,0.206,2018,low,very low,low,very low,medium,medium,high
+Kenya,4.41,0.493,1.048,0.454,0.504,0.055,0.352,2018,low,very low,medium,low,medium,low,very high
+Zambia,4.377,0.562,1.047,0.295,0.503,0.082,0.221,2018,low,low,medium,very low,medium,low,high
+Mauritania,4.356,0.557,1.245,0.292,0.129,0.093,0.134,2018,low,low,high,very low,very low,low,low
+Ethiopia,4.35,0.308,0.95,0.391,0.452,0.146,0.22,2018,low,very low,low,very low,medium,medium,high
+Georgia,4.34,0.853,0.592,0.643,0.375,0.215,0.038,2018,low,low,very low,medium,low,very high,very low
+Armenia,4.321,0.816,0.99,0.666,0.26,0.028,0.077,2018,low,low,low,medium,very low,very low,very low
+Myanmar,4.308,0.682,1.174,0.429,0.58,0.178,0.598,2018,low,low,medium,low,high,high,very high
+Chad,4.301,0.358,0.907,0.053,0.189,0.06,0.181,2018,low,very low,low,very low,very low,low,medium
+Congo (Kinshasa),4.245,0.069,1.136,0.204,0.312,0.052,0.197,2018,low,very low,medium,very low,low,low,medium
+India,4.19,0.721,0.747,0.485,0.539,0.093,0.172,2018,low,low,low,low,medium,low,medium
+Niger,4.166,0.131,0.867,0.221,0.39,0.099,0.175,2018,low,very low,low,very low,low,low,medium
+Uganda,4.161,0.322,1.09,0.237,0.45,0.061,0.259,2018,low,very low,medium,very low,medium,low,high
+Benin,4.141,0.378,0.372,0.24,0.44,0.067,0.163,2018,low,very low,very low,very low,low,low,low
+Sudan,4.139,0.605,1.24,0.312,0.016,0.082,0.134,2018,low,low,high,very low,very low,low,low
+Ukraine,4.103,0.793,1.413,0.609,0.163,0.011,0.187,2018,low,low,very high,medium,very low,very low,medium
+Togo,3.999,0.259,0.474,0.253,0.434,0.101,0.158,2018,very low,very low,very low,very low,low,medium,low
+Guinea,3.964,0.344,0.792,0.211,0.394,0.094,0.185,2018,very low,very low,low,very low,low,low,medium
+Lesotho,3.808,0.472,1.215,0.079,0.423,0.112,0.116,2018,very low,very low,high,very low,low,medium,low
+Angola,3.795,0.73,1.125,0.269,0.0,0.061,0.079,2018,very low,low,medium,very low,very low,low,very low
+Madagascar,3.774,0.262,0.908,0.402,0.221,0.049,0.155,2018,very low,very low,low,low,very low,low,low
+Zimbabwe,3.692,0.357,1.094,0.248,0.406,0.099,0.132,2018,very low,very low,medium,very low,low,low,low
+Afghanistan,3.632,0.332,0.537,0.255,0.085,0.036,0.191,2018,very low,very low,very low,very low,very low,very low,medium
+Botswana,3.59,1.017,1.174,0.417,0.557,0.092,0.042,2018,very low,medium,medium,low,high,low,very low
+Malawi,3.587,0.186,0.541,0.306,0.531,0.08,0.21,2018,very low,very low,very low,very low,medium,low,high
+Haiti,3.582,0.315,0.714,0.289,0.025,0.104,0.392,2018,very low,very low,low,very low,very low,medium,very high
+Liberia,3.495,0.076,0.858,0.267,0.419,0.03,0.206,2018,very low,very low,low,very low,low,very low,high
+Syria,3.462,0.689,0.382,0.539,0.088,0.144,0.376,2018,very low,low,very low,low,very low,medium,very high
+Rwanda,3.408,0.332,0.896,0.4,0.636,0.444,0.2,2018,very low,very low,low,low,high,very high,high
+Yemen,3.355,0.442,1.073,0.343,0.244,0.064,0.083,2018,very low,very low,medium,very low,very low,low,very low
+Tanzania,3.303,0.455,0.991,0.381,0.481,0.097,0.27,2018,very low,very low,low,very low,medium,low,high
+S. Sudan,3.254,0.337,0.608,0.177,0.112,0.106,0.224,2018,very low,very low,very low,very low,very low,medium,high
+Central African Republic,3.083,0.024,0.0,0.01,0.305,0.038,0.218,2018,very low,very low,very low,very low,low,very low,high
+Burundi,2.905,0.091,0.627,0.145,0.065,0.076,0.149,2018,very low,very low,very low,very low,very low,low,low
+Finland,7.769,1.34,1.587,0.986,0.596,0.393,0.153,2019,very high,high,very high,high,high,very high,low
+Denmark,7.6,1.383,1.573,0.996,0.592,0.41,0.252,2019,very high,high,very high,high,high,very high,high
+Norway,7.554,1.488,1.582,1.028,0.603,0.341,0.271,2019,very high,high,very high,very high,high,very high,high
+Iceland,7.494,1.38,1.624,1.026,0.591,0.118,0.354,2019,very high,high,very high,very high,high,medium,very high
+Netherlands,7.488,1.396,1.522,0.999,0.557,0.298,0.322,2019,very high,high,very high,high,high,very high,very high
+Switzerland,7.48,1.452,1.526,1.052,0.572,0.343,0.263,2019,very high,high,very high,very high,high,very high,high
+Sweden,7.343,1.387,1.487,1.009,0.574,0.373,0.267,2019,very high,high,very high,very high,high,very high,high
+New Zealand,7.307,1.303,1.557,1.026,0.585,0.38,0.33,2019,very high,high,very high,very high,high,very high,very high
+Canada,7.278,1.365,1.505,1.039,0.584,0.308,0.285,2019,very high,high,very high,very high,high,very high,high
+Austria,7.246,1.376,1.475,1.016,0.532,0.226,0.244,2019,very high,high,very high,very high,medium,very high,high
+Australia,7.228,1.372,1.548,1.036,0.557,0.29,0.332,2019,very high,high,very high,very high,high,very high,very high
+Costa Rica,7.167,1.034,1.441,0.963,0.558,0.093,0.144,2019,very high,medium,very high,high,high,low,low
+Israel,7.139,1.276,1.455,1.029,0.371,0.082,0.261,2019,very high,high,very high,very high,low,low,high
+Luxembourg,7.09,1.609,1.479,1.012,0.526,0.316,0.194,2019,very high,high,very high,very high,medium,very high,medium
+United Kingdom,7.054,1.333,1.538,0.996,0.45,0.278,0.348,2019,very high,high,very high,high,medium,very high,very high
+Ireland,7.021,1.499,1.553,0.999,0.516,0.31,0.298,2019,very high,high,very high,high,medium,very high,high
+Germany,6.985,1.373,1.454,0.987,0.495,0.265,0.261,2019,high,high,very high,high,medium,very high,high
+Belgium,6.923,1.356,1.504,0.986,0.473,0.21,0.16,2019,high,high,very high,high,medium,very high,low
+United States of America,6.892,1.433,1.457,0.874,0.454,0.128,0.28,2019,high,high,very high,high,medium,medium,high
+Czech Republic,6.852,1.269,1.487,0.92,0.457,0.036,0.046,2019,high,high,very high,high,medium,very low,very low
+United Arab Emirates,6.825,1.503,1.31,0.825,0.598,0.182,0.262,2019,high,high,high,high,high,high,high
+Malta,6.726,1.3,1.52,0.999,0.564,0.151,0.375,2019,high,high,very high,high,high,medium,very high
+Mexico,6.595,1.07,1.323,0.861,0.433,0.073,0.074,2019,high,medium,high,high,low,low,very low
+France,6.592,1.324,1.472,1.045,0.436,0.183,0.111,2019,high,high,very high,very high,low,high,low
+Taiwan,6.446,1.368,1.43,0.914,0.351,0.097,0.242,2019,high,high,very high,high,low,low,high
+Chile,6.444,1.159,1.369,0.92,0.357,0.056,0.187,2019,high,medium,high,high,low,low,medium
+Guatemala,6.436,0.8,1.269,0.746,0.535,0.078,0.175,2019,high,low,high,medium,medium,low,medium
+Saudi Arabia,6.375,1.403,1.357,0.795,0.439,0.132,0.08,2019,high,high,high,medium,low,medium,very low
+Qatar,6.374,1.684,1.313,0.871,0.555,0.167,0.22,2019,high,high,high,high,high,high,high
+Spain,6.354,1.286,1.484,1.062,0.362,0.079,0.153,2019,high,high,very high,very high,low,low,low
+Panama,6.321,1.149,1.442,0.91,0.516,0.054,0.109,2019,high,medium,very high,high,medium,low,low
+Brazil,6.3,1.004,1.439,0.802,0.39,0.086,0.099,2019,high,medium,very high,high,low,low,very low
+Uruguay,6.293,1.124,1.465,0.891,0.523,0.15,0.127,2019,high,medium,very high,high,medium,medium,low
+Singapore,6.262,1.572,1.463,1.141,0.556,0.453,0.271,2019,high,high,very high,very high,high,very high,high
+El Salvador,6.253,0.794,1.242,0.789,0.43,0.074,0.093,2019,high,low,high,medium,low,low,very low
+Italy,6.223,1.294,1.488,1.039,0.231,0.03,0.158,2019,high,high,very high,very high,very low,very low,low
+Bahrain,6.199,1.362,1.368,0.871,0.536,0.11,0.255,2019,high,high,high,high,medium,medium,high
+Slovakia,6.198,1.246,1.504,0.881,0.334,0.014,0.121,2019,high,high,very high,high,low,very low,low
+Trinidad & Tobago,6.192,1.231,1.477,0.713,0.489,0.016,0.185,2019,high,high,very high,medium,medium,very low,medium
+Poland,6.182,1.206,1.438,0.884,0.483,0.05,0.117,2019,high,high,very high,high,medium,low,low
+Uzbekistan,6.174,0.745,1.529,0.756,0.631,0.24,0.322,2019,high,low,very high,medium,high,very high,very high
+Lithuania,6.149,1.238,1.515,0.818,0.291,0.042,0.043,2019,high,high,very high,high,very low,very low,very low
+Colombia,6.125,0.985,1.41,0.841,0.47,0.034,0.099,2019,high,medium,very high,high,medium,very low,very low
+Slovenia,6.118,1.258,1.523,0.953,0.564,0.057,0.144,2019,high,high,very high,high,high,low,low
+Nicaragua,6.105,0.694,1.325,0.835,0.435,0.127,0.2,2019,high,low,high,high,low,medium,high
+Kosovo,6.1,0.882,1.232,0.758,0.489,0.006,0.262,2019,high,low,high,medium,medium,very low,high
+Argentina,6.086,1.092,1.432,0.881,0.471,0.05,0.066,2019,high,medium,very high,high,medium,low,very low
+Romania,6.07,1.162,1.232,0.825,0.462,0.005,0.083,2019,high,medium,high,high,medium,very low,very low
+Cyprus,6.046,1.263,1.223,1.042,0.406,0.041,0.19,2019,high,high,high,very high,low,very low,medium
+Ecuador,6.028,0.912,1.312,0.868,0.498,0.087,0.126,2019,high,medium,high,high,medium,low,low
+Kuwait,6.021,1.5,1.319,0.808,0.493,0.097,0.142,2019,high,high,high,high,medium,low,low
+Thailand,6.008,1.05,1.409,0.828,0.557,0.028,0.359,2019,high,medium,very high,high,high,very low,very high
+Latvia,5.94,1.187,1.465,0.812,0.264,0.064,0.075,2019,medium,medium,very high,high,very low,low,very low
+South Korea,5.895,1.301,1.219,1.036,0.159,0.056,0.175,2019,medium,high,high,very high,very low,low,medium
+Estonia,5.893,1.237,1.528,0.874,0.495,0.161,0.103,2019,medium,high,very high,high,medium,medium,low
+Jamaica,5.89,0.831,1.478,0.831,0.49,0.028,0.107,2019,medium,low,very high,high,medium,very low,low
+Mauritius,5.888,1.12,1.402,0.798,0.498,0.06,0.215,2019,medium,medium,very high,medium,medium,low,high
+Japan,5.886,1.327,1.419,1.088,0.445,0.14,0.069,2019,medium,high,very high,very high,low,medium,very low
+Honduras,5.86,0.642,1.236,0.828,0.507,0.078,0.246,2019,medium,low,high,high,medium,low,high
+Kazakhstan,5.809,1.173,1.508,0.729,0.41,0.096,0.146,2019,medium,medium,very high,medium,low,low,low
+Bolivia,5.779,0.776,1.209,0.706,0.511,0.064,0.137,2019,medium,low,high,medium,medium,low,low
+Hungary,5.758,1.201,1.41,0.828,0.199,0.02,0.081,2019,medium,high,very high,high,very low,very low,very low
+Paraguay,5.743,0.855,1.475,0.777,0.514,0.08,0.184,2019,medium,low,very high,medium,medium,low,medium
+Northern Cyprus,5.718,1.263,1.252,1.042,0.417,0.162,0.191,2019,medium,high,high,very high,low,medium,medium
+Peru,5.697,0.96,1.274,0.854,0.455,0.027,0.083,2019,medium,medium,high,high,medium,very low,very low
+Portugal,5.693,1.221,1.431,0.999,0.508,0.025,0.047,2019,medium,high,very high,high,medium,very low,very low
+Pakistan,5.653,0.677,0.886,0.535,0.313,0.098,0.22,2019,medium,low,low,low,low,low,high
+Russia,5.648,1.183,1.452,0.726,0.334,0.031,0.082,2019,medium,medium,very high,medium,low,very low,very low
+Philippines,5.631,0.807,1.293,0.657,0.558,0.107,0.117,2019,medium,low,high,medium,high,medium,low
+Serbia,5.603,1.004,1.383,0.854,0.282,0.039,0.137,2019,medium,medium,high,high,very low,very low,low
+Moldova,5.529,0.685,1.328,0.739,0.245,0.0,0.181,2019,medium,low,high,medium,very low,very low,medium
+Libya,5.525,1.044,1.303,0.673,0.416,0.152,0.133,2019,medium,medium,high,medium,low,medium,low
+Montenegro,5.523,1.051,1.361,0.871,0.197,0.08,0.142,2019,medium,medium,high,high,very low,low,low
+Tajikistan,5.467,0.493,1.098,0.718,0.389,0.144,0.23,2019,medium,very low,medium,medium,low,medium,high
+Croatia,5.432,1.155,1.266,0.914,0.296,0.022,0.119,2019,medium,medium,high,high,very low,very low,low
+Hong Kong,5.43,1.438,1.277,1.122,0.44,0.287,0.258,2019,medium,high,high,very high,low,very high,high
+Dominican Republic,5.425,1.015,1.401,0.779,0.497,0.101,0.113,2019,medium,medium,very high,medium,medium,medium,low
+Bosnia and Herzegovina,5.386,0.945,1.212,0.845,0.212,0.006,0.263,2019,medium,medium,high,high,very low,very low,high
+Turkey,5.373,1.183,1.36,0.808,0.195,0.106,0.083,2019,medium,medium,high,high,very low,medium,very low
+Malaysia,5.339,1.221,1.171,0.828,0.508,0.024,0.26,2019,medium,high,medium,high,medium,very low,high
+Belarus,5.323,1.067,1.465,0.789,0.235,0.142,0.094,2019,medium,medium,very high,medium,very low,medium,very low
+Greece,5.287,1.181,1.156,0.999,0.067,0.034,0.0,2019,medium,medium,medium,high,very low,very low,very low
+Mongolia,5.285,0.948,1.531,0.667,0.317,0.038,0.235,2019,medium,medium,very high,medium,low,very low,high
+North Macedonia,5.274,0.983,1.294,0.838,0.345,0.034,0.185,2019,medium,medium,high,high,low,very low,medium
+Nigeria,5.265,0.696,1.111,0.245,0.426,0.041,0.215,2019,medium,low,medium,very low,low,very low,high
+Kyrgyzstan,5.261,0.551,1.438,0.723,0.508,0.023,0.3,2019,medium,low,very high,medium,medium,very low,very high
+Turkmenistan,5.247,1.052,1.538,0.657,0.394,0.028,0.244,2019,medium,medium,very high,medium,low,very low,high
+Algeria,5.211,1.002,1.16,0.785,0.086,0.114,0.073,2019,medium,medium,medium,medium,very low,medium,very low
+Morocco,5.208,0.801,0.782,0.782,0.418,0.076,0.036,2019,medium,low,low,medium,low,low,very low
+Azerbaijan,5.208,1.043,1.147,0.769,0.351,0.182,0.035,2019,medium,medium,medium,medium,low,high,very low
+Lebanon,5.197,0.987,1.224,0.815,0.216,0.027,0.166,2019,medium,medium,high,high,very low,very low,low
+Indonesia,5.192,0.931,1.203,0.66,0.491,0.028,0.498,2019,medium,medium,high,medium,medium,very low,very high
+China,5.191,1.029,1.125,0.893,0.521,0.1,0.058,2019,medium,medium,medium,high,medium,medium,very low
+Vietnam,5.175,0.741,1.346,0.851,0.543,0.073,0.147,2019,medium,low,high,high,medium,low,low
+Bhutan,5.082,0.813,1.321,0.604,0.457,0.167,0.37,2019,medium,low,high,medium,medium,high,very high
+Cameroon,5.044,0.549,0.91,0.331,0.381,0.037,0.187,2019,medium,low,low,very low,low,very low,medium
+Bulgaria,5.011,1.092,1.513,0.815,0.311,0.004,0.081,2019,medium,medium,very high,high,low,very low,very low
+Ghana,4.996,0.611,0.868,0.486,0.381,0.04,0.245,2019,low,low,low,low,low,very low,high
+Ivory Coast,4.944,0.569,0.808,0.232,0.352,0.09,0.154,2019,low,low,low,very low,low,low,low
+Nepal,4.913,0.446,1.226,0.677,0.439,0.089,0.285,2019,low,very low,high,medium,low,low,high
+Jordan,4.906,0.837,1.225,0.815,0.383,0.13,0.11,2019,low,low,high,high,low,medium,low
+Benin,4.883,0.393,0.437,0.397,0.349,0.082,0.175,2019,low,very low,very low,very low,low,low,medium
+Congo (Brazzaville),4.812,0.673,0.799,0.508,0.372,0.093,0.105,2019,low,low,low,low,low,low,low
+Gabon,4.799,1.057,1.183,0.571,0.295,0.055,0.043,2019,low,medium,medium,low,very low,low,very low
+Laos,4.796,0.764,1.03,0.551,0.547,0.164,0.266,2019,low,low,medium,low,medium,medium,high
+South Africa,4.722,0.96,1.351,0.469,0.389,0.055,0.13,2019,low,medium,high,low,low,low,low
+Albania,4.719,0.947,0.848,0.874,0.383,0.027,0.178,2019,low,medium,low,high,low,very low,medium
+Venezuela,4.707,0.96,1.427,0.805,0.154,0.047,0.064,2019,low,medium,very high,high,very low,low,very low
+Cambodia,4.7,0.574,1.122,0.637,0.609,0.062,0.232,2019,low,low,medium,medium,high,low,high
+Palestinian Territories,4.696,0.657,1.247,0.672,0.225,0.066,0.103,2019,low,low,high,medium,very low,low,low
+Senegal,4.681,0.45,1.134,0.571,0.292,0.072,0.153,2019,low,very low,medium,low,very low,low,low
+Somalia,4.668,0.0,0.698,0.268,0.559,0.27,0.243,2019,low,very low,very low,very low,high,very high,high
+Namibia,4.639,0.879,1.313,0.477,0.401,0.056,0.07,2019,low,low,high,low,low,low,very low
+Niger,4.628,0.138,0.774,0.366,0.318,0.102,0.188,2019,low,very low,low,very low,low,medium,medium
+Burkina Faso,4.587,0.331,1.056,0.38,0.255,0.113,0.177,2019,low,very low,medium,very low,very low,medium,medium
+Armenia,4.559,0.85,1.055,0.815,0.283,0.064,0.095,2019,low,low,medium,high,very low,low,very low
+Iran,4.548,1.1,0.842,0.785,0.305,0.125,0.27,2019,low,medium,low,medium,low,medium,high
+Guinea,4.534,0.38,0.829,0.375,0.332,0.086,0.207,2019,low,very low,low,very low,low,low,high
+Georgia,4.519,0.886,0.666,0.752,0.346,0.164,0.043,2019,low,low,very low,medium,low,medium,very low
+Gambia,4.516,0.308,0.939,0.428,0.382,0.167,0.269,2019,low,very low,low,low,low,high,high
+Kenya,4.509,0.512,0.983,0.581,0.431,0.053,0.372,2019,low,low,low,low,low,low,very high
+Mauritania,4.49,0.57,1.167,0.489,0.066,0.088,0.106,2019,low,low,medium,low,very low,low,low
+Mozambique,4.466,0.204,0.986,0.39,0.494,0.138,0.197,2019,low,very low,low,very low,medium,medium,medium
+Tunisia,4.461,0.921,1.0,0.815,0.167,0.055,0.059,2019,low,medium,medium,high,very low,low,very low
+Bangladesh,4.456,0.562,0.928,0.723,0.527,0.143,0.166,2019,low,low,low,medium,medium,medium,low
+Iraq,4.437,1.043,0.98,0.574,0.241,0.089,0.148,2019,low,medium,low,low,very low,low,low
+Congo (Kinshasa),4.418,0.094,1.125,0.357,0.269,0.053,0.212,2019,low,very low,medium,very low,very low,low,high
+Mali,4.39,0.385,1.105,0.308,0.327,0.052,0.153,2019,low,very low,medium,very low,low,low,low
+Sierra Leone,4.374,0.268,0.841,0.242,0.309,0.045,0.252,2019,low,very low,low,very low,low,very low,high
+Sri Lanka,4.366,0.949,1.265,0.831,0.47,0.047,0.244,2019,low,medium,high,high,medium,low,high
+Myanmar,4.36,0.71,1.181,0.555,0.525,0.172,0.566,2019,low,low,medium,low,medium,high,very high
+Chad,4.35,0.35,0.766,0.192,0.174,0.078,0.198,2019,low,very low,low,very low,very low,low,medium
+Ukraine,4.332,0.82,1.39,0.739,0.178,0.01,0.187,2019,low,low,high,medium,very low,very low,medium
+Ethiopia,4.286,0.336,1.033,0.532,0.344,0.1,0.209,2019,low,very low,medium,low,low,medium,high
+Swaziland,4.212,0.811,1.149,0.0,0.313,0.135,0.074,2019,low,low,medium,very low,low,medium,very low
+Uganda,4.189,0.332,1.069,0.443,0.356,0.06,0.252,2019,low,very low,medium,low,low,low,high
+Egypt,4.166,0.913,1.039,0.644,0.241,0.067,0.076,2019,low,medium,medium,medium,very low,low,very low
+Zambia,4.107,0.578,1.058,0.426,0.431,0.087,0.247,2019,low,low,medium,low,low,low,high
+Togo,4.085,0.275,0.572,0.41,0.293,0.085,0.177,2019,low,very low,very low,low,very low,low,medium
+India,4.015,0.755,0.765,0.588,0.498,0.085,0.2,2019,low,low,low,low,medium,low,high
+Liberia,3.975,0.073,0.922,0.443,0.37,0.033,0.233,2019,very low,very low,low,low,low,very low,high
+Comoros,3.973,0.274,0.757,0.505,0.142,0.078,0.275,2019,very low,very low,low,low,very low,low,high
+Madagascar,3.933,0.274,0.916,0.555,0.148,0.041,0.169,2019,very low,very low,low,low,very low,very low,low
+Lesotho,3.802,0.489,1.169,0.168,0.359,0.093,0.107,2019,very low,very low,medium,very low,low,low,low
+Burundi,3.775,0.046,0.447,0.38,0.22,0.18,0.176,2019,very low,very low,very low,very low,very low,high,medium
+Zimbabwe,3.663,0.366,1.114,0.433,0.361,0.089,0.151,2019,very low,very low,medium,low,low,low,low
+Haiti,3.597,0.323,0.688,0.449,0.026,0.11,0.419,2019,very low,very low,very low,low,very low,medium,very high
+Botswana,3.488,1.041,1.145,0.538,0.455,0.1,0.025,2019,very low,medium,medium,low,medium,medium,very low
+Syria,3.462,0.619,0.378,0.44,0.013,0.141,0.331,2019,very low,low,very low,low,very low,medium,very high
+Malawi,3.41,0.191,0.56,0.495,0.443,0.089,0.218,2019,very low,very low,very low,low,low,low,high
+Yemen,3.38,0.287,1.163,0.463,0.143,0.077,0.108,2019,very low,very low,medium,low,very low,low,low
+Rwanda,3.334,0.359,0.711,0.614,0.555,0.411,0.217,2019,very low,very low,low,medium,high,very high,high
+Tanzania,3.231,0.476,0.885,0.499,0.417,0.147,0.276,2019,very low,very low,low,low,low,medium,high
+Afghanistan,3.203,0.35,0.517,0.361,0.0,0.025,0.158,2019,very low,very low,very low,very low,very low,very low,low
+Central African Republic,3.083,0.026,0.0,0.105,0.225,0.035,0.235,2019,very low,very low,very low,very low,very low,very low,high
+S. Sudan,2.853,0.306,0.575,0.295,0.01,0.091,0.202,2019,very low,very low,very low,very low,very low,low,high
+Finland,7.809,1.285,1.5,0.961,0.662,0.478,0.16,2020,very high,high,very high,high,high,very high,low
+Denmark,7.646,1.327,1.503,0.979,0.665,0.495,0.243,2020,very high,high,very high,high,high,very high,high
+Switzerland,7.56,1.391,1.472,1.041,0.629,0.408,0.269,2020,very high,high,very high,very high,high,very high,high
+Iceland,7.504,1.327,1.548,1.001,0.662,0.145,0.362,2020,very high,high,very high,very high,high,medium,very high
+Norway,7.488,1.424,1.495,1.008,0.67,0.434,0.288,2020,very high,high,very high,very high,high,very high,high
+Netherlands,7.449,1.339,1.464,0.976,0.614,0.369,0.336,2020,very high,high,very high,high,high,very high,very high
+Sweden,7.353,1.322,1.433,0.986,0.65,0.442,0.273,2020,very high,high,very high,high,high,very high,high
+New Zealand,7.3,1.242,1.487,1.008,0.647,0.461,0.326,2020,very high,high,very high,very high,high,very high,very high
+Austria,7.294,1.317,1.437,1.001,0.603,0.281,0.256,2020,very high,high,very high,very high,high,very high,high
+Luxembourg,7.238,1.537,1.388,0.986,0.61,0.367,0.196,2020,very high,high,high,high,high,very high,medium
+Canada,7.232,1.302,1.435,1.023,0.644,0.352,0.282,2020,very high,high,very high,very high,high,very high,high
+Australia,7.223,1.31,1.477,1.023,0.622,0.336,0.325,2020,very high,high,very high,very high,high,very high,very high
+United Kingdom,7.165,1.273,1.458,0.976,0.525,0.323,0.373,2020,very high,high,very high,high,medium,very high,very high
+Israel,7.129,1.216,1.403,1.008,0.421,0.1,0.267,2020,very high,high,very high,very high,low,medium,high
+Costa Rica,7.121,0.981,1.375,0.94,0.645,0.096,0.131,2020,very high,medium,high,high,high,low,low
+Ireland,7.094,1.447,1.471,0.976,0.588,0.373,0.295,2020,very high,high,very high,high,high,very high,high
+Germany,7.076,1.314,1.369,0.972,0.564,0.309,0.252,2020,very high,high,high,high,high,very high,high
+United States of America,6.94,1.374,1.405,0.832,0.535,0.152,0.298,2020,high,high,very high,high,medium,medium,high
+Czech Republic,6.911,1.212,1.405,0.895,0.506,0.05,0.046,2020,high,high,very high,high,medium,low,very low
+Belgium,6.864,1.296,1.399,0.965,0.5,0.209,0.147,2020,high,high,high,high,medium,very high,low
+United Arab Emirates,6.791,1.431,1.251,0.788,0.653,0.22,0.281,2020,high,high,high,medium,high,very high,high
+Malta,6.773,1.253,1.443,0.972,0.633,0.179,0.341,2020,high,high,very high,high,high,high,very high
+France,6.664,1.268,1.459,1.03,0.514,0.227,0.113,2020,high,high,very high,very high,medium,very high,low
+Mexico,6.465,1.024,1.226,0.832,0.554,0.083,0.083,2020,high,medium,high,high,high,low,very low
+Taiwan Province of China,6.455,1.327,1.358,0.878,0.449,0.132,0.151,2020,high,high,high,high,low,medium,low
+Uruguay,6.44,1.071,1.425,0.857,0.594,0.193,0.132,2020,high,medium,very high,high,high,high,low
+Saudi Arabia,6.406,1.334,1.31,0.76,0.548,0.163,0.087,2020,high,high,high,medium,medium,medium,very low
+Spain,6.401,1.231,1.421,1.051,0.426,0.11,0.165,2020,high,high,very high,very high,low,medium,low
+Guatemala,6.399,0.754,1.174,0.706,0.613,0.098,0.171,2020,high,low,medium,medium,high,low,medium
+Italy,6.387,1.236,1.347,1.023,0.321,0.04,0.17,2020,high,high,high,very high,low,very low,medium
+Singapore,6.377,1.52,1.395,1.138,0.635,0.533,0.219,2020,high,high,high,very high,high,very high,high
+Brazil,6.376,0.953,1.363,0.766,0.483,0.107,0.132,2020,high,medium,high,medium,medium,medium,low
+Slovenia,6.363,1.209,1.465,0.933,0.647,0.077,0.146,2020,high,high,very high,high,high,low,low
+El Salvador,6.348,0.749,1.149,0.753,0.524,0.117,0.119,2020,high,low,medium,medium,medium,medium,low
+Kosovo,6.325,0.84,1.184,0.673,0.557,0.009,0.325,2020,high,low,medium,medium,high,very low,very high
+Panama,6.305,1.098,1.376,0.879,0.58,0.054,0.097,2020,high,medium,high,high,high,low,very low
+Slovakia,6.281,1.195,1.424,0.853,0.424,0.011,0.117,2020,high,medium,very high,high,low,very low,low
+Uzbekistan,6.258,0.697,1.434,0.717,0.693,0.28,0.363,2020,high,low,very high,medium,high,very high,very high
+Chile,6.228,1.097,1.323,0.889,0.417,0.063,0.156,2020,high,medium,high,high,low,low,low
+Bahrain,6.227,1.297,1.315,0.839,0.61,0.127,0.287,2020,high,high,high,high,high,medium,high
+Lithuania,6.215,1.194,1.433,0.795,0.42,0.081,0.054,2020,high,medium,very high,medium,low,low,very low
+Trinidad and Tobago,6.192,1.168,1.407,0.659,0.553,0.015,0.199,2020,high,medium,very high,medium,high,very low,medium
+Poland,6.186,1.169,1.31,0.868,0.558,0.161,0.063,2020,high,medium,high,high,high,medium,very low
+Colombia,6.163,0.932,1.334,0.81,0.527,0.046,0.092,2020,high,medium,high,high,medium,low,very low
+Cyprus,6.159,1.213,1.149,1.026,0.459,0.051,0.228,2020,high,high,medium,very high,medium,low,high
+Nicaragua,6.137,0.62,1.271,0.803,0.56,0.174,0.213,2020,high,low,high,high,high,high,high
+Romania,6.124,1.12,1.194,0.792,0.535,0.001,0.068,2020,high,medium,medium,medium,medium,very low,very low
+Kuwait,6.102,1.425,1.245,0.776,0.57,0.113,0.133,2020,high,high,high,medium,high,medium,low
+Mauritius,6.101,1.074,1.396,0.763,0.591,0.084,0.187,2020,high,medium,high,medium,high,low,medium
+Kazakhstan,6.058,1.123,1.453,0.699,0.497,0.11,0.154,2020,high,medium,very high,medium,medium,medium,low
+Estonia,6.022,1.192,1.453,0.843,0.577,0.202,0.125,2020,high,medium,very high,high,high,very high,low
+Philippines,6.006,0.775,1.245,0.602,0.622,0.13,0.129,2020,high,low,high,medium,high,medium,low
+Hungary,6.0,1.164,1.423,0.807,0.386,0.028,0.07,2020,high,medium,very high,high,low,very low,very low
+Thailand,5.999,1.007,1.348,0.794,0.609,0.032,0.377,2020,medium,medium,high,medium,high,very low,very high
+Argentina,5.975,1.028,1.373,0.85,0.521,0.06,0.07,2020,medium,medium,high,high,medium,low,very low
+Honduras,5.953,0.599,1.187,0.792,0.568,0.087,0.257,2020,medium,low,medium,medium,high,low,high
+Latvia,5.95,1.141,1.414,0.778,0.329,0.09,0.075,2020,medium,medium,very high,medium,low,low,very low
+Ecuador,5.925,0.853,1.221,0.839,0.555,0.087,0.115,2020,medium,low,high,high,high,low,low
+Portugal,5.911,1.169,1.34,0.979,0.59,0.028,0.053,2020,medium,medium,high,high,high,very low,very low
+Jamaica,5.89,0.779,1.408,0.788,0.553,0.03,0.116,2020,medium,low,very high,medium,high,very low,low
+South Korea,5.872,1.245,1.134,1.023,0.259,0.095,0.17,2020,medium,high,medium,very high,very low,low,medium
+Japan,5.871,1.267,1.332,1.073,0.495,0.181,0.036,2020,medium,high,high,very high,medium,high,very low
+Peru,5.797,0.919,1.208,0.824,0.513,0.027,0.092,2020,medium,medium,high,high,medium,very low,very low
+Serbia,5.778,0.988,1.327,0.828,0.395,0.059,0.15,2020,medium,medium,high,high,low,low,low
+Bolivia,5.747,0.731,1.142,0.662,0.574,0.073,0.138,2020,medium,low,medium,medium,high,low,low
+Pakistan,5.693,0.617,0.873,0.47,0.405,0.123,0.229,2020,medium,low,low,low,low,medium,high
+Paraguay,5.692,0.898,1.368,0.736,0.587,0.065,0.204,2020,medium,low,high,medium,high,low,high
+Dominican Republic,5.689,0.983,1.329,0.742,0.563,0.116,0.112,2020,medium,medium,high,medium,high,medium,low
+Bosnia and Herzegovina,5.674,0.918,1.204,0.814,0.305,0.001,0.264,2020,medium,medium,high,high,low,very low,high
+Moldova,5.608,0.708,1.237,0.713,0.39,0.014,0.174,2020,medium,low,high,medium,low,very low,medium
+Tajikistan,5.556,0.475,1.218,0.681,0.521,0.222,0.182,2020,medium,very low,high,medium,medium,very high,medium
+Montenegro,5.546,1.01,1.266,0.839,0.303,0.098,0.149,2020,medium,medium,high,high,low,low,low
+Russia,5.546,1.127,1.379,0.68,0.399,0.046,0.099,2020,medium,medium,high,medium,low,low,very low
+Kyrgyzstan,5.542,0.513,1.341,0.681,0.615,0.03,0.301,2020,medium,low,high,medium,high,very low,very high
+Belarus,5.54,1.019,1.387,0.753,0.291,0.194,0.09,2020,medium,medium,high,medium,very low,high,very low
+North Cyprus,5.536,1.213,1.183,1.026,0.478,0.2,0.199,2020,medium,high,medium,very high,medium,very high,medium
+Greece,5.515,1.128,1.169,0.979,0.174,0.049,0.0,2020,medium,medium,medium,high,very low,low,very low
+Hong Kong S.A.R. of China,5.51,1.377,1.244,1.137,0.459,0.332,0.288,2020,medium,high,high,very high,medium,very high,high
+Croatia,5.505,1.109,1.311,0.901,0.381,0.012,0.114,2020,medium,medium,high,high,low,very low,low
+Libya,5.489,1.022,1.196,0.616,0.451,0.172,0.143,2020,medium,medium,medium,medium,medium,high,low
+Mongolia,5.456,0.905,1.459,0.616,0.356,0.047,0.264,2020,medium,medium,very high,medium,low,low,high
+Malaysia,5.384,1.168,1.174,0.789,0.597,0.062,0.275,2020,medium,medium,medium,medium,high,low,high
+Vietnam,5.353,0.718,1.253,0.819,0.651,0.09,0.136,2020,medium,low,high,high,high,low,low
+Indonesia,5.286,0.892,1.155,0.61,0.568,0.038,0.543,2020,medium,low,medium,medium,high,very low,very high
+Ivory Coast,5.233,0.537,0.8,0.155,0.397,0.093,0.17,2020,medium,low,low,very low,low,low,medium
+Benin,5.216,0.366,0.352,0.328,0.406,0.126,0.197,2020,medium,very low,very low,very low,low,medium,medium
+Maldives,5.198,0.938,1.402,0.914,0.548,0.072,0.224,2020,medium,medium,very high,high,medium,low,high
+Congo (Brazzaville),5.194,0.634,0.758,0.458,0.387,0.119,0.117,2020,medium,low,low,low,low,medium,low
+Azerbaijan,5.165,0.99,1.181,0.731,0.468,0.247,0.04,2020,medium,medium,medium,medium,medium,very high,very low
+Macedonia,5.16,0.935,1.183,0.803,0.41,0.025,0.186,2020,medium,medium,medium,high,low,very low,medium
+Ghana,5.148,0.576,0.966,0.432,0.477,0.057,0.261,2020,medium,low,low,low,medium,low,high
+Nepal,5.137,0.444,1.101,0.669,0.481,0.128,0.301,2020,medium,very low,medium,medium,medium,medium,very high
+Turkey,5.132,1.127,1.197,0.781,0.254,0.121,0.086,2020,medium,medium,medium,medium,very low,medium,very low
+China,5.124,0.991,1.132,0.867,0.602,0.117,0.079,2020,medium,medium,medium,high,high,medium,very low
+Turkmenistan,5.119,1.009,1.51,0.612,0.515,0.034,0.323,2020,medium,medium,very high,medium,medium,very low,very high
+Bulgaria,5.102,1.047,1.461,0.778,0.418,0.0,0.104,2020,medium,medium,very high,medium,low,very low,low
+Morocco,5.095,0.759,0.645,0.745,0.45,0.077,0.04,2020,medium,low,very low,medium,medium,low,very low
+Cameroon,5.085,0.504,0.9,0.27,0.439,0.054,0.198,2020,medium,low,low,very low,low,low,medium
+Venezuela,5.053,0.77,1.349,0.767,0.272,0.064,0.087,2020,medium,low,high,medium,very low,low,very low
+Algeria,5.005,0.944,1.143,0.745,0.084,0.129,0.119,2020,medium,medium,medium,medium,very low,medium,low
+Senegal,4.981,0.504,0.955,0.518,0.352,0.082,0.164,2020,low,low,low,low,low,low,low
+Guinea,4.949,0.39,0.751,0.334,0.372,0.112,0.249,2020,low,very low,low,very low,low,medium,high
+Niger,4.91,0.108,0.704,0.299,0.435,0.138,0.208,2020,low,very low,low,very low,low,medium,high
+Laos,4.889,0.715,0.987,0.486,0.612,0.194,0.273,2020,low,low,low,low,high,high,high
+Albania,4.883,0.907,0.83,0.846,0.462,0.025,0.171,2020,low,medium,low,high,medium,very low,medium
+Cambodia,4.848,0.545,1.071,0.588,0.675,0.073,0.233,2020,low,low,medium,low,high,low,high
+Bangladesh,4.833,0.556,0.869,0.695,0.604,0.177,0.177,2020,low,low,low,medium,high,high,medium
+Gabon,4.829,0.988,1.106,0.523,0.369,0.056,0.052,2020,low,medium,medium,low,low,low,very low
+South Africa,4.814,0.902,1.259,0.407,0.435,0.06,0.126,2020,low,medium,high,low,low,low,low
+Iraq,4.785,0.982,1.011,0.529,0.284,0.073,0.153,2020,low,medium,medium,low,very low,low,low
+Lebanon,4.772,0.889,1.192,0.789,0.186,0.022,0.159,2020,low,low,medium,medium,very low,very low,low
+Burkina Faso,4.769,0.302,0.929,0.313,0.322,0.126,0.186,2020,low,very low,low,very low,low,medium,medium
+Gambia,4.751,0.257,0.883,0.353,0.403,0.158,0.426,2020,low,very low,low,very low,low,medium,very high
+Mali,4.729,0.352,0.973,0.235,0.378,0.062,0.17,2020,low,very low,low,very low,low,low,medium
+Nigeria,4.724,0.646,0.987,0.168,0.435,0.048,0.221,2020,low,low,low,very low,low,low,high
+Armenia,4.677,0.808,1.035,0.776,0.378,0.105,0.107,2020,low,low,medium,medium,low,medium,low
+Georgia,4.673,0.847,0.731,0.695,0.485,0.174,0.048,2020,low,low,low,medium,medium,high,very low
+Iran,4.672,1.029,0.886,0.749,0.301,0.143,0.277,2020,low,medium,low,medium,low,medium,high
+Jordan,4.633,0.785,1.14,0.778,0.425,0.152,0.091,2020,low,low,medium,medium,low,medium,very low
+Mozambique,4.624,0.179,0.955,0.324,0.561,0.163,0.22,2020,low,very low,low,very low,high,medium,high
+Kenya,4.583,0.476,0.905,0.536,0.519,0.067,0.394,2020,low,very low,low,low,medium,low,very high
+Namibia,4.571,0.84,1.246,0.407,0.445,0.054,0.076,2020,low,low,high,low,low,low,very low
+Ukraine,4.561,0.78,1.321,0.699,0.319,0.01,0.179,2020,low,low,high,medium,low,very low,medium
+Liberia,4.558,0.174,0.921,0.392,0.406,0.051,0.227,2020,low,very low,low,very low,low,low,high
+Palestinian Territories,4.553,0.588,1.195,0.614,0.299,0.072,0.092,2020,low,low,medium,medium,very low,low,very low
+Uganda,4.432,0.312,1.052,0.378,0.402,0.064,0.265,2020,low,very low,medium,very low,low,low,high
+Chad,4.423,0.302,0.739,0.109,0.229,0.086,0.211,2020,low,very low,low,very low,very low,low,high
+Tunisia,4.392,0.875,0.872,0.781,0.236,0.044,0.056,2020,low,low,low,medium,very low,very low,very low
+Mauritania,4.375,0.54,1.113,0.425,0.186,0.122,0.129,2020,low,low,medium,low,very low,medium,low
+Sri Lanka,4.327,0.898,1.195,0.792,0.529,0.049,0.253,2020,low,low,medium,medium,medium,low,high
+Congo (Kinshasa),4.311,0.062,0.833,0.277,0.365,0.081,0.254,2020,low,very low,low,very low,low,low,high
+Swaziland,4.308,0.828,1.065,0.216,0.3,0.147,0.067,2020,low,low,medium,very low,low,medium,very low
+Myanmar,4.308,0.678,1.098,0.495,0.597,0.188,0.57,2020,low,low,medium,low,high,high,very high
+Comoros,4.289,0.416,0.723,0.437,0.181,0.1,0.259,2020,low,very low,low,low,very low,medium,high
+Togo,4.187,0.268,0.548,0.343,0.304,0.115,0.201,2020,low,very low,very low,very low,low,medium,high
+Ethiopia,4.186,0.315,1.001,0.484,0.413,0.117,0.228,2020,low,very low,medium,low,low,medium,high
+Madagascar,4.166,0.245,0.824,0.501,0.193,0.076,0.191,2020,low,very low,low,low,very low,low,medium
+Egypt,4.151,0.875,0.983,0.597,0.374,0.095,0.069,2020,low,low,low,low,low,low,very low
+Sierra Leone,3.926,0.241,0.748,0.204,0.382,0.048,0.258,2020,very low,very low,low,very low,low,low,high
+Burundi,3.775,0.0,0.404,0.295,0.275,0.212,0.187,2020,very low,very low,very low,very low,very low,very high,medium
+Zambia,3.759,0.537,0.896,0.364,0.491,0.087,0.251,2020,very low,low,low,very low,medium,low,high
+Haiti,3.721,0.285,0.647,0.374,0.169,0.162,0.464,2020,very low,very low,very low,very low,very low,medium,very high
+Lesotho,3.653,0.455,1.089,0.101,0.409,0.05,0.103,2020,very low,very low,medium,very low,low,low,low
+India,3.573,0.731,0.644,0.541,0.581,0.106,0.237,2020,very low,low,very low,low,high,medium,high
+Malawi,3.538,0.177,0.53,0.446,0.487,0.132,0.213,2020,very low,very low,very low,low,medium,medium,high
+Yemen,3.527,0.393,1.177,0.415,0.244,0.087,0.095,2020,very low,very low,medium,low,very low,low,very low
+Botswana,3.479,0.998,1.086,0.494,0.509,0.102,0.033,2020,very low,medium,medium,low,medium,medium,very low
+Tanzania,3.476,0.457,0.873,0.443,0.509,0.204,0.272,2020,very low,very low,low,low,medium,very high,high
+Central African Republic,3.476,0.041,0.0,0.0,0.293,0.028,0.254,2020,very low,very low,very low,very low,very low,very low,high
+Rwanda,3.312,0.343,0.523,0.572,0.604,0.486,0.236,2020,very low,very low,very low,low,high,very high,high
+Zimbabwe,3.299,0.426,1.048,0.375,0.377,0.081,0.151,2020,very low,very low,medium,very low,low,low,low
+S. Sudan,2.817,0.289,0.553,0.209,0.066,0.111,0.21,2020,very low,very low,very low,very low,very low,medium,high
+Afghanistan,2.567,0.301,0.356,0.266,0.0,0.001,0.135,2020,very low,very low,very low,very low,very low,very low,low
+Finland,7.842,1.446,1.106,0.741,0.691,0.481,0.124,2021,very high,high,medium,medium,high,very high,low
+Denmark,7.62,1.502,1.108,0.763,0.686,0.485,0.208,2021,very high,high,medium,medium,high,very high,high
+Switzerland,7.571,1.566,1.079,0.816,0.653,0.413,0.204,2021,very high,high,medium,high,high,very high,high
+Iceland,7.554,1.482,1.172,0.772,0.698,0.17,0.293,2021,very high,high,medium,medium,high,high,high
+Netherlands,7.464,1.501,1.079,0.753,0.647,0.384,0.302,2021,very high,high,medium,medium,high,very high,very high
+Norway,7.392,1.543,1.108,0.782,0.703,0.427,0.249,2021,very high,high,medium,medium,very high,very high,high
+Sweden,7.363,1.478,1.062,0.763,0.685,0.448,0.244,2021,very high,high,medium,medium,high,very high,high
+Luxembourg,7.324,1.751,1.003,0.76,0.639,0.353,0.166,2021,very high,high,medium,medium,high,very high,low
+New Zealand,7.277,1.4,1.094,0.785,0.665,0.445,0.276,2021,very high,high,medium,medium,high,very high,high
+Austria,7.268,1.492,1.062,0.782,0.64,0.292,0.215,2021,very high,high,medium,medium,high,very high,high
+Australia,7.183,1.453,1.076,0.801,0.647,0.317,0.291,2021,very high,high,medium,high,high,very high,high
+Israel,7.157,1.376,1.074,0.788,0.509,0.119,0.208,2021,very high,high,medium,medium,medium,medium,high
+Germany,7.155,1.48,0.993,0.757,0.6,0.306,0.195,2021,very high,high,low,medium,high,very high,medium
+Canada,7.103,1.447,1.044,0.798,0.648,0.335,0.246,2021,very high,high,medium,medium,high,very high,high
+Ireland,7.085,1.644,1.092,0.753,0.606,0.367,0.238,2021,very high,high,medium,medium,high,very high,high
+Costa Rica,7.069,1.134,0.966,0.722,0.673,0.083,0.105,2021,very high,medium,low,medium,high,low,low
+United Kingdom,7.064,1.423,1.062,0.757,0.58,0.306,0.34,2021,very high,high,medium,medium,high,very high,very high
+Czech Republic,6.965,1.37,1.09,0.703,0.58,0.046,0.052,2021,high,high,medium,medium,high,low,very low
+United States of America,6.951,1.533,1.03,0.621,0.554,0.154,0.252,2021,high,high,medium,medium,high,medium,high
+Belgium,6.834,1.463,0.998,0.747,0.489,0.187,0.088,2021,high,high,low,medium,medium,high,very low
+France,6.69,1.421,1.081,0.804,0.536,0.235,0.092,2021,high,high,medium,high,medium,very high,very low
+Bahrain,6.647,1.409,0.899,0.662,0.661,0.139,0.246,2021,high,high,low,medium,high,medium,high
+Malta,6.602,1.411,1.055,0.747,0.664,0.183,0.275,2021,high,high,medium,medium,high,high,high
+Taiwan Province of China,6.584,1.48,0.982,0.665,0.49,0.139,0.142,2021,high,high,low,medium,medium,medium,low
+United Arab Emirates,6.561,1.555,0.86,0.594,0.67,0.223,0.236,2021,high,high,low,low,high,very high,high
+Saudi Arabia,6.494,1.435,0.964,0.571,0.603,0.163,0.09,2021,high,high,low,low,high,medium,very low
+Spain,6.491,1.375,1.057,0.826,0.462,0.124,0.135,2021,high,high,medium,high,medium,medium,low
+Italy,6.483,1.393,0.94,0.798,0.379,0.047,0.133,2021,high,high,low,medium,low,low,low
+Slovenia,6.461,1.36,1.093,0.722,0.69,0.085,0.122,2021,high,high,medium,medium,high,low,low
+Guatemala,6.435,0.845,0.79,0.519,0.638,0.105,0.163,2021,high,low,low,low,high,medium,low
+Uruguay,6.431,1.164,1.042,0.649,0.625,0.223,0.128,2021,high,medium,medium,medium,high,very high,low
+Singapore,6.377,1.695,1.019,0.897,0.664,0.547,0.176,2021,high,high,medium,high,high,very high,medium
+Kosovo,6.372,0.937,0.807,0.483,0.593,0.014,0.356,2021,high,medium,low,low,high,very low,very high
+Slovakia,6.331,1.304,1.066,0.653,0.468,0.018,0.107,2021,high,high,medium,medium,medium,very low,low
+Brazil,6.33,1.028,0.944,0.571,0.514,0.117,0.142,2021,high,medium,low,low,medium,medium,low
+Mexico,6.317,1.126,0.83,0.634,0.585,0.089,0.092,2021,high,medium,low,medium,high,low,very low
+Jamaica,6.309,0.891,0.932,0.599,0.618,0.035,0.099,2021,high,low,low,low,high,very low,very low
+Lithuania,6.255,1.35,1.065,0.612,0.476,0.073,0.056,2021,high,high,medium,medium,medium,low,very low
+Cyprus,6.223,1.377,0.765,0.801,0.464,0.061,0.178,2021,high,high,low,high,medium,low,medium
+Estonia,6.189,1.344,1.079,0.64,0.641,0.263,0.119,2021,high,high,medium,medium,high,very high,low
+Panama,6.18,1.298,0.976,0.667,0.596,0.053,0.079,2021,high,high,low,medium,high,low,very low
+Uzbekistan,6.179,0.769,1.027,0.528,0.716,0.271,0.391,2021,high,low,medium,low,very high,very high,very high
+Chile,6.172,1.2,0.946,0.678,0.438,0.07,0.159,2021,high,high,low,medium,low,low,low
+Poland,6.166,1.309,0.982,0.668,0.558,0.13,0.08,2021,high,high,low,medium,high,medium,very low
+Kazakhstan,6.152,1.23,1.103,0.527,0.573,0.132,0.143,2021,high,high,medium,low,high,medium,low
+Romania,6.14,1.275,0.832,0.595,0.564,0.001,0.045,2021,high,high,low,low,high,very low,very low
+Kuwait,6.106,1.461,0.857,0.58,0.591,0.13,0.12,2021,high,high,low,low,high,medium,low
+Serbia,6.078,1.101,0.924,0.634,0.482,0.066,0.189,2021,high,medium,low,medium,medium,low,medium
+El Salvador,6.061,0.845,0.675,0.565,0.615,0.16,0.116,2021,high,low,very low,low,high,medium,low
+Mauritius,6.049,1.178,0.996,0.574,0.59,0.096,0.153,2021,high,medium,low,low,high,low,low
+Latvia,6.032,1.285,1.047,0.587,0.405,0.089,0.082,2021,high,high,medium,low,low,low,very low
+Colombia,6.012,1.021,0.866,0.615,0.554,0.063,0.1,2021,high,medium,low,medium,high,low,low
+Hungary,5.992,1.301,1.083,0.615,0.454,0.04,0.067,2021,medium,high,medium,medium,medium,very low,very low
+Thailand,5.985,1.107,0.957,0.596,0.611,0.028,0.375,2021,medium,medium,low,low,high,very low,very high
+Nicaragua,5.972,0.693,0.904,0.604,0.553,0.176,0.201,2021,medium,low,low,medium,high,high,high
+Japan,5.94,1.389,0.949,0.838,0.504,0.192,0.02,2021,medium,high,low,high,medium,high,very low
+Argentina,5.929,1.162,0.98,0.646,0.544,0.067,0.069,2021,medium,medium,low,medium,medium,low,very low
+Portugal,5.929,1.323,0.939,0.76,0.621,0.033,0.029,2021,medium,high,low,medium,high,very low,very low
+Honduras,5.919,0.703,0.787,0.593,0.578,0.083,0.241,2021,medium,low,low,low,high,low,high
+Croatia,5.882,1.251,1.039,0.703,0.453,0.0,0.111,2021,medium,high,medium,medium,medium,very low,low
+Philippines,5.88,0.853,0.828,0.426,0.651,0.126,0.125,2021,medium,low,low,low,high,medium,low
+South Korea,5.845,1.403,0.758,0.801,0.353,0.135,0.134,2021,medium,high,low,high,low,medium,low
+Peru,5.84,0.986,0.833,0.623,0.536,0.031,0.087,2021,medium,medium,low,medium,medium,very low,very low
+Bosnia and Herzegovina,5.813,1.032,0.919,0.618,0.395,0.005,0.261,2021,medium,medium,low,medium,low,very low,high
+Moldova,5.766,0.985,0.888,0.542,0.536,0.013,0.137,2021,medium,medium,low,low,medium,very low,low
+Ecuador,5.764,0.935,0.806,0.64,0.56,0.062,0.107,2021,medium,medium,low,medium,high,low,low
+Kyrgyzstan,5.744,0.665,0.971,0.501,0.673,0.02,0.266,2021,medium,low,low,low,high,very low,high
+Greece,5.723,1.273,0.811,0.76,0.243,0.074,0.0,2021,medium,high,low,medium,very low,low,very low
+Bolivia,5.716,0.842,0.782,0.486,0.6,0.064,0.138,2021,medium,low,low,low,high,low,low
+Mongolia,5.677,0.966,1.065,0.442,0.397,0.053,0.263,2021,medium,medium,medium,low,low,low,high
+Paraguay,5.653,0.983,0.97,0.549,0.602,0.037,0.206,2021,medium,medium,low,low,high,very low,high
+Montenegro,5.581,1.155,0.891,0.637,0.397,0.081,0.166,2021,medium,medium,low,medium,low,low,low
+Dominican Republic,5.545,1.106,0.879,0.555,0.581,0.144,0.101,2021,medium,medium,low,low,high,medium,low
+North Cyprus,5.536,1.377,0.806,0.801,0.503,0.2,0.196,2021,medium,high,low,high,medium,very high,medium
+Belarus,5.534,1.124,1.007,0.56,0.326,0.199,0.07,2021,medium,medium,medium,low,low,high,very low
+Russia,5.477,1.241,0.992,0.511,0.409,0.06,0.115,2021,medium,high,low,low,low,low,low
+Hong Kong S.A.R. of China,5.477,1.525,0.841,0.893,0.408,0.342,0.232,2021,medium,high,low,high,low,very high,high
+Tajikistan,5.466,0.508,0.895,0.498,0.548,0.247,0.152,2021,medium,low,low,low,medium,very high,low
+Vietnam,5.411,0.817,0.873,0.616,0.679,0.091,0.124,2021,medium,low,low,medium,high,low,low
+Libya,5.41,1.044,0.821,0.435,0.474,0.174,0.131,2021,medium,medium,low,low,medium,high,low
+Malaysia,5.384,1.259,0.797,0.587,0.624,0.064,0.27,2021,medium,high,low,low,high,low,high
+Indonesia,5.345,0.954,0.786,0.433,0.598,0.046,0.541,2021,medium,medium,low,low,high,low,very high
+Congo (Brazzaville),5.342,0.518,0.392,0.307,0.381,0.124,0.144,2021,medium,low,very low,very low,low,medium,low
+China,5.339,1.061,0.785,0.665,0.636,0.117,0.093,2021,medium,medium,low,medium,high,medium,very low
+Ivory Coast,5.306,0.669,0.409,0.052,0.438,0.092,0.177,2021,medium,low,very low,very low,low,low,medium
+Armenia,5.283,0.996,0.758,0.585,0.54,0.198,0.079,2021,medium,medium,low,low,medium,high,very low
+Nepal,5.269,0.519,0.702,0.496,0.488,0.135,0.287,2021,medium,low,low,low,medium,medium,high
+Bulgaria,5.266,1.181,1.055,0.583,0.494,0.005,0.125,2021,medium,medium,medium,low,medium,very low,low
+Maldives,5.198,1.115,1.015,0.697,0.575,0.073,0.204,2021,medium,medium,medium,medium,high,low,high
+Azerbaijan,5.171,1.025,0.841,0.541,0.526,0.276,0.043,2021,medium,medium,low,low,medium,very high,very low
+Cameroon,5.142,0.543,0.556,0.159,0.425,0.058,0.205,2021,medium,low,very low,very low,low,low,high
+Senegal,5.132,0.518,0.558,0.357,0.381,0.088,0.158,2021,medium,low,very low,very low,low,low,low
+Albania,5.117,1.008,0.529,0.646,0.491,0.024,0.168,2021,medium,medium,very low,medium,medium,very low,low
+North Macedonia,5.101,1.068,0.772,0.535,0.45,0.022,0.212,2021,medium,medium,low,low,medium,very low,high
+Ghana,5.088,0.68,0.595,0.287,0.517,0.058,0.268,2021,medium,low,very low,very low,medium,low,high
+Niger,5.074,0.162,0.402,0.167,0.516,0.157,0.2,2021,medium,very low,very low,very low,medium,medium,high
+Turkmenistan,5.066,1.046,1.172,0.439,0.602,0.033,0.366,2021,medium,medium,medium,low,high,very low,very high
+Gambia,5.051,0.367,0.511,0.21,0.384,0.123,0.465,2021,medium,very low,very low,very low,low,medium,very high
+Benin,5.045,0.507,0.058,0.196,0.457,0.178,0.166,2021,medium,low,very low,very low,medium,high,low
+Laos,5.03,0.808,0.598,0.33,0.643,0.179,0.268,2021,medium,low,very low,very low,high,high,high
+Bangladesh,5.025,0.635,0.52,0.514,0.603,0.164,0.161,2021,medium,low,very low,low,high,medium,low
+Guinea,4.984,0.42,0.399,0.206,0.384,0.111,0.25,2021,low,very low,very low,very low,low,medium,high
+South Africa,4.956,0.967,0.895,0.265,0.447,0.051,0.144,2021,low,medium,low,very low,low,low,low
+Turkey,4.948,1.26,0.809,0.59,0.236,0.104,0.097,2021,low,high,low,low,very low,medium,very low
+Pakistan,4.934,0.637,0.423,0.322,0.418,0.097,0.252,2021,low,low,very low,very low,low,low,high
+Morocco,4.918,0.792,0.219,0.558,0.477,0.088,0.034,2021,low,low,very low,low,medium,low,very low
+Venezuela,4.892,0.852,0.897,0.574,0.284,0.072,0.078,2021,low,low,low,low,very low,low,very low
+Georgia,4.891,1.03,0.47,0.498,0.488,0.181,0.032,2021,low,medium,very low,low,medium,high,very low
+Algeria,4.887,0.946,0.765,0.552,0.119,0.12,0.144,2021,low,medium,low,low,very low,medium,low
+Ukraine,4.875,0.979,0.958,0.517,0.417,0.01,0.181,2021,low,medium,low,low,low,very low,medium
+Iraq,4.854,0.91,0.638,0.381,0.302,0.041,0.153,2021,low,medium,very low,very low,low,very low,low
+Gabon,4.852,1.037,0.707,0.362,0.424,0.064,0.058,2021,low,medium,low,very low,low,low,very low
+Burkina Faso,4.834,0.364,0.472,0.179,0.381,0.122,0.182,2021,low,very low,very low,very low,low,medium,medium
+Cambodia,4.83,0.603,0.68,0.426,0.702,0.061,0.21,2021,low,low,very low,low,very high,low,high
+Mozambique,4.794,0.183,0.634,0.196,0.608,0.163,0.228,2021,low,very low,very low,very low,high,medium,high
+Nigeria,4.759,0.663,0.625,0.051,0.433,0.039,0.212,2021,low,low,very low,very low,low,very low,high
+Mali,4.723,0.387,0.59,0.11,0.384,0.072,0.164,2021,low,very low,very low,very low,low,low,low
+Iran,4.721,1.03,0.557,0.561,0.275,0.144,0.33,2021,low,medium,very low,low,very low,medium,very high
+Uganda,4.636,0.364,0.718,0.24,0.398,0.054,0.267,2021,low,very low,low,very low,low,low,high
+Liberia,4.625,0.228,0.58,0.253,0.43,0.057,0.221,2021,low,very low,very low,very low,low,low,high
+Kenya,4.607,0.603,0.508,0.385,0.483,0.073,0.375,2021,low,low,very low,very low,medium,low,very high
+Tunisia,4.596,0.919,0.515,0.59,0.334,0.044,0.057,2021,low,medium,very low,low,low,very low,very low
+Lebanon,4.584,1.045,0.868,0.595,0.175,0.026,0.14,2021,low,medium,low,low,very low,very low,low
+Namibia,4.574,0.882,0.801,0.262,0.411,0.059,0.091,2021,low,low,low,very low,low,low,very low
+Palestinian Territories,4.517,0.646,0.819,0.434,0.33,0.075,0.082,2021,low,low,low,low,low,low,very low
+Myanmar,4.426,0.666,0.713,0.341,0.601,0.178,0.52,2021,low,low,low,very low,high,high,very high
+Jordan,4.395,0.89,0.685,0.583,0.455,0.15,0.079,2021,low,low,very low,low,medium,medium,very low
+Chad,4.355,0.255,0.353,0.0,0.24,0.084,0.215,2021,low,very low,very low,very low,very low,low,high
+Sri Lanka,4.325,0.99,0.82,0.593,0.559,0.049,0.239,2021,low,medium,low,low,high,low,high
+Swaziland,4.308,0.849,0.693,0.074,0.323,0.147,0.067,2021,low,low,very low,very low,low,medium,very low
+Comoros,4.289,0.488,0.367,0.279,0.202,0.101,0.241,2021,low,very low,very low,very low,very low,medium,high
+Egypt,4.283,0.954,0.647,0.426,0.446,0.092,0.069,2021,low,medium,very low,low,low,low,very low
+Ethiopia,4.275,0.37,0.679,0.331,0.451,0.114,0.241,2021,low,very low,very low,very low,medium,medium,high
+Mauritania,4.227,0.666,0.749,0.273,0.218,0.133,0.119,2021,low,low,low,very low,very low,medium,low
+Madagascar,4.208,0.266,0.503,0.341,0.207,0.087,0.185,2021,low,very low,very low,very low,very low,low,medium
+Togo,4.107,0.254,0.239,0.203,0.289,0.107,0.209,2021,low,very low,very low,very low,very low,medium,high
+Zambia,4.073,0.528,0.552,0.231,0.487,0.074,0.227,2021,low,low,very low,very low,medium,low,high
+Sierra Leone,3.849,0.279,0.377,0.1,0.408,0.047,0.243,2021,very low,very low,very low,very low,low,low,high
+India,3.819,0.741,0.316,0.383,0.622,0.106,0.246,2021,very low,low,very low,very low,high,medium,high
+Burundi,3.775,0.0,0.062,0.155,0.298,0.212,0.172,2021,very low,very low,very low,very low,very low,very high,medium
+Yemen,3.658,0.329,0.831,0.272,0.268,0.089,0.092,2021,very low,very low,low,very low,very low,low,very low
+Tanzania,3.623,0.433,0.54,0.3,0.549,0.231,0.307,2021,very low,very low,very low,very low,medium,very high,very high
+Haiti,3.615,0.294,0.173,0.227,0.257,0.139,0.463,2021,very low,very low,very low,very low,very low,medium,very high
+Malawi,3.6,0.113,0.168,0.298,0.484,0.134,0.213,2021,very low,very low,very low,very low,medium,medium,high
+Lesotho,3.512,0.451,0.731,0.007,0.405,0.015,0.103,2021,very low,very low,low,very low,low,very low,low
+Botswana,3.467,1.099,0.724,0.34,0.539,0.088,0.027,2021,very low,medium,low,very low,medium,low,very low
+Rwanda,3.415,0.364,0.202,0.407,0.627,0.493,0.227,2021,very low,very low,very low,low,high,very high,high
+Zimbabwe,3.145,0.457,0.649,0.243,0.359,0.075,0.157,2021,very low,very low,very low,very low,low,low,low
+Afghanistan,2.523,0.37,0.0,0.126,0.0,0.01,0.122,2021,very low,very low,very low,very low,very low,very low,low
+Finland,7.821,1.892,1.258,0.775,0.736,0.534,0.109,2022,very high,very high,high,medium,very high,very high,low
+Denmark,7.636,1.953,1.243,0.777,0.719,0.532,0.188,2022,very high,very high,high,medium,very high,very high,medium
+Iceland,7.557,1.936,1.32,0.803,0.718,0.191,0.27,2022,very high,very high,high,high,very high,high,high
+Switzerland,7.512,2.026,1.226,0.822,0.677,0.461,0.147,2022,very high,very high,high,high,high,very high,low
+Netherlands,7.415,1.945,1.206,0.787,0.651,0.419,0.271,2022,very high,very high,high,medium,high,very high,high
+Luxembourg,7.404,2.209,1.155,0.79,0.7,0.388,0.12,2022,very high,very high,medium,medium,very high,very high,low
+Sweden,7.384,1.92,1.204,0.803,0.724,0.512,0.218,2022,very high,very high,high,high,very high,very high,high
+Norway,7.365,1.997,1.239,0.786,0.728,0.474,0.217,2022,very high,very high,high,medium,very high,very high,high
+Israel,7.364,1.826,1.221,0.818,0.568,0.143,0.155,2022,very high,very high,high,high,high,medium,low
+New Zealand,7.2,1.852,1.235,0.752,0.68,0.483,0.245,2022,very high,very high,high,medium,high,very high,high
+Austria,7.163,1.931,1.165,0.774,0.623,0.329,0.193,2022,very high,very high,medium,medium,high,very high,medium
+Australia,7.162,1.9,1.203,0.772,0.676,0.341,0.258,2022,very high,very high,high,medium,high,very high,high
+Ireland,7.041,2.129,1.166,0.779,0.627,0.408,0.19,2022,very high,very high,medium,medium,high,very high,medium
+Germany,7.034,1.924,1.088,0.776,0.585,0.358,0.163,2022,very high,very high,medium,medium,high,very high,low
+Canada,7.025,1.886,1.188,0.783,0.659,0.368,0.217,2022,very high,very high,medium,medium,high,very high,high
+United States of America,6.977,1.982,1.182,0.628,0.574,0.177,0.22,2022,high,very high,medium,medium,high,high,high
+United Kingdom,6.943,1.867,1.143,0.75,0.597,0.329,0.289,2022,high,very high,medium,medium,high,very high,high
+Czechia,6.92,1.815,1.26,0.715,0.66,0.048,0.158,2022,high,very high,high,medium,high,low,low
+Belgium,6.805,1.907,1.106,0.764,0.492,0.204,0.049,2022,high,very high,medium,medium,medium,very high,very low
+France,6.687,1.863,1.219,0.808,0.567,0.266,0.07,2022,high,very high,high,high,high,very high,very low
+Bahrain,6.647,1.854,1.029,0.625,0.693,0.155,0.199,2022,high,very high,medium,medium,high,medium,medium
+Slovenia,6.63,1.81,1.249,0.769,0.685,0.115,0.118,2022,high,very high,high,medium,high,medium,low
+Costa Rica,6.582,1.584,1.054,0.744,0.661,0.102,0.089,2022,high,high,medium,medium,high,medium,very low
+United Arab Emirates,6.576,1.998,0.98,0.633,0.702,0.25,0.204,2022,high,very high,low,medium,very high,very high,high
+Saudi Arabia,6.523,1.87,1.092,0.577,0.651,0.18,0.078,2022,high,very high,medium,low,high,high,very low
+Taiwan Province of China,6.512,1.897,1.095,0.733,0.542,0.168,0.075,2022,high,very high,medium,medium,medium,high,very low
+Singapore,6.48,2.149,1.127,0.851,0.672,0.587,0.163,2022,high,very high,medium,high,high,very high,low
+Romania,6.477,1.719,1.006,0.655,0.605,0.006,0.039,2022,high,high,medium,medium,high,very low,very low
+Spain,6.476,1.808,1.211,0.808,0.505,0.149,0.101,2022,high,very high,high,high,medium,medium,low
+Uruguay,6.474,1.615,1.18,0.672,0.665,0.265,0.103,2022,high,high,medium,medium,high,very high,low
+Italy,6.467,1.834,1.052,0.801,0.412,0.059,0.085,2022,high,very high,medium,high,low,low,very low
+Kosovo,6.455,1.362,0.949,0.569,0.599,0.035,0.309,2022,high,high,low,low,high,very low,very high
+Malta,6.447,1.838,1.169,0.789,0.679,0.166,0.174,2022,high,very high,medium,medium,high,high,medium
+Lithuania,6.446,1.804,1.204,0.659,0.496,0.077,0.053,2022,high,very high,high,medium,medium,low,very low
+Slovakia,6.391,1.736,1.232,0.707,0.479,0.025,0.118,2022,high,high,high,medium,medium,very low,low
+Estonia,6.341,1.793,1.232,0.728,0.689,0.333,0.123,2022,high,high,high,medium,high,very high,low
+Panama,6.309,1.715,1.107,0.709,0.592,0.051,0.049,2022,high,high,medium,medium,high,low,very low
+Brazil,6.293,1.462,1.044,0.615,0.546,0.134,0.131,2022,high,high,medium,medium,medium,medium,low
+Guatemala,6.262,1.274,0.831,0.522,0.662,0.115,0.112,2022,high,high,low,low,high,medium,low
+Kazakhstan,6.234,1.668,1.22,0.611,0.584,0.157,0.134,2022,high,high,high,medium,high,medium,low
+Cyprus,6.221,1.815,0.909,0.819,0.448,0.062,0.123,2022,high,very high,low,high,low,low,low
+Latvia,6.18,1.732,1.221,0.637,0.502,0.09,0.075,2022,high,high,high,medium,medium,low,very low
+Serbia,6.178,1.55,1.086,0.658,0.546,0.088,0.219,2022,high,high,medium,medium,medium,low,high
+Chile,6.172,1.651,1.08,0.748,0.46,0.069,0.124,2022,high,high,medium,medium,medium,low,low
+Nicaragua,6.165,1.105,1.029,0.617,0.617,0.212,0.168,2022,high,medium,medium,medium,high,very high,low
+Mexico,6.128,1.552,0.886,0.623,0.621,0.115,0.092,2022,high,high,low,medium,high,medium,very low
+Croatia,6.125,1.705,1.183,0.709,0.535,0.0,0.109,2022,high,high,medium,medium,medium,very low,low
+Poland,6.123,1.758,1.174,0.712,0.523,0.14,0.124,2022,high,high,medium,medium,medium,medium,low
+El Salvador,6.12,1.265,0.768,0.607,0.666,0.212,0.089,2022,high,high,low,medium,high,very high,very low
+Kuwait,6.106,1.904,0.983,0.747,0.617,0.147,0.087,2022,high,very high,low,medium,high,medium,very low
+Hungary,6.086,1.748,1.233,0.668,0.485,0.064,0.078,2022,high,high,high,medium,medium,low,very low
+Mauritius,6.071,1.591,1.116,0.568,0.589,0.107,0.131,2022,high,high,medium,low,high,medium,low
+Uzbekistan,6.063,1.219,1.092,0.6,0.716,0.24,0.283,2022,high,high,medium,medium,very high,very high,high
+Japan,6.039,1.835,1.089,0.866,0.537,0.218,0.007,2022,high,very high,medium,high,medium,very high,very low
+Honduras,6.022,1.111,0.885,0.555,0.582,0.076,0.202,2022,high,medium,low,low,high,low,high
+Portugal,6.016,1.76,1.078,0.777,0.655,0.039,0.016,2022,high,high,medium,medium,high,very low,very low
+Argentina,5.967,1.592,1.102,0.662,0.555,0.085,0.081,2022,medium,high,medium,medium,high,low,very low
+Greece,5.948,1.703,0.98,0.774,0.249,0.108,0.015,2022,medium,high,low,medium,very low,medium,very low
+South Korea,5.935,1.851,0.886,0.841,0.414,0.176,0.111,2022,medium,very high,low,high,low,high,low
+Philippines,5.904,1.268,0.912,0.514,0.678,0.142,0.107,2022,medium,high,low,low,high,medium,low
+Thailand,5.891,1.535,1.096,0.697,0.617,0.026,0.321,2022,medium,high,medium,medium,high,very low,very high
+Moldova,5.857,1.417,1.008,0.597,0.561,0.028,0.102,2022,medium,high,medium,low,high,very low,low
+Jamaica,5.85,1.296,1.045,0.646,0.567,0.053,0.08,2022,medium,high,medium,medium,high,low,very low
+Kyrgyzstan,5.828,1.069,1.109,0.638,0.693,0.025,0.208,2022,medium,medium,medium,medium,high,very low,high
+Belarus,5.821,1.562,1.157,0.629,0.342,0.282,0.04,2022,medium,high,medium,medium,low,very high,very low
+Colombia,5.781,1.452,0.929,0.72,0.545,0.077,0.087,2022,medium,high,low,medium,medium,low,very low
+Bosnia and Herzegovina,5.768,1.468,1.068,0.665,0.448,0.006,0.244,2022,medium,high,medium,medium,low,very low,high
+Mongolia,5.761,1.393,1.197,0.467,0.398,0.059,0.247,2022,medium,high,medium,low,low,low,high
+Dominican Republic,5.737,1.538,1.003,0.577,0.606,0.179,0.084,2022,medium,high,medium,low,high,high,very low
+Malaysia,5.711,1.689,0.938,0.62,0.654,0.126,0.213,2022,medium,high,low,medium,high,medium,high
+Bolivia,5.6,1.256,0.88,0.555,0.627,0.064,0.112,2022,medium,high,low,low,high,low,low
+China,5.585,1.508,0.958,0.705,0.656,0.142,0.099,2022,medium,high,low,medium,high,medium,very low
+Paraguay,5.578,1.409,1.13,0.624,0.629,0.059,0.171,2022,medium,high,medium,medium,high,low,medium
+Peru,5.559,1.397,0.865,0.735,0.545,0.037,0.09,2022,medium,high,low,medium,medium,very low,very low
+Montenegro,5.547,1.573,1.023,0.659,0.46,0.077,0.135,2022,medium,high,medium,medium,medium,low,low
+Ecuador,5.533,1.352,0.879,0.708,0.565,0.083,0.08,2022,medium,high,low,medium,high,low,very low
+Vietnam,5.485,1.252,0.932,0.611,0.707,0.105,0.143,2022,medium,high,low,medium,very high,medium,low
+Turkmenistan,5.474,1.484,1.319,0.516,0.649,0.032,0.314,2022,medium,high,high,low,high,very low,very high
+North Cyprus,5.467,1.815,0.888,0.819,0.523,0.213,0.13,2022,medium,very high,low,high,medium,very high,low
+Russia,5.459,1.685,1.095,0.586,0.401,0.08,0.117,2022,medium,high,medium,low,low,low,low
+Hong Kong S.A.R. of China,5.425,1.957,0.954,0.942,0.4,0.383,0.147,2022,medium,very high,low,high,low,very high,low
+Armenia,5.399,1.434,0.82,0.668,0.558,0.21,0.054,2022,medium,high,low,medium,high,very high,very low
+Tajikistan,5.377,0.966,1.005,0.518,0.572,0.304,0.118,2022,medium,medium,medium,low,high,very high,low
+Nepal,5.377,0.984,0.784,0.499,0.519,0.13,0.237,2022,medium,medium,low,low,medium,medium,high
+Bulgaria,5.371,1.625,1.163,0.64,0.563,0.021,0.123,2022,medium,high,medium,medium,high,very low,low
+Libya,5.33,1.476,0.943,0.606,0.477,0.179,0.106,2022,medium,high,low,medium,medium,high,low
+Indonesia,5.24,1.382,0.883,0.539,0.62,0.047,0.468,2022,medium,high,low,low,high,low,very high
+Ivory Coast,5.235,1.094,0.442,0.322,0.451,0.124,0.149,2022,medium,medium,very low,very low,medium,medium,low
+North Macedonia,5.199,1.505,0.863,0.637,0.488,0.031,0.215,2022,medium,high,low,medium,medium,very low,high
+Albania,5.199,1.439,0.646,0.719,0.511,0.028,0.138,2022,medium,high,very low,medium,medium,very low,low
+South Africa,5.194,1.425,1.088,0.361,0.442,0.046,0.089,2022,medium,high,medium,very low,low,low,very low
+Azerbaijan,5.173,1.458,1.093,0.56,0.601,0.341,0.023,2022,medium,high,medium,low,high,very high,very low
+Gambia,5.164,0.785,0.621,0.369,0.367,0.103,0.388,2022,medium,low,very low,very low,low,medium,very high
+Bangladesh,5.155,1.06,0.614,0.581,0.622,0.187,0.125,2022,medium,medium,very low,low,high,high,low
+Laos,5.14,1.239,0.654,0.479,0.679,0.184,0.197,2022,medium,high,very low,low,high,high,medium
+Algeria,5.122,1.363,0.97,0.643,0.146,0.15,0.106,2022,medium,high,low,medium,very low,medium,low
+Liberia,5.122,0.636,0.67,0.309,0.405,0.08,0.178,2022,medium,low,very low,very low,low,low,medium
+Ukraine,5.084,1.411,1.081,0.583,0.473,0.017,0.188,2022,medium,high,medium,low,medium,very low,medium
+Congo,5.075,0.95,0.405,0.355,0.431,0.146,0.13,2022,medium,medium,very low,very low,low,medium,low
+Morocco,5.06,1.208,0.268,0.565,0.492,0.102,0.02,2022,medium,high,very low,low,medium,medium,very low
+Mozambique,5.048,0.578,0.66,0.191,0.593,0.2,0.185,2022,medium,low,very low,very low,high,very high,medium
+Cameroon,5.048,0.968,0.672,0.317,0.397,0.074,0.152,2022,medium,medium,very low,very low,low,low,low
+Senegal,5.046,0.933,0.53,0.447,0.494,0.081,0.143,2022,medium,medium,very low,low,medium,low,low
+Niger,5.003,0.57,0.56,0.326,0.571,0.145,0.165,2022,medium,low,very low,very low,high,medium,low
+Georgia,4.973,1.467,0.612,0.595,0.508,0.208,0.0,2022,low,high,very low,low,medium,very high,very low
+Gabon,4.958,1.459,0.738,0.396,0.343,0.099,0.032,2022,low,high,low,very low,low,low,very low
+Iraq,4.941,1.289,0.682,0.554,0.328,0.046,0.147,2022,low,high,very low,low,low,low,low
+Venezuela,4.925,0.0,0.968,0.578,0.283,0.082,0.225,2022,low,very low,low,low,very low,low,high
+Guinea,4.891,0.848,0.566,0.275,0.334,0.116,0.214,2022,low,low,very low,very low,low,medium,high
+Iran,4.888,1.41,0.741,0.642,0.281,0.146,0.241,2022,low,high,low,medium,very low,medium,high
+Ghana,4.872,1.112,0.595,0.409,0.5,0.056,0.23,2022,low,medium,very low,low,medium,low,high
+Turkey,4.744,1.707,0.865,0.702,0.209,0.115,0.087,2022,low,high,low,medium,very low,medium,very low
+Burkina Faso,4.67,0.779,0.565,0.32,0.382,0.126,0.186,2022,low,low,very low,very low,low,medium,medium
+Cambodia,4.64,1.019,0.732,0.505,0.74,0.068,0.166,2022,low,medium,low,low,very high,low,low
+Benin,4.623,0.932,0.064,0.335,0.479,0.23,0.127,2022,low,medium,very low,very low,medium,very high,low
+Comoros,4.609,0.899,0.476,0.424,0.185,0.125,0.195,2022,low,low,very low,low,very low,medium,medium
+Uganda,4.603,0.777,0.875,0.418,0.402,0.066,0.222,2022,low,low,low,low,low,low,high
+Nigeria,4.552,1.079,0.732,0.3,0.444,0.038,0.175,2022,low,medium,low,very low,low,very low,medium
+Kenya,4.543,1.032,0.605,0.401,0.44,0.082,0.322,2022,low,medium,very low,low,low,low,very high
+Tunisia,4.516,1.35,0.596,0.656,0.316,0.029,0.029,2022,low,high,very low,medium,low,very low,very low
+Pakistan,4.516,1.049,0.413,0.374,0.448,0.112,0.181,2022,low,medium,very low,very low,low,medium,medium
+Palestinian Territories,4.483,1.148,0.957,0.521,0.336,0.079,0.073,2022,low,medium,low,low,low,low,very low
+Mali,4.479,0.792,0.483,0.311,0.35,0.042,0.128,2022,low,low,very low,very low,low,very low,low
+Namibia,4.459,1.292,0.877,0.354,0.384,0.071,0.067,2022,low,high,low,very low,low,low,very low
+Eswatini,4.396,1.274,0.786,0.197,0.259,0.154,0.038,2022,low,high,low,very low,very low,medium,very low
+Myanmar,4.394,1.038,0.829,0.491,0.513,0.194,0.452,2022,low,medium,low,low,medium,high,very high
+Sri Lanka,4.362,1.415,0.934,0.66,0.529,0.079,0.15,2022,low,high,low,medium,medium,low,low
+Madagascar,4.339,0.67,0.645,0.378,0.202,0.154,0.143,2022,low,low,very low,very low,very low,medium,low
+Egypt,4.288,1.388,0.732,0.548,0.469,0.254,0.041,2022,low,high,low,low,medium,very high,very low
+Chad,4.251,0.662,0.506,0.225,0.18,0.077,0.182,2022,low,low,very low,very low,very low,low,medium
+Ethiopia,4.241,0.788,0.809,0.457,0.472,0.136,0.205,2022,low,low,low,low,medium,medium,high
+Yemen,4.197,0.691,1.043,0.384,0.33,0.098,0.09,2022,low,low,medium,very low,low,low,very low
+Mauritania,4.153,1.1,0.865,0.45,0.304,0.138,0.088,2022,low,medium,low,low,low,medium,very low
+Jordan,4.152,1.324,0.724,0.675,0.476,0.2,0.058,2022,low,high,low,medium,medium,very high,very low
+Togo,4.112,0.771,0.322,0.36,0.292,0.132,0.174,2022,low,low,very low,very low,very low,medium,medium
+India,3.777,1.167,0.376,0.471,0.647,0.123,0.198,2022,very low,medium,very low,low,high,medium,medium
+Zambia,3.76,0.93,0.577,0.306,0.525,0.083,0.203,2022,very low,medium,very low,very low,medium,low,high
+Malawi,3.75,0.648,0.279,0.388,0.477,0.157,0.14,2022,very low,low,very low,very low,medium,medium,low
+Tanzania,3.702,0.848,0.597,0.425,0.578,0.27,0.248,2022,very low,low,very low,low,high,very high,high
+Sierra Leone,3.574,0.686,0.416,0.273,0.387,0.055,0.202,2022,very low,low,very low,very low,low,low,high
+Lesotho,3.512,0.839,0.848,0.0,0.419,0.018,0.076,2022,very low,low,low,very low,low,very low,very low
+Botswana,3.471,1.503,0.815,0.28,0.571,0.102,0.012,2022,very low,high,low,very low,high,medium,very low
+Rwanda,3.268,0.785,0.133,0.462,0.621,0.544,0.187,2022,very low,low,very low,low,high,very high,medium
+Zimbabwe,2.995,0.947,0.69,0.27,0.329,0.105,0.106,2022,very low,medium,very low,very low,low,medium,low
+Lebanon,2.955,1.392,0.498,0.631,0.103,0.034,0.082,2022,very low,high,very low,medium,very low,very low,very low
+Afghanistan,2.404,0.758,0.0,0.289,0.0,0.005,0.089,2022,very low,low,very low,very low,very low,very low,very low
