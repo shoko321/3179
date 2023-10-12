@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    
+    <title>World Happiness</title>
+
+    <link rel = "stylesheet" type = "text/css" href = "style.css">
+
+    </head>
+
+<body>  
+    <div id = "overall_layout">
+        <div class = "background">
+            <h1>WORLD HAPPINESS</h1>
+            <p id = "subheader">From 2015 to 2022</p>
+        </div>
+        <p id= "bold">
+            The World Happiness Report assesses global happiness levels by considering factors like economic prosperity, 
+            social support, health, freedom of choice, trust, and generosity. A higher ranking in the report indicates greater 
+            overall happiness in a country. This report goes beyond material wealth, emphasizing the importance of mental well-being, 
+            social connections, and community resilience. 
+        </p>
+            <br>
+            <br>
+            <h2>GLOBAL HAPPINESS OVERVIEW</h2>
+            <p id= "description">
+                This map depicts the happiness score categories of countries worldwide. 
+                Over the years, <span id = "bold">North American, European, and Australian countries</span> consistently demonstrate a <span id = "dark_red">very high</span>
+                happiness score. In contrast, <span id = "bold">African, South Asian, and West Asian countries</span> consistently exhibit a 
+                <span id = "light_red">very low</span> happiness score.
+            </p>
+            <div id= "map">
+                <script type= "text/javascript">
+                    var vis1 = "a2_map.json";
+                    vegaEmbed('#map', vis1).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                    }).catch(console.error);
+                </script>
+            </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+            <h2>COMPARISON BETWEEN COUNTRIES</h2>
+            <p id= "description">
+                The radar charts below show a comparison between two selected countries. All attributes are scaled from 0 to 1. 
+                The selection represents 'Hapiness Ranking: Country Name'.
+            </p>
+            <div class = "row">
+                <div class = "column">
+                    <br>
+                    <div id= "radar_1">
+                        <script type= "text/javascript">
+                            var vis3 = "a2_radar1.json";
+                            vegaEmbed('#radar_1', vis3).then(function(result) {
+                                // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                            }).catch(console.error);
+                        </script>
+                    </div>
+                </div>
+                <div class = "column">
+                    <br>
+                    <div id= "radar_2">
+                        <script type= "text/javascript">
+                            var vis4 = "a2_radar2.json";
+                            vegaEmbed('#radar_2', vis4).then(function(result) {
+                                // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                            }).catch(console.error);
+                        </script>
+                    </div>
+                </div>
+                <div class = "column">
+                    <p id = radar_desc style="text-decoration: underline"> <span id = "bold">Factors</p>
+                    <p id = radar_desc> <span id = "dark_red">GDP per Capita</span>: The average income of a country's residents and serves as an indicator of their economic well-being. </p>
+                    <p id = radar_desc> <span id = "dark_red">Social Support</span>: It measures individuals' reliance on their social networks, friends, and family for assistance and emotional connections in society. </p>
+                    <p id = radar_desc> <span id = "dark_red">Health</span>: Health encompress the well-being and physical condition of a population, including life expectancy, healthcare access, and disease prevalence. </p>
+                    <p id = radar_desc> <span id = "dark_red">Freedom</span>: Freedom measures personal and political liberties, including expression, assembly, and choice in a society. </p>
+                    <p id = radar_desc> <span id = "dark_red">Government Trust</span>: Government trust reflects citizen confidence in government institutions, indicating transparency and accountability. </p>
+                    <p id = radar_desc> <span id = "dark_red">Generosity</span>: Generosity measures individuals' willingness to help and donate, reflecting social responsibility. </p>
+                </div>
+            </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+            <h2>TOP-N COUNTRIES</h2>
+            <p id= "description">
+                The bump chart illustrates the happiness rankings of the top n countries. Predominantly, <span id = "bold">European, Oceanian, and North American nations</span> 
+                are prominently featured within the top 20. This chart effectively captures the overall trend in happiness rankings.
+            </p>
+            <br>
+            <div id= "bump_chart">
+                <script type= "text/javascript">
+                    var vis5 = "a2_bump_chart.json";
+                    vegaEmbed('#bump_chart', vis5).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                    }).catch(console.error);
+                </script>
+            </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+            <h2>OVERALL CORRELAYION</h2>
+            <p id= "description">
+                The happiness score is determined by factors such as <span id = "bold">GDP per Capita, Social Support, Health, Freedom, Government Trust, 
+                and Generosity</span>. The chart below illustrates the correlation between each of these factors and the Happiness Score. 
+                In general, there is a <span id = "dark_red">positive correlation</span> between <span id = "bold">each of these attributes</span>. 
+                Specifically, <span id = "bold">the Happiness Score and all the factors</span> exhibit a <span id = "dark_red">clear and positive correlation</span>.
+            </p>
+            <div id= "correlation_chart">
+                <script type= "text/javascript">
+                    var vis2 = "a2_corr_chart.json";
+                    vegaEmbed('#correlation_chart', vis2).then(function(result) {
+                        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+                    }).catch(console.error);
+                </script>
+            </div>
+        <br>
+        <br>
+        <br>
+        <br>
