@@ -34,7 +34,7 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/shoko321/3179/main/ne_50m_graticules_30.json",
+          "url": "https://raw.githubusercontent.com/shoko321/3179/main/data_vis2/ne_50m_graticules_30.json",
           "format": {"type": "topojson", "feature": "ne_50m_graticules_30"}
         },
         "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
@@ -55,7 +55,7 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/shoko321/3179/main/world-happiness-report-for-map",
+          "url": "https://raw.githubusercontent.com/shoko321/3179/main/data_vis2/world-happiness-report-for-map",
           "format": {"type": "csv"}
         },
         "transform": [

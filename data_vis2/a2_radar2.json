@@ -313,7 +313,7 @@
   "data": [
     {
       "name": "table",
-      "url": "https://raw.githubusercontent.com/shoko321/3179/main/world-happiness-report-2022",
+      "url": "https://raw.githubusercontent.com/shoko321/3179/main/data_vis2/world-happiness-report-2022",
       "format": {"type": "csv", "delimiter": ","},
       "transform": [
         {

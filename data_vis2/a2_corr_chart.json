@@ -6,7 +6,7 @@
       "fontSize": 20
     },
     "data": {
-      "url": "https://raw.githubusercontent.com/shoko321/3179/main/world-happiness-report-renamed",
+      "url": "https://raw.githubusercontent.com/shoko321/3179/main/data_vis2/world-happiness-report-renamed",
       "format": {"type": "csv"}
     },
     "repeat": {
