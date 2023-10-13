@@ -1,24 +1,5 @@
-@font-face {
-    font-family: Nexa_bold;
-    src: url('path-to-your-font/Nexa-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-	font-family: Roboto;
-	src: url(Roboto-Regular.ttf);
-}
-
-@font-face {
-    font-family: Proxima_Nova; 
-    src: url('path-to-your-font/ProximaNova-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
 h1 {
-	font-family: Proxima_Nova;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	padding-top: 30px;
     font-size: 70px;
 	line-height: 0px;
@@ -27,9 +8,9 @@ h1 {
 }
 
 h2{
-	font-family: Proxima_Nova;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	display: inline;
-	font-size: 35px;
+	font-size: 40px;
 	padding-top: 70px;
 	padding-bottom:0px;
 	padding-left: 50px;
@@ -40,7 +21,7 @@ h2{
 
 p{
     font-size: 20px;
-	font-family: Proxima_Nova;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: justify;
 	padding-bottom: 5px;
 	padding-left: 50px;
@@ -49,13 +30,13 @@ p{
 }
 
 #overall_layout {
-	width: 1400px; 
+	width: 1260px; 
 	margin: 0 auto; 
 	overflow: hidden;
 }
 
 #subheader {
-	font-family: Proxima_Nova;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	line-height: 20px;
     font-size: 20px;
     text-align: center;
@@ -64,12 +45,12 @@ p{
 
 #bold {
 	font-weight: bold;
-	font-size: 20px;
-	}
+	font-size: 25px;
+}
 
 #description {
-	font-family: Proxima_Nova;
-	font-size: 20px;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-size: 25px;
 	padding-bottom: 0px;
 	padding-left: 50px;
 	margin-top: 10px;
@@ -78,32 +59,32 @@ p{
 }
 
 #dark_red {
-	color: #b30000;
+	color: #FB0081;
 	font-size: 22px;
 	font-weight: bold;
 }
 
 #light_red {
-	color: #fdbb84;
+	color: #FB97CA;
 	font-size: 22px;
 	font-weight: bold;
 }
 
 #map {
-	left: 60px;
+	left: 56px;
 }
 
 #correlation_chart {
-	padding-left: 50px;
+	padding-left: 35px;
 }
 
 #bump_chart {
-	padding-left: 200px;
+	padding-left: 100px;
 }
 
 .column {
 	float: left;
-	width: 33%;
+	width: 50%;
 }
 
 .row:after {
@@ -114,21 +95,21 @@ p{
 
 .background { 
 	height: 105px;
-	background-color: #38134b; 
+	background-color: #d568cf; 
 } 
 
 #radar_1{
-	left: 50px;
-}
-
-#radar_2{
 	left: 40px;
 }
 
+#radar_2{
+	left: 20px;
+}
+
 #radar_desc{
-	font-family: Proxima_Nova;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	font-size: 20px;
-	padding-bottom: 5px;
+	padding-bottom: 0px;
 	color:#38134b;
 }
 

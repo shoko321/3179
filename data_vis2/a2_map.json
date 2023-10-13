@@ -104,7 +104,7 @@
                 {"field": "Social Support category", "type": "nominal", "title": "Social Support"},
                 {"field": "Health category", "type": "nominal", "title": "Health"},
                 {"field": "Freedom category", "type": "nominal", "title": "Freedom"},
-                {"field": "Government Trust category", "type": "nominal", "title": "Government Trusttr"},
+                {"field": "Government Trust category", "type": "nominal", "title": "Government Trust"},
                 {"field": "Generosity category", "type": "nominal", "title": "Generosity"}
               ],
               "stroke": {
