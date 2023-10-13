@@ -96,8 +96,8 @@
                 "type": "ordinal",
                 "scale": {
                   "type": "linear",
-                  "domain": ["very Low", "low", "medium", "high", "very high"],
-                  "range": ["#fdd49e", "#fdbb84", "#fc8d59", "#e34a33", "#b30000"]
+                  "domain": ["very high", "high", "medium", "low", "very low"],
+                  "range": ["#FB0081", "#FB3299", "#FB64B2", "#FB97CA", "#FBC9E3"]
                 },
                 "legend": {
                   "titleFont": "Roboto",
@@ -141,7 +141,7 @@
               "font": "Roboto"
             },
             "encoding": {
-              "text": {"value": "Australia"},
+              "text": {"value": "Oceanina"},
               "color": {"value": "black"}
             }
           },
