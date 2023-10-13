@@ -2,7 +2,6 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
       "text": "Correlation between each factor",
-      "font": "Roboto",
       "fontSize": 20
     },
     "data": {
@@ -47,8 +46,6 @@
               "type": "quantitative",
               "axis": {
                 "minExtent": 10,
-                "labelFont": "Roboto", 
-                "titleFont": "Roboto",
                 "titleFontSize": 14
               }
             },
@@ -57,15 +54,13 @@
               "type": "quantitative",
               "axis": {
                 "minExtent": 20,
-                "labelFont": "Roboto",
-                "titleFont": "Roboto",
                 "titleFontSize": 14
               }
             },
-            "color": {"value": "orange"}, 
+            "color": {"value": "#FB7EBE"}, 
             "opacity": {
               "condition": {"param": "brush", "value": 0.2},
-              "value": 0.005
+              "value": 0.2
             }
           }
         },

@@ -20,7 +20,6 @@
         }
       }
     ],
-    
     "layer": [
       {
         "data": {
@@ -71,7 +70,6 @@
         ],
   
         "layer": [
-
           {
             "params": [
               {
@@ -84,7 +82,6 @@
                 }
               }
             ],
-            
             "mark": {"type": "geoshape"},
             "encoding": {
               "shape": {"field": "geo", "type": "geojson"},
@@ -118,8 +115,11 @@
                 }
               },
               "strokeWidth": {
-                "condition": {"param": "highlight", "empty": false, "value": 1.5},
-                "value": 0
+                "condition": {
+                  "param": "highlight", 
+                  "empty": false, 
+                  "value": 1.5},
+                "value": 1.5
               }
             }
           },

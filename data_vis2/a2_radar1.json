@@ -3,6 +3,7 @@
     "width": 500,
     "height": 500,
     "autosize": "none",
+    "padding":{"top": 23, "bottom": 30, "left": 75, "right": 35},
     "signals": [
       {"name": "radius", "update": "width / 2"},
       {
@@ -318,7 +319,7 @@
         "transform": [
           {
             "type": "filter",
-            "expr": "country_select == null || datum.Country == country_select"
+            "expr": "datum.Country == country_select"
           }
         ]
       },
@@ -385,7 +386,7 @@
                 "stroke": {"scale": "color", "field": "Country"},
                 "strokeWidth": {"value": 1},
                 "fill": {"scale": "color", "field": "Country"},
-                "fillOpacity": {"value": 0.1}
+                "fillOpacity": {"value": 0.4}
               }
             }
           },
@@ -395,14 +396,13 @@
             "from": {"data": "category-line"},
             "encode": {
               "enter": {
-                "x": {"signal": "datum.x + (datum.x - 20 < 0 ? 10 : -10)"},
-                "y": {"signal": "datum.y + (datum.y - 20 < 0 ? 15 : -15)"},
+                "x": {"signal": "datum.x"},
+                "y": {"signal": "datum.y"},
                 "text": {"signal": "format(datum.datum.Value, '.3f')"},
                 "align": {"value": "center"},
                 "baseline": {"value": "middle"},
                 "fill": {"value": "black"},
-                "fontSize": {"value": 12},
-                "font": {"value": "Roboto"}
+                "fontSize": {"value": 13}
               }
             }
           }
@@ -416,27 +416,25 @@
         "zindex": 1,
         "encode": {
           "enter": {
-            "x": {"signal": "(radius+1) * cos(scale('angular', datum.Key))"},
-            "y": {"signal": "(radius+1) * sin(scale('angular', datum.Key))"},
+            "x": {"signal": "(radius+7) * cos(scale('angular', datum.Key))"},
+            "y": {"signal": "(radius+7) * sin(scale('angular', datum.Key))"},
             "text": {"field": "Key"},
             "align": [
               {
                 "test": "abs(scale('angular', datum.Key)) > PI / 2",
-                "value": "left",
+                "value": "right",
                 "padding": 20
               },
-              {"value": "center"}
+              {"value": "left"}
             ],
             "baseline": [
-              {"test": "scale('angular', datum.Key) > 0", "value": "bottom"},
-              {"test": "scale('angular', datum.Key) == 0", "value": "top"},
-              {"value": "top"}
+              {"test": "scale('angular', datum.Key) > 0", "value": "top"},
+              {"test": "scale('angular', datum.Key) == 0", "value": "middle"},
+              {"value": "bottom"}
             ],
             "fill": {"value": "black"},
             "fontWeight": {"value": "bold"},
-            "fontSize": {"value": 12},
-            "font": {"value": "Roboto"},
-            "dx": {"value": -20}
+            "fontSize": {"value": 14}
           }
         }
       },
@@ -470,7 +468,5 @@
           }
         }
       }
-    ],
-    "opacity": {"value": 0.5},
-    "config": {"text": {"font": "Roboto"}}
+    ]
   }
