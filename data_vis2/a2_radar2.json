@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 500,
-  "height": 500,
+  "width": 470,
+  "height": 470,
   "autosize": "none",
-  "padding":{"top": 23, "bottom": 30, "left": 75, "right": 35},
+  "padding":{"top": 23, "bottom": 30, "left": 85, "right": 35},
   "signals": [
     {"name": "radius", "update": "width / 2"},
     {
