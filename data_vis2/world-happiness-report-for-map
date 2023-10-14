@@ -1,4 +1,4 @@
-Country,Happiness Score,GDP per Capita,Social Support,Health,Freedom,Government Trust,Generosity,Year,Happiness Score Category,GDP per Capita category,Social Support category,Health category,Freedom category,Government Trust category,Generosity category
+Country,Happiness Score,GDP per Capita,Social Support,Health,Freedom,Government Trust,Generosity,Year,Happiness,GDP per Capita category,Social Support category,Health category,Freedom category,Government Trust category,Generosity category
 Switzerland,7.587,1.397,1.35,0.941,0.666,0.42,0.297,2015,Very High,High,High,High,High,Very High,High
 Iceland,7.561,1.302,1.402,0.948,0.629,0.141,0.436,2015,Very High,High,Very High,High,High,Medium,Very High
 Denmark,7.527,1.325,1.361,0.875,0.649,0.484,0.341,2015,Very High,High,High,High,High,Very High,Very High

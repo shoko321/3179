@@ -86,7 +86,7 @@
             "encoding": {
               "shape": {"field": "geo", "type": "geojson"},
               "color": {
-                "field": "Happiness Score Category",
+                "field": "Happiness",
                 "type": "ordinal",
                 "scale": {
                   "type": "linear",
